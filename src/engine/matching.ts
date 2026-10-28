@@ -19,12 +19,14 @@ import type { ScoringContext } from '../types/matching.js'
 export const SCORING_CONFIG = {
   // Top-level component weights. Must sum to 1.
   weights: {
-    stat: 0.7, // dominant: base stats drive the match
+    stat: 0.65, // base stats drive positional fit
     typeAffinity: 0.1, // small type bonus on top
     // Physical fit is 0: Pokémon sizes are fictional (Wailord = 14.5m,
     // Flabébé = 0.1m) so body-size comparison to human athletes is noise.
     physicalFit: 0.0,
-    talentTier: 0.2, // legendary Pokémon → elite players; weak → backups
+    // Bumped to 0.25 now that talent is normalized within each position group
+    // (best DL = 1.0, not ranked 800th globally because defense ≠ fantasy points).
+    talentTier: 0.25,
   },
 
   // Per-position stat weights. Each set must sum to 1.0.
@@ -101,14 +103,28 @@ export function buildScoringContext(
   const bsts = pokemon.map(bst)
   const bstRange = { min: Math.min(...bsts), max: Math.max(...bsts) }
 
-  // --- Player rank range, excluding the sentinel value for missing ranks ---
-  const realRanks = players.map((p) => p.searchRank).filter((r) => r < 99999)
-  const playerRankRange = {
-    min: Math.min(...realRanks),
-    max: Math.max(...realRanks),
+  // --- Per-position talent scores ---
+  // Players are ranked within their own position group so that the best DL
+  // is treated as equally elite to the best QB. Using a global fantasy rank
+  // breaks this: defensive players score low in fantasy even when dominant
+  // in real football, causing weak Pokémon to attract mid-ranked WRs over
+  // the top DL/LB players who have higher (worse) global ranks.
+  const playerTalent: Record<string, number> = {}
+  const positionGroups = new Map<string, NFLPlayer[]>()
+  for (const p of players) {
+    if (!positionGroups.has(p.position)) positionGroups.set(p.position, [])
+    positionGroups.get(p.position)!.push(p)
+  }
+  for (const group of positionGroups.values()) {
+    group.sort((a, b) => a.searchRank - b.searchRank) // lower rank = better
+    group.forEach((p, idx) => {
+      // idx 0 → talent 1.0 (best in position), idx N-1 → talent 0.0 (worst)
+      playerTalent[p.playerId] =
+        group.length > 1 ? 1 - idx / (group.length - 1) : 1.0
+    })
   }
 
-  return { positionStats, bstRange, playerRankRange }
+  return { positionStats, bstRange, playerTalent }
 }
 
 // ---------------------------------------------------------------------------
@@ -164,23 +180,15 @@ export function fitScore(
   }
 
   // 4. TALENT TIER SCORE
-  // High-BST Pokémon should land with high-ranked (low searchRank) players.
-  // Normalize both to [0, 1] and penalize the gap between their talent tiers.
-  // normalizedBST: 0 = weakest, 1 = strongest
-  // playerTalent:  0 = worst rank, 1 = best rank (inverted searchRank)
-  const { bstRange, playerRankRange } = ctx
-  const normalizedBST = normalize(bst(mon), bstRange.min, bstRange.max)
+  // High-BST Pokémon should land with elite players; low-BST with backups.
+  // Player talent is pre-normalized within each position group (see buildScoringContext),
+  // so the best DL scores 1.0 and the best QB also scores 1.0 — global fantasy
+  // rank skew between positions is eliminated before we ever reach this step.
+  const normalizedBST = normalize(bst(mon), ctx.bstRange.min, ctx.bstRange.max)
+  const playerTal = ctx.playerTalent[player.playerId] ?? 0.5
 
-  const clampedRank = Math.min(player.searchRank, playerRankRange.max)
-  const normalizedRank = normalize(
-    clampedRank,
-    playerRankRange.min,
-    playerRankRange.max,
-  )
-  const playerTalent = 1 - normalizedRank // invert: low rank = high talent
-
-  // 1.0 when tiers match exactly; falls to 0.0 when maximally mismatched
-  const talentTierScore = 1 - Math.abs(normalizedBST - playerTalent)
+  // 1.0 when Pokémon tier matches player tier; 0.0 when maximally mismatched
+  const talentTierScore = 1 - Math.abs(normalizedBST - playerTal)
 
   return (
     weights.stat * statScore +

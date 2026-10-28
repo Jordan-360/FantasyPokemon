@@ -21,5 +21,8 @@ export interface ScoringContext {
     }
   >
   bstRange: { min: number; max: number }
-  playerRankRange: { min: number; max: number }
+  // Talent score per player, normalized within each position group (not globally).
+  // The best DL scores 1.0, the best QB scores 1.0 — cross-position fantasy rank
+  // skew (defense scores low in fantasy, offense scores high) is eliminated.
+  playerTalent: Record<string, number>
 }
