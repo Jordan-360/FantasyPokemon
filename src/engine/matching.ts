@@ -180,15 +180,24 @@ export function fitScore(
   }
 
   // 4. TALENT TIER SCORE
-  // High-BST Pokémon should land with elite players; low-BST with backups.
-  // Player talent is pre-normalized within each position group (see buildScoringContext),
-  // so the best DL scores 1.0 and the best QB also scores 1.0 — global fantasy
-  // rank skew between positions is eliminated before we ever reach this step.
+  // Uses a product (bstNorm × playerTalent) rather than a distance formula.
+  //
+  // Why product instead of |bst - talent|:
+  // The distance formula creates diagonal preferences — a mid-BST Pokémon
+  // (0.64) prefers the mid-ranked player (0.64) over Ja'Marr Chase (1.0)
+  // because |0.64 - 0.64| < |0.64 - 1.0|. Elite players then only attract
+  // the tiny handful of near-720-BST Pokémon, leaving Chase with whatever's
+  // left after those go to other positions.
+  //
+  // With the product, every Pokémon prefers elite players — Jolteon scores
+  // higher against Chase (0.64 × 1.0 = 0.64) than the 46th WR (0.64 × 0.64
+  // = 0.41). Competition for top slots is fierce; the best stat-fit Pokémon
+  // wins each one. The weakest Pokémon (BST ≈ 0) get zero talent contribution
+  // everywhere and get displaced until the ~19 weakest go unmatched.
   const normalizedBST = normalize(bst(mon), ctx.bstRange.min, ctx.bstRange.max)
   const playerTal = ctx.playerTalent[player.playerId] ?? 0.5
 
-  // 1.0 when Pokémon tier matches player tier; 0.0 when maximally mismatched
-  const talentTierScore = 1 - Math.abs(normalizedBST - playerTal)
+  const talentTierScore = normalizedBST * playerTal
 
   return (
     weights.stat * statScore +

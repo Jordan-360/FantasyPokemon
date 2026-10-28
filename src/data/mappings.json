@@ -1,0 +1,7022 @@
+[
+  {
+    "pokedexId": 249,
+    "formId": "lugia",
+    "pokemon": "Lugia",
+    "playerId": "12530",
+    "player": "Travis Hunter",
+    "position": "S",
+    "team": "JAX",
+    "fitScore": 0.668
+  },
+  {
+    "pokedexId": 150,
+    "formId": "mewtwo",
+    "pokemon": "Mewtwo",
+    "playerId": "11533",
+    "player": "Brandon Aubrey",
+    "position": "K",
+    "team": "DAL",
+    "fitScore": 0.6578
+  },
+  {
+    "pokedexId": 383,
+    "formId": "groudon",
+    "pokemon": "Groudon",
+    "playerId": "10880",
+    "player": "Jack Campbell",
+    "position": "LB",
+    "team": "DET",
+    "fitScore": 0.6493
+  },
+  {
+    "pokedexId": 716,
+    "formId": "xerneas",
+    "pokemon": "Xerneas",
+    "playerId": "8259",
+    "player": "Cameron Dicker",
+    "position": "K",
+    "team": "LAC",
+    "fitScore": 0.6411
+  },
+  {
+    "pokedexId": 384,
+    "formId": "rayquaza",
+    "pokemon": "Rayquaza",
+    "playerId": "7564",
+    "player": "Ja'Marr Chase",
+    "position": "WR",
+    "team": "CIN",
+    "fitScore": 0.6297
+  },
+  {
+    "pokedexId": 377,
+    "formId": "regirock",
+    "pokemon": "Regirock",
+    "playerId": "5991",
+    "player": "Maxx Crosby",
+    "position": "DL",
+    "team": "LV",
+    "fitScore": 0.6268
+  },
+  {
+    "pokedexId": 720,
+    "formId": "hoopa",
+    "pokemon": "Hoopa",
+    "playerId": "2747",
+    "player": "Jason Myers",
+    "position": "K",
+    "team": "SEA",
+    "fitScore": 0.6235
+  },
+  {
+    "pokedexId": 483,
+    "formId": "dialga",
+    "pokemon": "Dialga",
+    "playerId": "5816",
+    "player": "Nick Bosa",
+    "position": "DL",
+    "team": "SF",
+    "fitScore": 0.6202
+  },
+  {
+    "pokedexId": 250,
+    "formId": "ho-oh",
+    "pokemon": "Ho Oh",
+    "playerId": "7641",
+    "player": "Pat Surtain II",
+    "position": "CB",
+    "team": "DEN",
+    "fitScore": 0.618
+  },
+  {
+    "pokedexId": 717,
+    "formId": "yveltal",
+    "pokemon": "Yveltal",
+    "playerId": "9493",
+    "player": "Puka Nacua",
+    "position": "WR",
+    "team": "LAR",
+    "fitScore": 0.6146
+  },
+  {
+    "pokedexId": 386,
+    "formId": "deoxys",
+    "pokemon": "Deoxys",
+    "playerId": "3451",
+    "player": "Ka'imi Fairbairn",
+    "position": "K",
+    "team": "HOU",
+    "fitScore": 0.607
+  },
+  {
+    "pokedexId": 484,
+    "formId": "palkia",
+    "pokemon": "Palkia",
+    "playerId": "11604",
+    "player": "Brock Bowers",
+    "position": "TE",
+    "team": "LV",
+    "fitScore": 0.6068
+  },
+  {
+    "pokedexId": 380,
+    "formId": "latias",
+    "pokemon": "Latias",
+    "playerId": "8339",
+    "player": "Kyle Hamilton",
+    "position": "S",
+    "team": "BAL",
+    "fitScore": 0.5972
+  },
+  {
+    "pokedexId": 381,
+    "formId": "latios",
+    "pokemon": "Latios",
+    "playerId": "4984",
+    "player": "Josh Allen",
+    "position": "QB",
+    "team": "BUF",
+    "fitScore": 0.5927
+  },
+  {
+    "pokedexId": 464,
+    "formId": "rhyperior",
+    "pokemon": "Rhyperior",
+    "playerId": "2393",
+    "player": "Danielle Hunter",
+    "position": "DL",
+    "team": "HOU",
+    "fitScore": 0.5893
+  },
+  {
+    "pokedexId": 644,
+    "formId": "zekrom",
+    "pokemon": "Zekrom",
+    "playerId": "9488",
+    "player": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "team": "SEA",
+    "fitScore": 0.5878
+  },
+  {
+    "pokedexId": 376,
+    "formId": "metagross",
+    "pokemon": "Metagross",
+    "playerId": "5840",
+    "player": "Josh Hines-Allen",
+    "position": "DL",
+    "team": "JAX",
+    "fitScore": 0.5868
+  },
+  {
+    "pokedexId": 648,
+    "formId": "meloetta",
+    "pokemon": "Meloetta",
+    "playerId": "4881",
+    "player": "Lamar Jackson",
+    "position": "QB",
+    "team": "BAL",
+    "fitScore": 0.5854
+  },
+  {
+    "pokedexId": 445,
+    "formId": "garchomp",
+    "pokemon": "Garchomp",
+    "playerId": "9509",
+    "player": "Bijan Robinson",
+    "position": "RB",
+    "team": "ATL",
+    "fitScore": 0.5832
+  },
+  {
+    "pokedexId": 248,
+    "formId": "tyranitar",
+    "pokemon": "Tyranitar",
+    "playerId": "4135",
+    "player": "Trey Hendrickson",
+    "position": "DL",
+    "team": "BAL",
+    "fitScore": 0.5794
+  },
+  {
+    "pokedexId": 641,
+    "formId": "tornadus",
+    "pokemon": "Tornadus",
+    "playerId": "7547",
+    "player": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "DET",
+    "fitScore": 0.578
+  },
+  {
+    "pokedexId": 306,
+    "formId": "aggron",
+    "pokemon": "Aggron",
+    "playerId": "2227",
+    "player": "Aaron Donald",
+    "position": "DL",
+    "team": "LAR",
+    "fitScore": 0.5768
+  },
+  {
+    "pokedexId": 642,
+    "formId": "thundurus",
+    "pokemon": "Thundurus",
+    "playerId": "6786",
+    "player": "CeeDee Lamb",
+    "position": "WR",
+    "team": "DAL",
+    "fitScore": 0.5766
+  },
+  {
+    "pokedexId": 208,
+    "formId": "steelix",
+    "pokemon": "Steelix",
+    "playerId": "6125",
+    "player": "Jeffery Simmons",
+    "position": "DL",
+    "team": "TEN",
+    "fitScore": 0.5718
+  },
+  {
+    "pokedexId": 243,
+    "formId": "raikou",
+    "pokemon": "Raikou",
+    "playerId": "6794",
+    "player": "Justin Jefferson",
+    "position": "WR",
+    "team": "MIN",
+    "fitScore": 0.571
+  },
+  {
+    "pokedexId": 639,
+    "formId": "terrakion",
+    "pokemon": "Terrakion",
+    "playerId": "4960",
+    "player": "Roquan Smith",
+    "position": "LB",
+    "team": "BAL",
+    "fitScore": 0.5685
+  },
+  {
+    "pokedexId": 480,
+    "formId": "uxie",
+    "pokemon": "Uxie",
+    "playerId": "13376",
+    "player": "Caleb Downs",
+    "position": "S",
+    "team": "DAL",
+    "fitScore": 0.5661
+  },
+  {
+    "pokedexId": 645,
+    "formId": "landorus",
+    "pokemon": "Landorus",
+    "playerId": "12578",
+    "player": "Carson Schwesinger",
+    "position": "LB",
+    "team": "CLE",
+    "fitScore": 0.5653
+  },
+  {
+    "pokedexId": 289,
+    "formId": "slaking",
+    "pokemon": "Slaking",
+    "playerId": "9221",
+    "player": "Jahmyr Gibbs",
+    "position": "RB",
+    "team": "DET",
+    "fitScore": 0.5635
+  },
+  {
+    "pokedexId": 135,
+    "formId": "jolteon",
+    "pokemon": "Jolteon",
+    "playerId": "5859",
+    "player": "A.J. Brown",
+    "position": "WR",
+    "team": "NE",
+    "fitScore": 0.5632
+  },
+  {
+    "pokedexId": 382,
+    "formId": "kyogre",
+    "pokemon": "Kyogre",
+    "playerId": "8130",
+    "player": "Trey McBride",
+    "position": "TE",
+    "team": "ARI",
+    "fitScore": 0.5629
+  },
+  {
+    "pokedexId": 101,
+    "formId": "electrode",
+    "pokemon": "Electrode",
+    "playerId": "5341",
+    "player": "Taron Johnson",
+    "position": "CB",
+    "team": "LV",
+    "fitScore": 0.5619
+  },
+  {
+    "pokedexId": 491,
+    "formId": "darkrai",
+    "pokemon": "Darkrai",
+    "playerId": "4971",
+    "player": "Derwin James Jr.",
+    "position": "S",
+    "team": "LAC",
+    "fitScore": 0.5592
+  },
+  {
+    "pokedexId": 567,
+    "formId": "archeops",
+    "pokemon": "Archeops",
+    "playerId": "4070",
+    "player": "T.J. Watt",
+    "position": "LB",
+    "team": "PIT",
+    "fitScore": 0.5558
+  },
+  {
+    "pokedexId": 145,
+    "formId": "zapdos",
+    "pokemon": "Zapdos",
+    "playerId": "8112",
+    "player": "Drake London",
+    "position": "WR",
+    "team": "ATL",
+    "fitScore": 0.5554
+  },
+  {
+    "pokedexId": 638,
+    "formId": "cobalion",
+    "pokemon": "Cobalion",
+    "playerId": "12517",
+    "player": "Colston Loveland",
+    "position": "TE",
+    "team": "CHI",
+    "fitScore": 0.5523
+  },
+  {
+    "pokedexId": 482,
+    "formId": "azelf",
+    "pokemon": "Azelf",
+    "playerId": "11786",
+    "player": "Cam Little",
+    "position": "K",
+    "team": "JAX",
+    "fitScore": 0.5519
+  },
+  {
+    "pokedexId": 719,
+    "formId": "diancie",
+    "pokemon": "Diancie",
+    "playerId": "7627",
+    "player": "Greg Rousseau",
+    "position": "DL",
+    "team": "BUF",
+    "fitScore": 0.5514
+  },
+  {
+    "pokedexId": 493,
+    "formId": "arceus",
+    "pokemon": "Arceus",
+    "playerId": "6791",
+    "player": "C.J. Henderson",
+    "position": "CB",
+    "team": "ATL",
+    "fitScore": 0.5505
+  },
+  {
+    "pokedexId": 718,
+    "formId": "zygarde",
+    "pokemon": "Zygarde",
+    "playerId": "5041",
+    "player": "Fred Warner",
+    "position": "LB",
+    "team": "SF",
+    "fitScore": 0.5501
+  },
+  {
+    "pokedexId": 373,
+    "formId": "salamence",
+    "pokemon": "Salamence",
+    "playerId": "8137",
+    "player": "George Pickens",
+    "position": "WR",
+    "team": "DAL",
+    "fitScore": 0.5473
+  },
+  {
+    "pokedexId": 526,
+    "formId": "gigalith",
+    "pokemon": "Gigalith",
+    "playerId": "5912",
+    "player": "Carl Granderson",
+    "position": "DL",
+    "team": "NO",
+    "fitScore": 0.5461
+  },
+  {
+    "pokedexId": 169,
+    "formId": "crobat",
+    "pokemon": "Crobat",
+    "playerId": "7667",
+    "player": "Tyson Campbell",
+    "position": "CB",
+    "team": "CLE",
+    "fitScore": 0.5458
+  },
+  {
+    "pokedexId": 379,
+    "formId": "registeel",
+    "pokemon": "Registeel",
+    "playerId": "6124",
+    "player": "Montez Sweat",
+    "position": "DL",
+    "team": "CHI",
+    "fitScore": 0.5435
+  },
+  {
+    "pokedexId": 721,
+    "formId": "volcanion",
+    "pokemon": "Volcanion",
+    "playerId": "12518",
+    "player": "Tyler Warren",
+    "position": "TE",
+    "team": "IND",
+    "fitScore": 0.5426
+  },
+  {
+    "pokedexId": 715,
+    "formId": "noivern",
+    "pokemon": "Noivern",
+    "playerId": "7569",
+    "player": "Nico Collins",
+    "position": "WR",
+    "team": "HOU",
+    "fitScore": 0.5397
+  },
+  {
+    "pokedexId": 643,
+    "formId": "reshiram",
+    "pokemon": "Reshiram",
+    "playerId": "11539",
+    "player": "Jake Bates",
+    "position": "K",
+    "team": "DET",
+    "fitScore": 0.5383
+  },
+  {
+    "pokedexId": 91,
+    "formId": "cloyster",
+    "pokemon": "Cloyster",
+    "playerId": "10859",
+    "player": "Sam LaPorta",
+    "position": "TE",
+    "team": "DET",
+    "fitScore": 0.5376
+  },
+  {
+    "pokedexId": 486,
+    "formId": "regigigas",
+    "pokemon": "Regigigas",
+    "playerId": "13375",
+    "player": "Sonny Styles",
+    "position": "LB",
+    "team": "WAS",
+    "fitScore": 0.5374
+  },
+  {
+    "pokedexId": 251,
+    "formId": "celebi",
+    "pokemon": "Celebi",
+    "playerId": "8392",
+    "player": "Nick Cross",
+    "position": "S",
+    "team": "WAS",
+    "fitScore": 0.537
+  },
+  {
+    "pokedexId": 151,
+    "formId": "mew",
+    "pokemon": "Mew",
+    "playerId": "11564",
+    "player": "Drake Maye",
+    "position": "QB",
+    "team": "NE",
+    "fitScore": 0.5368
+  },
+  {
+    "pokedexId": 146,
+    "formId": "moltres",
+    "pokemon": "Moltres",
+    "playerId": "11632",
+    "player": "Malik Nabers",
+    "position": "WR",
+    "team": "NYG",
+    "fitScore": 0.5357
+  },
+  {
+    "pokedexId": 385,
+    "formId": "jirachi",
+    "pokemon": "Jirachi",
+    "playerId": "6782",
+    "player": "Chase Young",
+    "position": "DL",
+    "team": "NO",
+    "fitScore": 0.534
+  },
+  {
+    "pokedexId": 490,
+    "formId": "manaphy",
+    "pokemon": "Manaphy",
+    "playerId": "12506",
+    "player": "Harold Fannin Jr.",
+    "position": "TE",
+    "team": "CLE",
+    "fitScore": 0.5339
+  },
+  {
+    "pokedexId": 494,
+    "formId": "victini",
+    "pokemon": "Victini",
+    "playerId": "7136",
+    "player": "Kam Curl",
+    "position": "S",
+    "team": "LAR",
+    "fitScore": 0.5339
+  },
+  {
+    "pokedexId": 291,
+    "formId": "ninjask",
+    "pokemon": "Ninjask",
+    "playerId": "7669",
+    "player": "Paulson Adebo",
+    "position": "CB",
+    "team": "NYG",
+    "fitScore": 0.532
+  },
+  {
+    "pokedexId": 112,
+    "formId": "rhydon",
+    "pokemon": "Rhydon",
+    "playerId": "2311",
+    "player": "Leonard Williams",
+    "position": "DL",
+    "team": "SEA",
+    "fitScore": 0.531
+  },
+  {
+    "pokedexId": 65,
+    "formId": "alakazam",
+    "pokemon": "Alakazam",
+    "playerId": "6770",
+    "player": "Joe Burrow",
+    "position": "QB",
+    "team": "CIN",
+    "fitScore": 0.5308
+  },
+  {
+    "pokedexId": 142,
+    "formId": "aerodactyl",
+    "pokemon": "Aerodactyl",
+    "playerId": "6333",
+    "player": "Keisean Nixon",
+    "position": "CB",
+    "team": "GB",
+    "fitScore": 0.5291
+  },
+  {
+    "pokedexId": 488,
+    "formId": "cresselia",
+    "pokemon": "Cresselia",
+    "playerId": "12597",
+    "player": "Nick Emmanwori",
+    "position": "S",
+    "team": "SEA",
+    "fitScore": 0.5288
+  },
+  {
+    "pokedexId": 640,
+    "formId": "virizion",
+    "pokemon": "Virizion",
+    "playerId": "4034",
+    "player": "Christian McCaffrey",
+    "position": "RB",
+    "team": "SF",
+    "fitScore": 0.5277
+  },
+  {
+    "pokedexId": 144,
+    "formId": "articuno",
+    "pokemon": "Articuno",
+    "playerId": "7816",
+    "player": "Jason Pinnock",
+    "position": "CB",
+    "team": "NYG",
+    "fitScore": 0.5256
+  },
+  {
+    "pokedexId": 530,
+    "formId": "excadrill",
+    "pokemon": "Excadrill",
+    "playerId": "6813",
+    "player": "Jonathan Taylor",
+    "position": "RB",
+    "team": "IND",
+    "fitScore": 0.5249
+  },
+  {
+    "pokedexId": 196,
+    "formId": "espeon",
+    "pokemon": "Espeon",
+    "playerId": "11560",
+    "player": "Caleb Williams",
+    "position": "QB",
+    "team": "CHI",
+    "fitScore": 0.524
+  },
+  {
+    "pokedexId": 487,
+    "formId": "giratina",
+    "pokemon": "Giratina",
+    "playerId": "6118",
+    "player": "Quinnen Williams",
+    "position": "DL",
+    "team": "DAL",
+    "fitScore": 0.5231
+  },
+  {
+    "pokedexId": 485,
+    "formId": "heatran",
+    "pokemon": "Heatran",
+    "playerId": "5847",
+    "player": "Dexter Lawrence II",
+    "position": "DL",
+    "team": "CIN",
+    "fitScore": 0.521
+  },
+  {
+    "pokedexId": 473,
+    "formId": "mamoswine",
+    "pokemon": "Mamoswine",
+    "playerId": "8138",
+    "player": "James Cook III",
+    "position": "RB",
+    "team": "BUF",
+    "fitScore": 0.5194
+  },
+  {
+    "pokedexId": 534,
+    "formId": "conkeldurr",
+    "pokemon": "Conkeldurr",
+    "playerId": "5871",
+    "player": "Zach Allen",
+    "position": "DL",
+    "team": "DEN",
+    "fitScore": 0.5181
+  },
+  {
+    "pokedexId": 481,
+    "formId": "mesprit",
+    "pokemon": "Mesprit",
+    "playerId": "12711",
+    "player": "Tyler Loop",
+    "position": "K",
+    "team": "BAL",
+    "fitScore": 0.517
+  },
+  {
+    "pokedexId": 652,
+    "formId": "chesnaught",
+    "pokemon": "Chesnaught",
+    "playerId": "6900",
+    "player": "Jonathan Greenard",
+    "position": "DL",
+    "team": "PHI",
+    "fitScore": 0.5164
+  },
+  {
+    "pokedexId": 697,
+    "formId": "tyrantrum",
+    "pokemon": "Tyrantrum",
+    "playerId": "4999",
+    "player": "Josh Sweat",
+    "position": "DL",
+    "team": "ARI",
+    "fitScore": 0.5145
+  },
+  {
+    "pokedexId": 6,
+    "formId": "charizard",
+    "pokemon": "Charizard",
+    "playerId": "10229",
+    "player": "Rashee Rice",
+    "position": "WR",
+    "team": "KC",
+    "fitScore": 0.5138
+  },
+  {
+    "pokedexId": 635,
+    "formId": "hydreigon",
+    "pokemon": "Hydreigon",
+    "playerId": "10949",
+    "player": "Chamarri Conner",
+    "position": "S",
+    "team": "KC",
+    "fitScore": 0.5124
+  },
+  {
+    "pokedexId": 76,
+    "formId": "golem",
+    "pokemon": "Golem",
+    "playerId": "11663",
+    "player": "Chop Robinson",
+    "position": "DL",
+    "team": "MIA",
+    "fitScore": 0.5118
+  },
+  {
+    "pokedexId": 649,
+    "formId": "genesect",
+    "pokemon": "Genesect",
+    "playerId": "843",
+    "player": "Cameron Heyward",
+    "position": "DL",
+    "team": "PIT",
+    "fitScore": 0.5098
+  },
+  {
+    "pokedexId": 655,
+    "formId": "delphox",
+    "pokemon": "Delphox",
+    "playerId": "11566",
+    "player": "Jayden Daniels",
+    "position": "QB",
+    "team": "WAS",
+    "fitScore": 0.5079
+  },
+  {
+    "pokedexId": 663,
+    "formId": "talonflame",
+    "pokemon": "Talonflame",
+    "playerId": "11935",
+    "player": "A.J. Woods",
+    "position": "CB",
+    "team": "BUF",
+    "fitScore": 0.5069
+  },
+  {
+    "pokedexId": 472,
+    "formId": "gliscor",
+    "pokemon": "Gliscor",
+    "playerId": "6949",
+    "player": "Jordyn Brooks",
+    "position": "LB",
+    "team": "MIA",
+    "fitScore": 0.5044
+  },
+  {
+    "pokedexId": 671,
+    "formId": "florges",
+    "pokemon": "Florges",
+    "playerId": "1945",
+    "player": "Chris Boswell",
+    "position": "K",
+    "team": "PIT",
+    "fitScore": 0.5043
+  },
+  {
+    "pokedexId": 695,
+    "formId": "heliolisk",
+    "pokemon": "Heliolisk",
+    "playerId": "8144",
+    "player": "Chris Olave",
+    "position": "WR",
+    "team": "NO",
+    "fitScore": 0.504
+  },
+  {
+    "pokedexId": 553,
+    "formId": "krookodile",
+    "pokemon": "Krookodile",
+    "playerId": "3198",
+    "player": "Derrick Henry",
+    "position": "RB",
+    "team": "BAL",
+    "fitScore": 0.5032
+  },
+  {
+    "pokedexId": 469,
+    "formId": "yanmega",
+    "pokemon": "Yanmega",
+    "playerId": "7525",
+    "player": "DeVonta Smith",
+    "position": "WR",
+    "team": "PHI",
+    "fitScore": 0.5028
+  },
+  {
+    "pokedexId": 282,
+    "formId": "gardevoir",
+    "pokemon": "Gardevoir",
+    "playerId": "6797",
+    "player": "Justin Herbert",
+    "position": "QB",
+    "team": "LAC",
+    "fitScore": 0.5015
+  },
+  {
+    "pokedexId": 99,
+    "formId": "kingler",
+    "pokemon": "Kingler",
+    "playerId": "9484",
+    "player": "Tucker Kraft",
+    "position": "TE",
+    "team": "GB",
+    "fitScore": 0.5014
+  },
+  {
+    "pokedexId": 461,
+    "formId": "weavile",
+    "pokemon": "Weavile",
+    "playerId": "11678",
+    "player": "Cooper DeJean",
+    "position": "S",
+    "team": "PHI",
+    "fitScore": 0.501
+  },
+  {
+    "pokedexId": 620,
+    "formId": "mienshao",
+    "pokemon": "Mienshao",
+    "playerId": "6815",
+    "player": "Zack Baun",
+    "position": "LB",
+    "team": "PHI",
+    "fitScore": 0.5009
+  },
+  {
+    "pokedexId": 647,
+    "formId": "keldeo",
+    "pokemon": "Keldeo",
+    "playerId": "4866",
+    "player": "Saquon Barkley",
+    "position": "RB",
+    "team": "PHI",
+    "fitScore": 0.4999
+  },
+  {
+    "pokedexId": 149,
+    "formId": "dragonite",
+    "pokemon": "Dragonite",
+    "playerId": "13172",
+    "player": "Keyon Martin",
+    "position": "CB",
+    "team": "BAL",
+    "fitScore": 0.4995
+  },
+  {
+    "pokedexId": 565,
+    "formId": "carracosta",
+    "pokemon": "Carracosta",
+    "playerId": "3172",
+    "player": "DeForest Buckner",
+    "position": "DL",
+    "team": "SF",
+    "fitScore": 0.4988
+  },
+  {
+    "pokedexId": 130,
+    "formId": "gyarados",
+    "pokemon": "Gyarados",
+    "playerId": "7553",
+    "player": "Kyle Pitts Sr.",
+    "position": "TE",
+    "team": "ATL",
+    "fitScore": 0.498
+  },
+  {
+    "pokedexId": 392,
+    "formId": "infernape",
+    "pokemon": "Infernape",
+    "playerId": "8280",
+    "player": "Nik Bonitto",
+    "position": "LB",
+    "team": "DEN",
+    "fitScore": 0.4977
+  },
+  {
+    "pokedexId": 369,
+    "formId": "relicanth",
+    "pokemon": "Relicanth",
+    "playerId": "6784",
+    "player": "Derrick Brown",
+    "position": "DL",
+    "team": "CAR",
+    "fitScore": 0.4968
+  },
+  {
+    "pokedexId": 468,
+    "formId": "togekiss",
+    "pokemon": "Togekiss",
+    "playerId": "11635",
+    "player": "Ladd McConkey",
+    "position": "WR",
+    "team": "LAC",
+    "fitScore": 0.4951
+  },
+  {
+    "pokedexId": 245,
+    "formId": "suicune",
+    "pokemon": "Suicune",
+    "playerId": "4217",
+    "player": "George Kittle",
+    "position": "TE",
+    "team": "SF",
+    "fitScore": 0.4911
+  },
+  {
+    "pokedexId": 103,
+    "formId": "exeggutor",
+    "pokemon": "Exeggutor",
+    "playerId": "4227",
+    "player": "Harrison Butker",
+    "position": "K",
+    "team": "KC",
+    "fitScore": 0.4904
+  },
+  {
+    "pokedexId": 409,
+    "formId": "rampardos",
+    "pokemon": "Rampardos",
+    "playerId": "5332",
+    "player": "Foyesade Oluokun",
+    "position": "LB",
+    "team": "JAX",
+    "fitScore": 0.4902
+  },
+  {
+    "pokedexId": 646,
+    "formId": "kyurem",
+    "pokemon": "Kyurem",
+    "playerId": "12527",
+    "player": "Ashton Jeanty",
+    "position": "RB",
+    "team": "LV",
+    "fitScore": 0.49
+  },
+  {
+    "pokedexId": 121,
+    "formId": "starmie",
+    "pokemon": "Starmie",
+    "playerId": "13371",
+    "player": "Dillon Thieneman",
+    "position": "S",
+    "team": "CHI",
+    "fitScore": 0.4898
+  },
+  {
+    "pokedexId": 466,
+    "formId": "electivire",
+    "pokemon": "Electivire",
+    "playerId": "6801",
+    "player": "Tee Higgins",
+    "position": "WR",
+    "team": "CIN",
+    "fitScore": 0.4891
+  },
+  {
+    "pokedexId": 523,
+    "formId": "zebstrika",
+    "pokemon": "Zebstrika",
+    "playerId": "12526",
+    "player": "Tetairoa McMillan",
+    "position": "WR",
+    "team": "CAR",
+    "fitScore": 0.4873
+  },
+  {
+    "pokedexId": 500,
+    "formId": "emboar",
+    "pokemon": "Emboar",
+    "playerId": "12507",
+    "player": "Omarion Hampton",
+    "position": "RB",
+    "team": "LAC",
+    "fitScore": 0.4868
+  },
+  {
+    "pokedexId": 141,
+    "formId": "kabutops",
+    "pokemon": "Kabutops",
+    "playerId": "8267",
+    "player": "Nakobe Dean",
+    "position": "LB",
+    "team": "LV",
+    "fitScore": 0.486
+  },
+  {
+    "pokedexId": 310,
+    "formId": "manectric",
+    "pokemon": "Manectric",
+    "playerId": "8146",
+    "player": "Garrett Wilson",
+    "position": "WR",
+    "team": "NYJ",
+    "fitScore": 0.4859
+  },
+  {
+    "pokedexId": 680,
+    "formId": "doublade",
+    "pokemon": "Doublade",
+    "playerId": "10883",
+    "player": "Will McDonald IV",
+    "position": "DL",
+    "team": "NYJ",
+    "fitScore": 0.4857
+  },
+  {
+    "pokedexId": 701,
+    "formId": "hawlucha",
+    "pokemon": "Hawlucha",
+    "playerId": "5051",
+    "player": "Donte Jackson",
+    "position": "CB",
+    "team": "LAC",
+    "fitScore": 0.4855
+  },
+  {
+    "pokedexId": 589,
+    "formId": "escavalier",
+    "pokemon": "Escavalier",
+    "playerId": "7696",
+    "player": "Milton Williams",
+    "position": "DL",
+    "team": "NE",
+    "fitScore": 0.4844
+  },
+  {
+    "pokedexId": 197,
+    "formId": "umbreon",
+    "pokemon": "Umbreon",
+    "playerId": "4081",
+    "player": "Budda Baker",
+    "position": "S",
+    "team": "ARI",
+    "fitScore": 0.4829
+  },
+  {
+    "pokedexId": 189,
+    "formId": "jumpluff",
+    "pokemon": "Jumpluff",
+    "playerId": "7974",
+    "player": "Nick McCloud",
+    "position": "CB",
+    "team": "CHI",
+    "fitScore": 0.4827
+  },
+  {
+    "pokedexId": 160,
+    "formId": "feraligatr",
+    "pokemon": "Feraligatr",
+    "playerId": "10236",
+    "player": "Dalton Kincaid",
+    "position": "TE",
+    "team": "BUF",
+    "fitScore": 0.4821
+  },
+  {
+    "pokedexId": 214,
+    "formId": "heracross",
+    "pokemon": "Heracross",
+    "playerId": "7841",
+    "player": "Jamien Sherwood",
+    "position": "LB",
+    "team": "NYJ",
+    "fitScore": 0.4821
+  },
+  {
+    "pokedexId": 26,
+    "formId": "raichu",
+    "pokemon": "Raichu",
+    "playerId": "12514",
+    "player": "Emeka Egbuka",
+    "position": "WR",
+    "team": "TB",
+    "fitScore": 0.4812
+  },
+  {
+    "pokedexId": 213,
+    "formId": "shuckle",
+    "pokemon": "Shuckle",
+    "playerId": "3558",
+    "player": "Chris Jones",
+    "position": "DL",
+    "team": "KC",
+    "fitScore": 0.4807
+  },
+  {
+    "pokedexId": 257,
+    "formId": "blaziken",
+    "pokemon": "Blaziken",
+    "playerId": "7640",
+    "player": "Micah Parsons",
+    "position": "LB",
+    "team": "GB",
+    "fitScore": 0.4799
+  },
+  {
+    "pokedexId": 658,
+    "formId": "greninja",
+    "pokemon": "Greninja",
+    "playerId": "12591",
+    "player": "Xavier Watts",
+    "position": "S",
+    "team": "ATL",
+    "fitScore": 0.4797
+  },
+  {
+    "pokedexId": 125,
+    "formId": "electabuzz",
+    "pokemon": "Electabuzz",
+    "playerId": "9997",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "team": "BAL",
+    "fitScore": 0.4795
+  },
+  {
+    "pokedexId": 598,
+    "formId": "ferrothorn",
+    "pokemon": "Ferrothorn",
+    "playerId": "13458",
+    "player": "Derrick Moore",
+    "position": "DL",
+    "team": "DET",
+    "fitScore": 0.4781
+  },
+  {
+    "pokedexId": 330,
+    "formId": "flygon",
+    "pokemon": "Flygon",
+    "playerId": "7648",
+    "player": "Nick Bolton",
+    "position": "LB",
+    "team": "KC",
+    "fitScore": 0.478
+  },
+  {
+    "pokedexId": 596,
+    "formId": "galvantula",
+    "pokemon": "Galvantula",
+    "playerId": "12519",
+    "player": "Luther Burden III",
+    "position": "WR",
+    "team": "CHI",
+    "fitScore": 0.478
+  },
+  {
+    "pokedexId": 123,
+    "formId": "scyther",
+    "pokemon": "Scyther",
+    "playerId": "12730",
+    "player": "Micah Robinson",
+    "position": "CB",
+    "team": "TEN",
+    "fitScore": 0.476
+  },
+  {
+    "pokedexId": 475,
+    "formId": "gallade",
+    "pokemon": "Gallade",
+    "playerId": "11705",
+    "player": "Tykee Smith",
+    "position": "S",
+    "team": "TB",
+    "fitScore": 0.4752
+  },
+  {
+    "pokedexId": 205,
+    "formId": "forretress",
+    "pokemon": "Forretress",
+    "playerId": "5841",
+    "player": "Ed Oliver",
+    "position": "DL",
+    "team": "BUF",
+    "fitScore": 0.4749
+  },
+  {
+    "pokedexId": 230,
+    "formId": "kingdra",
+    "pokemon": "Kingdra",
+    "playerId": "12493",
+    "player": "Oronde Gadsden",
+    "position": "TE",
+    "team": "LAC",
+    "fitScore": 0.4747
+  },
+  {
+    "pokedexId": 277,
+    "formId": "swellow",
+    "pokemon": "Swellow",
+    "playerId": "7526",
+    "player": "Jaylen Waddle",
+    "position": "WR",
+    "team": "DEN",
+    "fitScore": 0.4739
+  },
+  {
+    "pokedexId": 558,
+    "formId": "crustle",
+    "pokemon": "Crustle",
+    "playerId": "5330",
+    "player": "Dorance Armstrong",
+    "position": "DL",
+    "team": "WAS",
+    "fitScore": 0.4736
+  },
+  {
+    "pokedexId": 448,
+    "formId": "lucario",
+    "pokemon": "Lucario",
+    "playerId": "13377",
+    "player": "Arvell Reese",
+    "position": "LB",
+    "team": "NYG",
+    "fitScore": 0.4732
+  },
+  {
+    "pokedexId": 561,
+    "formId": "sigilyph",
+    "pokemon": "Sigilyph",
+    "playerId": "4983",
+    "player": "DJ Moore",
+    "position": "WR",
+    "team": "BUF",
+    "fitScore": 0.472
+  },
+  {
+    "pokedexId": 411,
+    "formId": "bastiodon",
+    "pokemon": "Bastiodon",
+    "playerId": "6818",
+    "player": "Nnamdi Madubuike",
+    "position": "DL",
+    "team": "BAL",
+    "fitScore": 0.4718
+  },
+  {
+    "pokedexId": 122,
+    "formId": "mr-mime",
+    "pokemon": "Mr Mime",
+    "playerId": "13368",
+    "player": "Jermod McCoy",
+    "position": "S",
+    "team": "LV",
+    "fitScore": 0.4705
+  },
+  {
+    "pokedexId": 212,
+    "formId": "scizor",
+    "pokemon": "Scizor",
+    "playerId": "5297",
+    "player": "Zach Sieler",
+    "position": "DL",
+    "team": "MIA",
+    "fitScore": 0.4704
+  },
+  {
+    "pokedexId": 700,
+    "formId": "sylveon",
+    "pokemon": "Sylveon",
+    "playerId": "7839",
+    "player": "Evan McPherson",
+    "position": "K",
+    "team": "CIN",
+    "fitScore": 0.4695
+  },
+  {
+    "pokedexId": 689,
+    "formId": "barbaracle",
+    "pokemon": "Barbaracle",
+    "playerId": "1466",
+    "player": "Travis Kelce",
+    "position": "TE",
+    "team": "KC",
+    "fitScore": 0.4693
+  },
+  {
+    "pokedexId": 713,
+    "formId": "avalugg",
+    "pokemon": "Avalugg",
+    "playerId": "12427",
+    "player": "Dondrea Tillman",
+    "position": "DL",
+    "team": "DEN",
+    "fitScore": 0.469
+  },
+  {
+    "pokedexId": 232,
+    "formId": "donphan",
+    "pokemon": "Donphan",
+    "playerId": "10917",
+    "player": "Byron Young",
+    "position": "LB",
+    "team": "LAR",
+    "fitScore": 0.4682
+  },
+  {
+    "pokedexId": 297,
+    "formId": "hariyama",
+    "pokemon": "Hariyama",
+    "playerId": "3218",
+    "player": "A'Shawn Robinson",
+    "position": "DL",
+    "team": "TB",
+    "fitScore": 0.467
+  },
+  {
+    "pokedexId": 348,
+    "formId": "armaldo",
+    "pokemon": "Armaldo",
+    "playerId": "7018",
+    "player": "Malcolm Roach",
+    "position": "DL",
+    "team": "DEN",
+    "fitScore": 0.4651
+  },
+  {
+    "pokedexId": 450,
+    "formId": "hippowdon",
+    "pokemon": "Hippowdon",
+    "playerId": "8266",
+    "player": "Quay Walker",
+    "position": "LB",
+    "team": "LV",
+    "fitScore": 0.4641
+  },
+  {
+    "pokedexId": 260,
+    "formId": "swampert",
+    "pokemon": "Swampert",
+    "playerId": "8150",
+    "player": "Kyren Williams",
+    "position": "RB",
+    "team": "LAR",
+    "fitScore": 0.4639
+  },
+  {
+    "pokedexId": 226,
+    "formId": "mantine",
+    "pokemon": "Mantine",
+    "playerId": "10918",
+    "player": "Mekhi Blackmon",
+    "position": "CB",
+    "team": "CLE",
+    "fitScore": 0.4639
+  },
+  {
+    "pokedexId": 344,
+    "formId": "claydol",
+    "pokemon": "Claydol",
+    "playerId": "7659",
+    "player": "Tre'von Moehrig",
+    "position": "S",
+    "team": "CAR",
+    "fitScore": 0.4638
+  },
+  {
+    "pokedexId": 68,
+    "formId": "machamp",
+    "pokemon": "Machamp",
+    "playerId": "4976",
+    "player": "Daron Payne",
+    "position": "DL",
+    "team": "WAS",
+    "fitScore": 0.4624
+  },
+  {
+    "pokedexId": 606,
+    "formId": "beheeyem",
+    "pokemon": "Beheeyem",
+    "playerId": "12713",
+    "player": "Andy Borregales",
+    "position": "K",
+    "team": "NE",
+    "fitScore": 0.4608
+  },
+  {
+    "pokedexId": 378,
+    "formId": "regice",
+    "pokemon": "Regice",
+    "playerId": "3233",
+    "player": "Kevin Byard III",
+    "position": "S",
+    "team": "NE",
+    "fitScore": 0.4597
+  },
+  {
+    "pokedexId": 539,
+    "formId": "sawk",
+    "pokemon": "Sawk",
+    "playerId": "6183",
+    "player": "Andrew Van Ginkel",
+    "position": "LB",
+    "team": "MIN",
+    "fitScore": 0.4594
+  },
+  {
+    "pokedexId": 462,
+    "formId": "magnezone",
+    "pokemon": "Magnezone",
+    "playerId": "8148",
+    "player": "Jameson Williams",
+    "position": "WR",
+    "team": "DET",
+    "fitScore": 0.4589
+  },
+  {
+    "pokedexId": 124,
+    "formId": "jynx",
+    "pokemon": "Jynx",
+    "playerId": "3294",
+    "player": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL",
+    "fitScore": 0.4586
+  },
+  {
+    "pokedexId": 389,
+    "formId": "torterra",
+    "pokemon": "Torterra",
+    "playerId": "10914",
+    "player": "Daiyan Henley",
+    "position": "LB",
+    "team": "LAC",
+    "fitScore": 0.4575
+  },
+  {
+    "pokedexId": 601,
+    "formId": "klinklang",
+    "pokemon": "Klinklang",
+    "playerId": "13584",
+    "player": "Rayshaun Benny",
+    "position": "DL",
+    "team": "BAL",
+    "fitScore": 0.4561
+  },
+  {
+    "pokedexId": 34,
+    "formId": "nidoking",
+    "pokemon": "Nidoking",
+    "playerId": "9224",
+    "player": "Chase Brown",
+    "position": "RB",
+    "team": "CIN",
+    "fitScore": 0.4559
+  },
+  {
+    "pokedexId": 419,
+    "formId": "floatzel",
+    "pokemon": "Floatzel",
+    "playerId": "3214",
+    "player": "Hunter Henry",
+    "position": "TE",
+    "team": "NE",
+    "fitScore": 0.4551
+  },
+  {
+    "pokedexId": 675,
+    "formId": "pangoro",
+    "pokemon": "Pangoro",
+    "playerId": "5020",
+    "player": "B.J. Hill",
+    "position": "DL",
+    "team": "CIN",
+    "fitScore": 0.4538
+  },
+  {
+    "pokedexId": 537,
+    "formId": "seismitoad",
+    "pokemon": "Seismitoad",
+    "playerId": "13287",
+    "player": "Jeremiyah Love",
+    "position": "RB",
+    "team": "ARI",
+    "fitScore": 0.4528
+  },
+  {
+    "pokedexId": 476,
+    "formId": "probopass",
+    "pokemon": "Probopass",
+    "playerId": "6802",
+    "player": "A.J. Epenesa",
+    "position": "DL",
+    "team": "PHI",
+    "fitScore": 0.4515
+  },
+  {
+    "pokedexId": 85,
+    "formId": "dodrio",
+    "pokemon": "Dodrio",
+    "playerId": "6896",
+    "player": "Amik Robertson",
+    "position": "CB",
+    "team": "WAS",
+    "fitScore": 0.4513
+  },
+  {
+    "pokedexId": 178,
+    "formId": "xatu",
+    "pokemon": "Xatu",
+    "playerId": "5927",
+    "player": "Terry McLaurin",
+    "position": "WR",
+    "team": "WAS",
+    "fitScore": 0.451
+  },
+  {
+    "pokedexId": 454,
+    "formId": "toxicroak",
+    "pokemon": "Toxicroak",
+    "playerId": "8151",
+    "player": "Kenneth Walker III",
+    "position": "RB",
+    "team": "KC",
+    "fitScore": 0.4503
+  },
+  {
+    "pokedexId": 286,
+    "formId": "breloom",
+    "pokemon": "Breloom",
+    "playerId": "5022",
+    "player": "Dallas Goedert",
+    "position": "TE",
+    "team": "PHI",
+    "fitScore": 0.4501
+  },
+  {
+    "pokedexId": 625,
+    "formId": "bisharp",
+    "pokemon": "Bisharp",
+    "playerId": "12628",
+    "player": "Sai'vion Jones",
+    "position": "DL",
+    "team": "DEN",
+    "fitScore": 0.4501
+  },
+  {
+    "pokedexId": 538,
+    "formId": "throh",
+    "pokemon": "Throh",
+    "playerId": "13824",
+    "player": "Joshua Weru",
+    "position": "DL",
+    "team": "PHI",
+    "fitScore": 0.4484
+  },
+  {
+    "pokedexId": 334,
+    "formId": "altaria",
+    "pokemon": "Altaria",
+    "playerId": "13514",
+    "player": "Chandler Rivers",
+    "position": "CB",
+    "team": "BAL",
+    "fitScore": 0.4481
+  },
+  {
+    "pokedexId": 581,
+    "formId": "swanna",
+    "pokemon": "Swanna",
+    "playerId": "2216",
+    "player": "Mike Evans",
+    "position": "WR",
+    "team": "SF",
+    "fitScore": 0.4475
+  },
+  {
+    "pokedexId": 9,
+    "formId": "blastoise",
+    "pokemon": "Blastoise",
+    "playerId": "5012",
+    "player": "Mark Andrews",
+    "position": "TE",
+    "team": "BAL",
+    "fitScore": 0.4468
+  },
+  {
+    "pokedexId": 227,
+    "formId": "skarmory",
+    "pokemon": "Skarmory",
+    "playerId": "13547",
+    "player": "Skyler Gill-Howard",
+    "position": "DL",
+    "team": "DET",
+    "fitScore": 0.4461
+  },
+  {
+    "pokedexId": 18,
+    "formId": "pidgeot",
+    "pokemon": "Pidgeot",
+    "playerId": "11755",
+    "player": "Qwan'tez Stiggers",
+    "position": "CB",
+    "team": "NYJ",
+    "fitScore": 0.4459
+  },
+  {
+    "pokedexId": 579,
+    "formId": "reuniclus",
+    "pokemon": "Reuniclus",
+    "playerId": "11792",
+    "player": "Will Reichard",
+    "position": "K",
+    "team": "MIN",
+    "fitScore": 0.4449
+  },
+  {
+    "pokedexId": 62,
+    "formId": "poliwrath",
+    "pokemon": "Poliwrath",
+    "playerId": "14035",
+    "player": "Eric O'Neill",
+    "position": "DL",
+    "team": "DET",
+    "fitScore": 0.4442
+  },
+  {
+    "pokedexId": 630,
+    "formId": "mandibuzz",
+    "pokemon": "Mandibuzz",
+    "playerId": "11993",
+    "player": "Tyrek Funderburk",
+    "position": "CB",
+    "team": "DAL",
+    "fitScore": 0.4438
+  },
+  {
+    "pokedexId": 503,
+    "formId": "samurott",
+    "pokemon": "Samurott",
+    "playerId": "8110",
+    "player": "Jake Ferguson",
+    "position": "TE",
+    "team": "DAL",
+    "fitScore": 0.4432
+  },
+  {
+    "pokedexId": 528,
+    "formId": "swoobat",
+    "pokemon": "Swoobat",
+    "playerId": "13279",
+    "player": "Carnell Tate",
+    "position": "WR",
+    "team": "TEN",
+    "fitScore": 0.4431
+  },
+  {
+    "pokedexId": 326,
+    "formId": "grumpig",
+    "pokemon": "Grumpig",
+    "playerId": "7811",
+    "player": "Talanoa Hufanga",
+    "position": "S",
+    "team": "DEN",
+    "fitScore": 0.4423
+  },
+  {
+    "pokedexId": 576,
+    "formId": "gothitelle",
+    "pokemon": "Gothitelle",
+    "playerId": "4046",
+    "player": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC",
+    "fitScore": 0.4391
+  },
+  {
+    "pokedexId": 437,
+    "formId": "bronzong",
+    "pokemon": "Bronzong",
+    "playerId": "3220",
+    "player": "Jarran Reed",
+    "position": "DL",
+    "team": "SEA",
+    "fitScore": 0.4391
+  },
+  {
+    "pokedexId": 623,
+    "formId": "golurk",
+    "pokemon": "Golurk",
+    "playerId": "11742",
+    "player": "Cedric Gray",
+    "position": "LB",
+    "team": "TEN",
+    "fitScore": 0.4387
+  },
+  {
+    "pokedexId": 617,
+    "formId": "accelgor",
+    "pokemon": "Accelgor",
+    "playerId": "8167",
+    "player": "Christian Watson",
+    "position": "WR",
+    "team": "GB",
+    "fitScore": 0.4386
+  },
+  {
+    "pokedexId": 632,
+    "formId": "durant",
+    "pokemon": "Durant",
+    "playerId": "13686",
+    "player": "Aidan Hubbard",
+    "position": "DL",
+    "team": "SEA",
+    "fitScore": 0.4372
+  },
+  {
+    "pokedexId": 31,
+    "formId": "nidoqueen",
+    "pokemon": "Nidoqueen",
+    "playerId": "5850",
+    "player": "Josh Jacobs",
+    "position": "RB",
+    "team": "GB",
+    "fitScore": 0.4363
+  },
+  {
+    "pokedexId": 516,
+    "formId": "simipour",
+    "pokemon": "Simipour",
+    "playerId": "5001",
+    "player": "Dalton Schultz",
+    "position": "TE",
+    "team": "HOU",
+    "fitScore": 0.4352
+  },
+  {
+    "pokedexId": 706,
+    "formId": "goodra",
+    "pokemon": "Goodra",
+    "playerId": "12567",
+    "player": "Malaki Starks",
+    "position": "S",
+    "team": "BAL",
+    "fitScore": 0.4351
+  },
+  {
+    "pokedexId": 305,
+    "formId": "lairon",
+    "pokemon": "Lairon",
+    "playerId": "10952",
+    "player": "Colby Wooden",
+    "position": "DL",
+    "team": "NO",
+    "fitScore": 0.4349
+  },
+  {
+    "pokedexId": 398,
+    "formId": "staraptor",
+    "pokemon": "Staraptor",
+    "playerId": "5946",
+    "player": "Jamel Dean",
+    "position": "CB",
+    "team": "PIT",
+    "fitScore": 0.4346
+  },
+  {
+    "pokedexId": 106,
+    "formId": "hitmonlee",
+    "pokemon": "Hitmonlee",
+    "playerId": "7672",
+    "player": "Ernest Jones IV",
+    "position": "LB",
+    "team": "SEA",
+    "fitScore": 0.4343
+  },
+  {
+    "pokedexId": 430,
+    "formId": "honchkrow",
+    "pokemon": "Honchkrow",
+    "playerId": "11620",
+    "player": "Rome Odunze",
+    "position": "WR",
+    "team": "CHI",
+    "fitScore": 0.4329
+  },
+  {
+    "pokedexId": 97,
+    "formId": "hypno",
+    "pokemon": "Hypno",
+    "playerId": "7016",
+    "player": "Jeremy Chinn",
+    "position": "S",
+    "team": "LV",
+    "fitScore": 0.4322
+  },
+  {
+    "pokedexId": 82,
+    "formId": "magneton",
+    "pokemon": "Magneton",
+    "playerId": "9487",
+    "player": "Parker Washington",
+    "position": "WR",
+    "team": "JAX",
+    "fitScore": 0.4312
+  },
+  {
+    "pokedexId": 57,
+    "formId": "primeape",
+    "pokemon": "Primeape",
+    "playerId": "8155",
+    "player": "Breece Hall",
+    "position": "RB",
+    "team": "NYJ",
+    "fitScore": 0.431
+  },
+  {
+    "pokedexId": 699,
+    "formId": "aurorus",
+    "pokemon": "Aurorus",
+    "playerId": "7443",
+    "player": "Teair Tart",
+    "position": "DL",
+    "team": "LAC",
+    "fitScore": 0.4308
+  },
+  {
+    "pokedexId": 367,
+    "formId": "huntail",
+    "pokemon": "Huntail",
+    "playerId": "7002",
+    "player": "Juwan Johnson",
+    "position": "TE",
+    "team": "NO",
+    "fitScore": 0.4292
+  },
+  {
+    "pokedexId": 51,
+    "formId": "dugtrio",
+    "pokemon": "Dugtrio",
+    "playerId": "8329",
+    "player": "Devin Lloyd",
+    "position": "LB",
+    "team": "CAR",
+    "fitScore": 0.4292
+  },
+  {
+    "pokedexId": 560,
+    "formId": "scrafty",
+    "pokemon": "Scrafty",
+    "playerId": "3186",
+    "player": "Kenny Clark",
+    "position": "DL",
+    "team": "DAL",
+    "fitScore": 0.429
+  },
+  {
+    "pokedexId": 199,
+    "formId": "slowking",
+    "pokemon": "Slowking",
+    "playerId": "5189",
+    "player": "Eddy Pineiro",
+    "position": "K",
+    "team": "SF",
+    "fitScore": 0.4288
+  },
+  {
+    "pokedexId": 678,
+    "formId": "meowstic",
+    "pokemon": "Meowstic",
+    "playerId": "10891",
+    "player": "Devon Witherspoon",
+    "position": "S",
+    "team": "SEA",
+    "fitScore": 0.4283
+  },
+  {
+    "pokedexId": 479,
+    "formId": "rotom",
+    "pokemon": "Rotom",
+    "playerId": "5045",
+    "player": "Courtland Sutton",
+    "position": "WR",
+    "team": "DEN",
+    "fitScore": 0.428
+  },
+  {
+    "pokedexId": 28,
+    "formId": "sandslash",
+    "pokemon": "Sandslash",
+    "playerId": "5346",
+    "player": "Zaire Franklin",
+    "position": "LB",
+    "team": "GB",
+    "fitScore": 0.4261
+  },
+  {
+    "pokedexId": 426,
+    "formId": "drifblim",
+    "pokemon": "Drifblim",
+    "playerId": "5846",
+    "player": "DK Metcalf",
+    "position": "WR",
+    "team": "PIT",
+    "fitScore": 0.4254
+  },
+  {
+    "pokedexId": 703,
+    "formId": "carbink",
+    "pokemon": "Carbink",
+    "playerId": "10908",
+    "player": "BJ Ojulari",
+    "position": "DL",
+    "team": "JAX",
+    "fitScore": 0.4251
+  },
+  {
+    "pokedexId": 342,
+    "formId": "crawdaunt",
+    "pokemon": "Crawdaunt",
+    "playerId": "9480",
+    "player": "Brenton Strange",
+    "position": "TE",
+    "team": "JAX",
+    "fitScore": 0.4246
+  },
+  {
+    "pokedexId": 229,
+    "formId": "houndoom",
+    "pokemon": "Houndoom",
+    "playerId": "10905",
+    "player": "Brian Branch",
+    "position": "S",
+    "team": "DET",
+    "fitScore": 0.4242
+  },
+  {
+    "pokedexId": 702,
+    "formId": "dedenne",
+    "pokemon": "Dedenne",
+    "playerId": "11631",
+    "player": "Brian Thomas Jr.",
+    "position": "WR",
+    "team": "JAX",
+    "fitScore": 0.424
+  },
+  {
+    "pokedexId": 395,
+    "formId": "empoleon",
+    "pokemon": "Empoleon",
+    "playerId": "12696",
+    "player": "Aeneas Peebles",
+    "position": "DL",
+    "team": "BAL",
+    "fitScore": 0.4231
+  },
+  {
+    "pokedexId": 628,
+    "formId": "braviary",
+    "pokemon": "Braviary",
+    "playerId": "7682",
+    "player": "Elijah Molden",
+    "position": "CB",
+    "team": "LAC",
+    "fitScore": 0.4227
+  },
+  {
+    "pokedexId": 64,
+    "formId": "kadabra",
+    "pokemon": "Kadabra",
+    "playerId": "7523",
+    "player": "Trevor Lawrence",
+    "position": "QB",
+    "team": "JAX",
+    "fitScore": 0.4221
+  },
+  {
+    "pokedexId": 107,
+    "formId": "hitmonchan",
+    "pokemon": "Hitmonchan",
+    "playerId": "11667",
+    "player": "Dallas Turner",
+    "position": "LB",
+    "team": "MIN",
+    "fitScore": 0.4217
+  },
+  {
+    "pokedexId": 405,
+    "formId": "luxray",
+    "pokemon": "Luxray",
+    "playerId": "11628",
+    "player": "Marvin Harrison Jr.",
+    "position": "WR",
+    "team": "HOU",
+    "fitScore": 0.4215
+  },
+  {
+    "pokedexId": 417,
+    "formId": "pachirisu",
+    "pokemon": "Pachirisu",
+    "playerId": "13469",
+    "player": "Tacario Davis",
+    "position": "CB",
+    "team": "CIN",
+    "fitScore": 0.4206
+  },
+  {
+    "pokedexId": 681,
+    "formId": "aegislash",
+    "pokemon": "Aegislash",
+    "playerId": "12651",
+    "player": "Ty Robinson",
+    "position": "DL",
+    "team": "PHI",
+    "fitScore": 0.4202
+  },
+  {
+    "pokedexId": 215,
+    "formId": "sneasel",
+    "pokemon": "Sneasel",
+    "playerId": "6788",
+    "player": "Xavier McKinney",
+    "position": "S",
+    "team": "GB",
+    "fitScore": 0.4193
+  },
+  {
+    "pokedexId": 244,
+    "formId": "entei",
+    "pokemon": "Entei",
+    "playerId": "7588",
+    "player": "Javonte Williams",
+    "position": "RB",
+    "team": "DAL",
+    "fitScore": 0.4189
+  },
+  {
+    "pokedexId": 612,
+    "formId": "haxorus",
+    "pokemon": "Haxorus",
+    "playerId": "8659",
+    "player": "Nate Landman",
+    "position": "LB",
+    "team": "LAR",
+    "fitScore": 0.4183
+  },
+  {
+    "pokedexId": 587,
+    "formId": "emolga",
+    "pokemon": "Emolga",
+    "playerId": "10232",
+    "player": "Michael Wilson",
+    "position": "WR",
+    "team": "ARI",
+    "fitScore": 0.4181
+  },
+  {
+    "pokedexId": 139,
+    "formId": "omastar",
+    "pokemon": "Omastar",
+    "playerId": "3236",
+    "player": "Maliek Collins",
+    "position": "DL",
+    "team": "CLE",
+    "fitScore": 0.4176
+  },
+  {
+    "pokedexId": 615,
+    "formId": "cryogonal",
+    "pokemon": "Cryogonal",
+    "playerId": "4107",
+    "player": "Chidobe Awuzie",
+    "position": "CB",
+    "team": "BAL",
+    "fitScore": 0.4162
+  },
+  {
+    "pokedexId": 284,
+    "formId": "masquerain",
+    "pokemon": "Masquerain",
+    "playerId": "5947",
+    "player": "Jakobi Meyers",
+    "position": "WR",
+    "team": "JAX",
+    "fitScore": 0.4162
+  },
+  {
+    "pokedexId": 346,
+    "formId": "cradily",
+    "pokemon": "Cradily",
+    "playerId": "3322",
+    "player": "DJ Reader",
+    "position": "DL",
+    "team": "NYG",
+    "fitScore": 0.4162
+  },
+  {
+    "pokedexId": 319,
+    "formId": "sharpedo",
+    "pokemon": "Sharpedo",
+    "playerId": "8131",
+    "player": "Isaiah Likely",
+    "position": "TE",
+    "team": "NYG",
+    "fitScore": 0.4161
+  },
+  {
+    "pokedexId": 42,
+    "formId": "golbat",
+    "pokemon": "Golbat",
+    "playerId": "13977",
+    "player": "DeVonta Smith",
+    "position": "CB",
+    "team": "CAR",
+    "fitScore": 0.4146
+  },
+  {
+    "pokedexId": 237,
+    "formId": "hitmontop",
+    "pokemon": "Hitmontop",
+    "playerId": "13365",
+    "player": "Anthony Hill Jr.",
+    "position": "LB",
+    "team": "TEN",
+    "fitScore": 0.4137
+  },
+  {
+    "pokedexId": 637,
+    "formId": "volcarona",
+    "pokemon": "Volcarona",
+    "playerId": "4037",
+    "player": "Chris Godwin Jr.",
+    "position": "WR",
+    "team": "TB",
+    "fitScore": 0.4133
+  },
+  {
+    "pokedexId": 166,
+    "formId": "ledian",
+    "pokemon": "Ledian",
+    "playerId": "7680",
+    "player": "Ifeatu Melifonwu",
+    "position": "CB",
+    "team": "TB",
+    "fitScore": 0.4132
+  },
+  {
+    "pokedexId": 452,
+    "formId": "drapion",
+    "pokemon": "Drapion",
+    "playerId": "5017",
+    "player": "Jessie Bates III",
+    "position": "S",
+    "team": "ATL",
+    "fitScore": 0.4131
+  },
+  {
+    "pokedexId": 185,
+    "formId": "sudowoodo",
+    "pokemon": "Sudowoodo",
+    "playerId": "12879",
+    "player": "Chaz Chambliss",
+    "position": "DL",
+    "team": "MIN",
+    "fitScore": 0.4118
+  },
+  {
+    "pokedexId": 312,
+    "formId": "minun",
+    "pokemon": "Minun",
+    "playerId": "3160",
+    "player": "Jalen Ramsey",
+    "position": "CB",
+    "team": "PIT",
+    "fitScore": 0.4116
+  },
+  {
+    "pokedexId": 365,
+    "formId": "walrein",
+    "pokemon": "Walrein",
+    "playerId": "13330",
+    "player": "Kenyon Sadiq",
+    "position": "TE",
+    "team": "NYJ",
+    "fitScore": 0.4107
+  },
+  {
+    "pokedexId": 22,
+    "formId": "fearow",
+    "pokemon": "Fearow",
+    "playerId": "4129",
+    "player": "Jourdan Lewis",
+    "position": "CB",
+    "team": "JAX",
+    "fitScore": 0.4101
+  },
+  {
+    "pokedexId": 181,
+    "formId": "ampharos",
+    "pokemon": "Ampharos",
+    "playerId": "13294",
+    "player": "Makai Lemon",
+    "position": "WR",
+    "team": "PHI",
+    "fitScore": 0.4096
+  },
+  {
+    "pokedexId": 518,
+    "formId": "musharna",
+    "pokemon": "Musharna",
+    "playerId": "3678",
+    "player": "Wil Lutz",
+    "position": "K",
+    "team": "DEN",
+    "fitScore": 0.4094
+  },
+  {
+    "pokedexId": 521,
+    "formId": "unfezant",
+    "pokemon": "Unfezant",
+    "playerId": "9756",
+    "player": "Jordan Addison",
+    "position": "WR",
+    "team": "MIN",
+    "fitScore": 0.4084
+  },
+  {
+    "pokedexId": 338,
+    "formId": "solrock",
+    "pokemon": "Solrock",
+    "playerId": "6217",
+    "player": "Blake Cashman",
+    "position": "LB",
+    "team": "MIN",
+    "fitScore": 0.4076
+  },
+  {
+    "pokedexId": 571,
+    "formId": "zoroark",
+    "pokemon": "Zoroark",
+    "playerId": "11685",
+    "player": "Kamari Lassiter",
+    "position": "S",
+    "team": "HOU",
+    "fitScore": 0.4073
+  },
+  {
+    "pokedexId": 211,
+    "formId": "qwilfish",
+    "pokemon": "Qwilfish",
+    "playerId": "11603",
+    "player": "AJ Barner",
+    "position": "TE",
+    "team": "SEA",
+    "fitScore": 0.4071
+  },
+  {
+    "pokedexId": 441,
+    "formId": "chatot",
+    "pokemon": "Chatot",
+    "playerId": "9754",
+    "player": "Quentin Johnston",
+    "position": "WR",
+    "team": "LAC",
+    "fitScore": 0.4071
+  },
+  {
+    "pokedexId": 55,
+    "formId": "golduck",
+    "pokemon": "Golduck",
+    "playerId": "5844",
+    "player": "T.J. Hockenson",
+    "position": "TE",
+    "team": "MIN",
+    "fitScore": 0.4047
+  },
+  {
+    "pokedexId": 80,
+    "formId": "slowbro",
+    "pokemon": "Slowbro",
+    "playerId": "2020",
+    "player": "Cairo Santos",
+    "position": "K",
+    "team": "CHI",
+    "fitScore": 0.4043
+  },
+  {
+    "pokedexId": 311,
+    "formId": "plusle",
+    "pokemon": "Plusle",
+    "playerId": "2449",
+    "player": "Stefon Diggs",
+    "position": "WR",
+    "team": "WAS",
+    "fitScore": 0.4033
+  },
+  {
+    "pokedexId": 207,
+    "formId": "gligar",
+    "pokemon": "Gligar",
+    "playerId": "13363",
+    "player": "David Bailey",
+    "position": "LB",
+    "team": "NYJ",
+    "fitScore": 0.4021
+  },
+  {
+    "pokedexId": 337,
+    "formId": "lunatone",
+    "pokemon": "Lunatone",
+    "playerId": "11563",
+    "player": "Bo Nix",
+    "position": "QB",
+    "team": "DEN",
+    "fitScore": 0.4019
+  },
+  {
+    "pokedexId": 94,
+    "formId": "gengar",
+    "pokemon": "Gengar",
+    "playerId": "8126",
+    "player": "Wan'Dale Robinson",
+    "position": "WR",
+    "team": "TEN",
+    "fitScore": 0.4011
+  },
+  {
+    "pokedexId": 550,
+    "formId": "basculin",
+    "pokemon": "Basculin",
+    "playerId": "6865",
+    "player": "Colby Parkinson",
+    "position": "TE",
+    "team": "LAR",
+    "fitScore": 0.4008
+  },
+  {
+    "pokedexId": 340,
+    "formId": "whiscash",
+    "pokemon": "Whiscash",
+    "playerId": "11584",
+    "player": "Bucky Irving",
+    "position": "RB",
+    "team": "TB",
+    "fitScore": 0.4003
+  },
+  {
+    "pokedexId": 666,
+    "formId": "vivillon",
+    "pokemon": "Vivillon",
+    "playerId": "9500",
+    "player": "Josh Downs",
+    "position": "WR",
+    "team": "IND",
+    "fitScore": 0.3995
+  },
+  {
+    "pokedexId": 525,
+    "formId": "boldore",
+    "pokemon": "Boldore",
+    "playerId": "13860",
+    "player": "Sabastian Harsh",
+    "position": "DL",
+    "team": "HOU",
+    "fitScore": 0.3991
+  },
+  {
+    "pokedexId": 254,
+    "formId": "sceptile",
+    "pokemon": "Sceptile",
+    "playerId": "13298",
+    "player": "KC Concepcion Jr.",
+    "position": "WR",
+    "team": "CLE",
+    "fitScore": 0.3978
+  },
+  {
+    "pokedexId": 492,
+    "formId": "shaymin",
+    "pokemon": "Shaymin",
+    "playerId": "11662",
+    "player": "Quinyon Mitchell",
+    "position": "CB",
+    "team": "PHI",
+    "fitScore": 0.3971
+  },
+  {
+    "pokedexId": 358,
+    "formId": "chimecho",
+    "pokemon": "Chimecho",
+    "playerId": "8183",
+    "player": "Brock Purdy",
+    "position": "QB",
+    "team": "SF",
+    "fitScore": 0.3969
+  },
+  {
+    "pokedexId": 131,
+    "formId": "lapras",
+    "pokemon": "Lapras",
+    "playerId": "8210",
+    "player": "Chig Okonkwo",
+    "position": "TE",
+    "team": "WAS",
+    "fitScore": 0.3955
+  },
+  {
+    "pokedexId": 221,
+    "formId": "piloswine",
+    "pokemon": "Piloswine",
+    "playerId": "12481",
+    "player": "Cam Skattebo",
+    "position": "RB",
+    "team": "NYG",
+    "fitScore": 0.3952
+  },
+  {
+    "pokedexId": 683,
+    "formId": "aromatisse",
+    "pokemon": "Aromatisse",
+    "playerId": "13545",
+    "player": "Trey Smack",
+    "position": "K",
+    "team": "GB",
+    "fitScore": 0.394
+  },
+  {
+    "pokedexId": 198,
+    "formId": "murkrow",
+    "pokemon": "Murkrow",
+    "playerId": "12501",
+    "player": "Matthew Golden",
+    "position": "WR",
+    "team": "GB",
+    "fitScore": 0.3939
+  },
+  {
+    "pokedexId": 533,
+    "formId": "gurdurr",
+    "pokemon": "Gurdurr",
+    "playerId": "10941",
+    "player": "Tyler Lacy",
+    "position": "DL",
+    "team": "DET",
+    "fitScore": 0.3935
+  },
+  {
+    "pokedexId": 470,
+    "formId": "leafeon",
+    "pokemon": "Leafeon",
+    "playerId": "13388",
+    "player": "CJ Allen",
+    "position": "LB",
+    "team": "IND",
+    "fitScore": 0.3924
+  },
+  {
+    "pokedexId": 164,
+    "formId": "noctowl",
+    "pokemon": "Noctowl",
+    "playerId": "11006",
+    "player": "Ameer Speed",
+    "position": "CB",
+    "team": "DAL",
+    "fitScore": 0.3923
+  },
+  {
+    "pokedexId": 73,
+    "formId": "tentacruel",
+    "pokemon": "Tentacruel",
+    "playerId": "12498",
+    "player": "Mason Taylor",
+    "position": "TE",
+    "team": "NYJ",
+    "fitScore": 0.3911
+  },
+  {
+    "pokedexId": 368,
+    "formId": "gorebyss",
+    "pokemon": "Gorebyss",
+    "playerId": "13349",
+    "player": "Eli Stowers",
+    "position": "TE",
+    "team": "PHI",
+    "fitScore": 0.3886
+  },
+  {
+    "pokedexId": 75,
+    "formId": "graveler",
+    "pokemon": "Graveler",
+    "playerId": "7231",
+    "player": "LaCale London",
+    "position": "DL",
+    "team": "ATL",
+    "fitScore": 0.3886
+  },
+  {
+    "pokedexId": 36,
+    "formId": "clefable",
+    "pokemon": "Clefable",
+    "playerId": "6650",
+    "player": "Chase McLaughlin",
+    "position": "K",
+    "team": "TB",
+    "fitScore": 0.3884
+  },
+  {
+    "pokedexId": 555,
+    "formId": "darmanitan",
+    "pokemon": "Darmanitan",
+    "playerId": "12529",
+    "player": "TreVeyon Henderson",
+    "position": "RB",
+    "team": "NE",
+    "fitScore": 0.3879
+  },
+  {
+    "pokedexId": 497,
+    "formId": "serperior",
+    "pokemon": "Serperior",
+    "playerId": "4964",
+    "player": "Denzel Ward",
+    "position": "CB",
+    "team": "CLE",
+    "fitScore": 0.3863
+  },
+  {
+    "pokedexId": 193,
+    "formId": "yanma",
+    "pokemon": "Yanma",
+    "playerId": "8134",
+    "player": "Khalil Shakir",
+    "position": "WR",
+    "team": "BUF",
+    "fitScore": 0.3845
+  },
+  {
+    "pokedexId": 489,
+    "formId": "phione",
+    "pokemon": "Phione",
+    "playerId": "11597",
+    "player": "Theo Johnson",
+    "position": "TE",
+    "team": "NYG",
+    "fitScore": 0.3833
+  },
+  {
+    "pokedexId": 604,
+    "formId": "eelektross",
+    "pokemon": "Eelektross",
+    "playerId": "11624",
+    "player": "Xavier Worthy",
+    "position": "WR",
+    "team": "KC",
+    "fitScore": 0.3824
+  },
+  {
+    "pokedexId": 444,
+    "formId": "gabite",
+    "pokemon": "Gabite",
+    "playerId": "5892",
+    "player": "David Montgomery",
+    "position": "RB",
+    "team": "HOU",
+    "fitScore": 0.3816
+  },
+  {
+    "pokedexId": 203,
+    "formId": "girafarig",
+    "pokemon": "Girafarig",
+    "playerId": "3163",
+    "player": "Jared Goff",
+    "position": "QB",
+    "team": "DET",
+    "fitScore": 0.3813
+  },
+  {
+    "pokedexId": 95,
+    "formId": "onix",
+    "pokemon": "Onix",
+    "playerId": "13224",
+    "player": "Anthony Campbell",
+    "position": "DL",
+    "team": "GB",
+    "fitScore": 0.3789
+  },
+  {
+    "pokedexId": 474,
+    "formId": "porygon-z",
+    "pokemon": "Porygon Z",
+    "playerId": "7049",
+    "player": "Jauan Jennings",
+    "position": "WR",
+    "team": "MIN",
+    "fitScore": 0.3788
+  },
+  {
+    "pokedexId": 423,
+    "formId": "gastrodon",
+    "pokemon": "Gastrodon",
+    "playerId": "12490",
+    "player": "Bhayshul Tuten",
+    "position": "RB",
+    "team": "JAX",
+    "fitScore": 0.3778
+  },
+  {
+    "pokedexId": 566,
+    "formId": "archen",
+    "pokemon": "Archen",
+    "playerId": "5843",
+    "player": "Devin Bush",
+    "position": "LB",
+    "team": "CHI",
+    "fitScore": 0.3764
+  },
+  {
+    "pokedexId": 350,
+    "formId": "milotic",
+    "pokemon": "Milotic",
+    "playerId": "8111",
+    "player": "Cade Otton",
+    "position": "TE",
+    "team": "TB",
+    "fitScore": 0.3761
+  },
+  {
+    "pokedexId": 687,
+    "formId": "malamar",
+    "pokemon": "Malamar",
+    "playerId": "6888",
+    "player": "Antoine Winfield Jr.",
+    "position": "S",
+    "team": "TB",
+    "fitScore": 0.3752
+  },
+  {
+    "pokedexId": 224,
+    "formId": "octillery",
+    "pokemon": "Octillery",
+    "playerId": "12502",
+    "player": "Gunnar Helm",
+    "position": "TE",
+    "team": "TEN",
+    "fitScore": 0.3738
+  },
+  {
+    "pokedexId": 707,
+    "formId": "klefki",
+    "pokemon": "Klefki",
+    "playerId": "4207",
+    "player": "Davon Godchaux",
+    "position": "DL",
+    "team": "NO",
+    "fitScore": 0.3737
+  },
+  {
+    "pokedexId": 510,
+    "formId": "liepard",
+    "pokemon": "Liepard",
+    "playerId": "13384",
+    "player": "A.J. Haulcy",
+    "position": "S",
+    "team": "IND",
+    "fitScore": 0.3731
+  },
+  {
+    "pokedexId": 465,
+    "formId": "tangrowth",
+    "pokemon": "Tangrowth",
+    "playerId": "13650",
+    "player": "Bryan Thomas Jr.",
+    "position": "DL",
+    "team": "JAX",
+    "fitScore": 0.3723
+  },
+  {
+    "pokedexId": 279,
+    "formId": "pelipper",
+    "pokemon": "Pelipper",
+    "playerId": "5872",
+    "player": "Deebo Samuel Sr.",
+    "position": "WR",
+    "team": "SF",
+    "fitScore": 0.3712
+  },
+  {
+    "pokedexId": 323,
+    "formId": "camerupt",
+    "pokemon": "Camerupt",
+    "playerId": "2617",
+    "player": "Alex Singleton",
+    "position": "LB",
+    "team": "DEN",
+    "fitScore": 0.3709
+  },
+  {
+    "pokedexId": 685,
+    "formId": "slurpuff",
+    "pokemon": "Slurpuff",
+    "playerId": "4195",
+    "player": "Jake Elliott",
+    "position": "K",
+    "team": "PHI",
+    "fitScore": 0.3705
+  },
+  {
+    "pokedexId": 600,
+    "formId": "klang",
+    "pokemon": "Klang",
+    "playerId": "12671",
+    "player": "Elijah Roberts",
+    "position": "DL",
+    "team": "TB",
+    "fitScore": 0.3703
+  },
+  {
+    "pokedexId": 499,
+    "formId": "pignite",
+    "pokemon": "Pignite",
+    "playerId": "12512",
+    "player": "Quinshon Judkins",
+    "position": "RB",
+    "team": "CLE",
+    "fitScore": 0.3699
+  },
+  {
+    "pokedexId": 429,
+    "formId": "mismagius",
+    "pokemon": "Mismagius",
+    "playerId": "5864",
+    "player": "Byron Murphy Jr.",
+    "position": "CB",
+    "team": "MIN",
+    "fitScore": 0.3696
+  },
+  {
+    "pokedexId": 219,
+    "formId": "magcargo",
+    "pokemon": "Magcargo",
+    "playerId": "5981",
+    "player": "Greg Gaines",
+    "position": "DL",
+    "team": "BUF",
+    "fitScore": 0.3694
+  },
+  {
+    "pokedexId": 105,
+    "formId": "marowak",
+    "pokemon": "Marowak",
+    "playerId": "6302",
+    "player": "Kaden Elliss",
+    "position": "LB",
+    "team": "NO",
+    "fitScore": 0.3682
+  },
+  {
+    "pokedexId": 171,
+    "formId": "lanturn",
+    "pokemon": "Lanturn",
+    "playerId": "7133",
+    "player": "Isaiah Rodgers",
+    "position": "CB",
+    "team": "MIN",
+    "fitScore": 0.368
+  },
+  {
+    "pokedexId": 117,
+    "formId": "seadra",
+    "pokemon": "Seadra",
+    "playerId": "13278",
+    "player": "Max Klare",
+    "position": "TE",
+    "team": "LAR",
+    "fitScore": 0.367
+  },
+  {
+    "pokedexId": 609,
+    "formId": "chandelure",
+    "pokemon": "Chandelure",
+    "playerId": "11646",
+    "player": "Jalen Coker",
+    "position": "WR",
+    "team": "CAR",
+    "fitScore": 0.3669
+  },
+  {
+    "pokedexId": 435,
+    "formId": "skuntank",
+    "pokemon": "Skuntank",
+    "playerId": "11682",
+    "player": "Cole Bishop",
+    "position": "S",
+    "team": "BUF",
+    "fitScore": 0.3661
+  },
+  {
+    "pokedexId": 59,
+    "formId": "arcanine",
+    "pokemon": "Arcanine",
+    "playerId": "6790",
+    "player": "D'Andre Swift",
+    "position": "RB",
+    "team": "CHI",
+    "fitScore": 0.3653
+  },
+  {
+    "pokedexId": 127,
+    "formId": "pinsir",
+    "pokemon": "Pinsir",
+    "playerId": "6807",
+    "player": "Patrick Queen",
+    "position": "LB",
+    "team": "PIT",
+    "fitScore": 0.3653
+  },
+  {
+    "pokedexId": 414,
+    "formId": "mothim",
+    "pokemon": "Mothim",
+    "playerId": "13293",
+    "player": "Ja'Kobi Lane",
+    "position": "WR",
+    "team": "BAL",
+    "fitScore": 0.3653
+  },
+  {
+    "pokedexId": 67,
+    "formId": "machoke",
+    "pokemon": "Machoke",
+    "playerId": "4259",
+    "player": "Al-Quadin Muhammad",
+    "position": "DL",
+    "team": "TB",
+    "fitScore": 0.3648
+  },
+  {
+    "pokedexId": 407,
+    "formId": "roserade",
+    "pokemon": "Roserade",
+    "playerId": "421",
+    "player": "Matthew Stafford",
+    "position": "QB",
+    "team": "LAR",
+    "fitScore": 0.3641
+  },
+  {
+    "pokedexId": 457,
+    "formId": "lumineon",
+    "pokemon": "Lumineon",
+    "playerId": "13401",
+    "player": "Michael Trigg",
+    "position": "TE",
+    "team": "DAL",
+    "fitScore": 0.3639
+  },
+  {
+    "pokedexId": 375,
+    "formId": "metang",
+    "pokemon": "Metang",
+    "playerId": "13104",
+    "player": "Adin Huntington",
+    "position": "DL",
+    "team": "CLE",
+    "fitScore": 0.3638
+  },
+  {
+    "pokedexId": 668,
+    "formId": "pyroar",
+    "pokemon": "Pyroar",
+    "playerId": "8676",
+    "player": "Rashid Shaheed",
+    "position": "WR",
+    "team": "SEA",
+    "fitScore": 0.3638
+  },
+  {
+    "pokedexId": 442,
+    "formId": "spiritomb",
+    "pokemon": "Spiritomb",
+    "playerId": "13360",
+    "player": "Emmanuel McNeil-Warren",
+    "position": "S",
+    "team": "CLE",
+    "fitScore": 0.3629
+  },
+  {
+    "pokedexId": 239,
+    "formId": "elekid",
+    "pokemon": "Elekid",
+    "playerId": "7687",
+    "player": "Nahshon Wright",
+    "position": "CB",
+    "team": "NYJ",
+    "fitScore": 0.3629
+  },
+  {
+    "pokedexId": 111,
+    "formId": "rhyhorn",
+    "pokemon": "Rhyhorn",
+    "playerId": "2592",
+    "player": "Grady Jarrett",
+    "position": "DL",
+    "team": "CHI",
+    "fitScore": 0.3627
+  },
+  {
+    "pokedexId": 100,
+    "formId": "voltorb",
+    "pokemon": "Voltorb",
+    "playerId": "10882",
+    "player": "Emmanuel Forbes Jr.",
+    "position": "CB",
+    "team": "LAR",
+    "fitScore": 0.3611
+  },
+  {
+    "pokedexId": 157,
+    "formId": "typhlosion",
+    "pokemon": "Typhlosion",
+    "playerId": "13276",
+    "player": "Omar Cooper Jr.",
+    "position": "WR",
+    "team": "NYJ",
+    "fitScore": 0.3609
+  },
+  {
+    "pokedexId": 186,
+    "formId": "politoed",
+    "pokemon": "Politoed",
+    "playerId": "7600",
+    "player": "Pat Freiermuth",
+    "position": "TE",
+    "team": "PIT",
+    "fitScore": 0.3603
+  },
+  {
+    "pokedexId": 267,
+    "formId": "beautifly",
+    "pokemon": "Beautifly",
+    "playerId": "13346",
+    "player": "Denzel Boston",
+    "position": "WR",
+    "team": "CLE",
+    "fitScore": 0.3594
+  },
+  {
+    "pokedexId": 391,
+    "formId": "monferno",
+    "pokemon": "Monferno",
+    "playerId": "8228",
+    "player": "Jaylen Warren",
+    "position": "RB",
+    "team": "PIT",
+    "fitScore": 0.3591
+  },
+  {
+    "pokedexId": 143,
+    "formId": "snorlax",
+    "pokemon": "Snorlax",
+    "playerId": "12644",
+    "player": "Barryn Sorrell",
+    "position": "DL",
+    "team": "GB",
+    "fitScore": 0.358
+  },
+  {
+    "pokedexId": 578,
+    "formId": "duosion",
+    "pokemon": "Duosion",
+    "playerId": "6083",
+    "player": "Matt Gay",
+    "position": "K",
+    "team": "LV",
+    "fitScore": 0.3574
+  },
+  {
+    "pokedexId": 693,
+    "formId": "clawitzer",
+    "pokemon": "Clawitzer",
+    "playerId": "8172",
+    "player": "Greg Dulcich",
+    "position": "TE",
+    "team": "MIA",
+    "fitScore": 0.3574
+  },
+  {
+    "pokedexId": 308,
+    "formId": "medicham",
+    "pokemon": "Medicham",
+    "playerId": "13385",
+    "player": "Mansoor Delane",
+    "position": "S",
+    "team": "KC",
+    "fitScore": 0.3567
+  },
+  {
+    "pokedexId": 408,
+    "formId": "cranidos",
+    "pokemon": "Cranidos",
+    "playerId": "12566",
+    "player": "Jihaad Campbell",
+    "position": "LB",
+    "team": "PHI",
+    "fitScore": 0.3561
+  },
+  {
+    "pokedexId": 12,
+    "formId": "butterfree",
+    "pokemon": "Butterfree",
+    "playerId": "13301",
+    "player": "Antonio Williams",
+    "position": "WR",
+    "team": "WAS",
+    "fitScore": 0.356
+  },
+  {
+    "pokedexId": 38,
+    "formId": "ninetales",
+    "pokemon": "Ninetales",
+    "playerId": "5968",
+    "player": "Mark Fields",
+    "position": "CB",
+    "team": "SF",
+    "fitScore": 0.3536
+  },
+  {
+    "pokedexId": 275,
+    "formId": "shiftry",
+    "pokemon": "Shiftry",
+    "playerId": "10881",
+    "player": "Christian Gonzalez",
+    "position": "S",
+    "team": "NE",
+    "fitScore": 0.3534
+  },
+  {
+    "pokedexId": 660,
+    "formId": "diggersby",
+    "pokemon": "Diggersby",
+    "playerId": "12489",
+    "player": "RJ Harvey",
+    "position": "RB",
+    "team": "DEN",
+    "fitScore": 0.3533
+  },
+  {
+    "pokedexId": 119,
+    "formId": "seaking",
+    "pokemon": "Seaking",
+    "playerId": "13151",
+    "player": "Nick Kallerup",
+    "position": "TE",
+    "team": "SEA",
+    "fitScore": 0.353
+  },
+  {
+    "pokedexId": 128,
+    "formId": "tauros",
+    "pokemon": "Tauros",
+    "playerId": "12617",
+    "player": "Demetrius Knight Jr.",
+    "position": "LB",
+    "team": "CIN",
+    "fitScore": 0.3528
+  },
+  {
+    "pokedexId": 467,
+    "formId": "magmortar",
+    "pokemon": "Magmortar",
+    "playerId": "6804",
+    "player": "Jordan Love",
+    "position": "QB",
+    "team": "GB",
+    "fitScore": 0.3511
+  },
+  {
+    "pokedexId": 428,
+    "formId": "lopunny",
+    "pokemon": "Lopunny",
+    "playerId": "7294",
+    "player": "Amari Henderson",
+    "position": "CB",
+    "team": "MIN",
+    "fitScore": 0.3492
+  },
+  {
+    "pokedexId": 545,
+    "formId": "scolipede",
+    "pokemon": "Scolipede",
+    "playerId": "5726",
+    "player": "Robert Spillane",
+    "position": "LB",
+    "team": "NE",
+    "fitScore": 0.3478
+  },
+  {
+    "pokedexId": 210,
+    "formId": "granbull",
+    "pokemon": "Granbull",
+    "playerId": "11653",
+    "player": "Charlie Smyth",
+    "position": "K",
+    "team": "NO",
+    "fitScore": 0.3472
+  },
+  {
+    "pokedexId": 547,
+    "formId": "whimsicott",
+    "pokemon": "Whimsicott",
+    "playerId": "1423",
+    "player": "Blidi Wreh-Wilson",
+    "position": "CB",
+    "team": "TB",
+    "fitScore": 0.3472
+  },
+  {
+    "pokedexId": 594,
+    "formId": "alomomola",
+    "pokemon": "Alomomola",
+    "playerId": "13013",
+    "player": "Mark Redman",
+    "position": "TE",
+    "team": "GB",
+    "fitScore": 0.347
+  },
+  {
+    "pokedexId": 564,
+    "formId": "tirtouga",
+    "pokemon": "Tirtouga",
+    "playerId": "5366",
+    "player": "Tim Settle",
+    "position": "DL",
+    "team": "WAS",
+    "fitScore": 0.3468
+  },
+  {
+    "pokedexId": 347,
+    "formId": "anorith",
+    "pokemon": "Anorith",
+    "playerId": "13453",
+    "player": "Jacob Rodriguez",
+    "position": "LB",
+    "team": "MIA",
+    "fitScore": 0.346
+  },
+  {
+    "pokedexId": 87,
+    "formId": "dewgong",
+    "pokemon": "Dewgong",
+    "playerId": "12062",
+    "player": "Cam Grandy",
+    "position": "TE",
+    "team": "CIN",
+    "fitScore": 0.3446
+  },
+  {
+    "pokedexId": 662,
+    "formId": "fletchinder",
+    "pokemon": "Fletchinder",
+    "playerId": "1472",
+    "player": "D.J. Hayden",
+    "position": "CB",
+    "team": "WAS",
+    "fitScore": 0.3439
+  },
+  {
+    "pokedexId": 195,
+    "formId": "quagsire",
+    "pokemon": "Quagsire",
+    "playerId": "7113",
+    "player": "Alex Highsmith",
+    "position": "LB",
+    "team": "PIT",
+    "fitScore": 0.3427
+  },
+  {
+    "pokedexId": 63,
+    "formId": "abra",
+    "pokemon": "Abra",
+    "playerId": "4892",
+    "player": "Baker Mayfield",
+    "position": "QB",
+    "team": "TB",
+    "fitScore": 0.3426
+  },
+  {
+    "pokedexId": 618,
+    "formId": "stunfisk",
+    "pokemon": "Stunfisk",
+    "playerId": "7611",
+    "player": "Rhamondre Stevenson",
+    "position": "RB",
+    "team": "NE",
+    "fitScore": 0.3422
+  },
+  {
+    "pokedexId": 247,
+    "formId": "pupitar",
+    "pokemon": "Pupitar",
+    "playerId": "6792",
+    "player": "Javon Kinlaw",
+    "position": "DL",
+    "team": "WAS",
+    "fitScore": 0.342
+  },
+  {
+    "pokedexId": 98,
+    "formId": "krabby",
+    "pokemon": "Krabby",
+    "playerId": "10210",
+    "player": "Cameron Latu",
+    "position": "TE",
+    "team": "NE",
+    "fitScore": 0.3418
+  },
+  {
+    "pokedexId": 357,
+    "formId": "tropius",
+    "pokemon": "Tropius",
+    "playerId": "4126",
+    "player": "Fabian Moreau",
+    "position": "CB",
+    "team": "WAS",
+    "fitScore": 0.3416
+  },
+  {
+    "pokedexId": 359,
+    "formId": "absol",
+    "pokemon": "Absol",
+    "playerId": "8364",
+    "player": "Trent McDuffie",
+    "position": "S",
+    "team": "LAR",
+    "fitScore": 0.3412
+  },
+  {
+    "pokedexId": 222,
+    "formId": "corsola",
+    "pokemon": "Corsola",
+    "playerId": "2322",
+    "player": "Arik Armstead",
+    "position": "DL",
+    "team": "JAX",
+    "fitScore": 0.3406
+  },
+  {
+    "pokedexId": 416,
+    "formId": "vespiquen",
+    "pokemon": "Vespiquen",
+    "playerId": "1674",
+    "player": "A.J. Bouye",
+    "position": "CB",
+    "team": "CAR",
+    "fitScore": 0.3392
+  },
+  {
+    "pokedexId": 299,
+    "formId": "nosepass",
+    "pokemon": "Nosepass",
+    "playerId": "4032",
+    "player": "Jonathan Allen",
+    "position": "DL",
+    "team": "CIN",
+    "fitScore": 0.3384
+  },
+  {
+    "pokedexId": 259,
+    "formId": "marshtomp",
+    "pokemon": "Marshtomp",
+    "playerId": "8311",
+    "player": "Terrel Bernard",
+    "position": "LB",
+    "team": "BUF",
+    "fitScore": 0.3384
+  },
+  {
+    "pokedexId": 512,
+    "formId": "simisage",
+    "pokemon": "Simisage",
+    "playerId": "6783",
+    "player": "Jerry Jeudy",
+    "position": "WR",
+    "team": "CLE",
+    "fitScore": 0.3379
+  },
+  {
+    "pokedexId": 321,
+    "formId": "wailord",
+    "pokemon": "Wailord",
+    "playerId": "12534",
+    "player": "Kyle Monangai",
+    "position": "RB",
+    "team": "CHI",
+    "fitScore": 0.3368
+  },
+  {
+    "pokedexId": 514,
+    "formId": "simisear",
+    "pokemon": "Simisear",
+    "playerId": "11625",
+    "player": "Adonai Mitchell",
+    "position": "WR",
+    "team": "NYJ",
+    "fitScore": 0.3367
+  },
+  {
+    "pokedexId": 140,
+    "formId": "kabuto",
+    "pokemon": "Kabuto",
+    "playerId": "6214",
+    "player": "Quincy Williams",
+    "position": "LB",
+    "team": "CLE",
+    "fitScore": 0.3357
+  },
+  {
+    "pokedexId": 458,
+    "formId": "mantyke",
+    "pokemon": "Mantyke",
+    "playerId": "7708",
+    "player": "Marco Wilson",
+    "position": "CB",
+    "team": "CAR",
+    "fitScore": 0.3351
+  },
+  {
+    "pokedexId": 256,
+    "formId": "combusken",
+    "pokemon": "Combusken",
+    "playerId": "10947",
+    "player": "Ventrell Miller",
+    "position": "LB",
+    "team": "JAX",
+    "fitScore": 0.3343
+  },
+  {
+    "pokedexId": 424,
+    "formId": "ambipom",
+    "pokemon": "Ambipom",
+    "playerId": "5967",
+    "player": "Tony Pollard",
+    "position": "RB",
+    "team": "TEN",
+    "fitScore": 0.3342
+  },
+  {
+    "pokedexId": 303,
+    "formId": "mawile",
+    "pokemon": "Mawile",
+    "playerId": "11328",
+    "player": "Jalen Redmond",
+    "position": "DL",
+    "team": "MIN",
+    "fitScore": 0.3336
+  },
+  {
+    "pokedexId": 272,
+    "formId": "ludicolo",
+    "pokemon": "Ludicolo",
+    "playerId": "8249",
+    "player": "Lucas Krull",
+    "position": "TE",
+    "team": "DEN",
+    "fitScore": 0.3335
+  },
+  {
+    "pokedexId": 188,
+    "formId": "skiploom",
+    "pokemon": "Skiploom",
+    "playerId": "2091",
+    "player": "Bashaud Breeland",
+    "position": "CB",
+    "team": "ARI",
+    "fitScore": 0.3335
+  },
+  {
+    "pokedexId": 136,
+    "formId": "flareon",
+    "pokemon": "Flareon",
+    "playerId": "650",
+    "player": "Nick Folk",
+    "position": "K",
+    "team": "ATL",
+    "fitScore": 0.3332
+  },
+  {
+    "pokedexId": 575,
+    "formId": "gothorita",
+    "pokemon": "Gothorita",
+    "playerId": "12545",
+    "player": "Tyler Shough",
+    "position": "QB",
+    "team": "NO",
+    "fitScore": 0.3318
+  },
+  {
+    "pokedexId": 552,
+    "formId": "krokorok",
+    "pokemon": "Krokorok",
+    "playerId": "7021",
+    "player": "Rico Dowdle",
+    "position": "RB",
+    "team": "PIT",
+    "fitScore": 0.3308
+  },
+  {
+    "pokedexId": 25,
+    "formId": "pikachu",
+    "pokemon": "Pikachu",
+    "playerId": "3527",
+    "player": "Kevin Peterson",
+    "position": "CB",
+    "team": "ARI",
+    "fitScore": 0.3307
+  },
+  {
+    "pokedexId": 696,
+    "formId": "tyrunt",
+    "pokemon": "Tyrunt",
+    "playerId": "6485",
+    "player": "Azeez Al-Shaair",
+    "position": "LB",
+    "team": "HOU",
+    "fitScore": 0.3305
+  },
+  {
+    "pokedexId": 679,
+    "formId": "honedge",
+    "pokemon": "Honedge",
+    "playerId": "7678",
+    "player": "Joseph Ossai",
+    "position": "DL",
+    "team": "NYJ",
+    "fitScore": 0.3287
+  },
+  {
+    "pokedexId": 78,
+    "formId": "rapidash",
+    "pokemon": "Rapidash",
+    "playerId": "11343",
+    "player": "Starling Thomas V",
+    "position": "CB",
+    "team": "ARI",
+    "fitScore": 0.3282
+  },
+  {
+    "pokedexId": 400,
+    "formId": "bibarel",
+    "pokemon": "Bibarel",
+    "playerId": "2505",
+    "player": "Darren Waller",
+    "position": "TE",
+    "team": "CAR",
+    "fitScore": 0.3274
+  },
+  {
+    "pokedexId": 536,
+    "formId": "palpitoad",
+    "pokemon": "Palpitoad",
+    "playerId": "7594",
+    "player": "Chuba Hubbard",
+    "position": "RB",
+    "team": "CAR",
+    "fitScore": 0.3271
+  },
+  {
+    "pokedexId": 242,
+    "formId": "blissey",
+    "pokemon": "Blissey",
+    "playerId": "10927",
+    "player": "Jordan Battle",
+    "position": "S",
+    "team": "CIN",
+    "fitScore": 0.3268
+  },
+  {
+    "pokedexId": 549,
+    "formId": "lilligant",
+    "pokemon": "Lilligant",
+    "playerId": "9504",
+    "player": "Kayshon Boutte",
+    "position": "WR",
+    "team": "HOU",
+    "fitScore": 0.3264
+  },
+  {
+    "pokedexId": 711,
+    "formId": "gourgeist",
+    "pokemon": "Gourgeist",
+    "playerId": "6315",
+    "player": "Tyrel Dodson",
+    "position": "LB",
+    "team": "CAR",
+    "fitScore": 0.3256
+  },
+  {
+    "pokedexId": 40,
+    "formId": "wigglytuff",
+    "pokemon": "Wigglytuff",
+    "playerId": "7933",
+    "player": "Alex Kessman",
+    "position": "K",
+    "team": "CAR",
+    "fitScore": 0.3254
+  },
+  {
+    "pokedexId": 304,
+    "formId": "aron",
+    "pokemon": "Aron",
+    "playerId": "4121",
+    "player": "Eddie Vanderdoes",
+    "position": "DL",
+    "team": "SF",
+    "fitScore": 0.3254
+  },
+  {
+    "pokedexId": 478,
+    "formId": "froslass",
+    "pokemon": "Froslass",
+    "playerId": "11627",
+    "player": "Troy Franklin",
+    "position": "WR",
+    "team": "DEN",
+    "fitScore": 0.3253
+  },
+  {
+    "pokedexId": 159,
+    "formId": "croconaw",
+    "pokemon": "Croconaw",
+    "playerId": "13432",
+    "player": "Khalil Dinkins",
+    "position": "TE",
+    "team": "SF",
+    "fitScore": 0.3251
+  },
+  {
+    "pokedexId": 676,
+    "formId": "furfrou",
+    "pokemon": "Furfrou",
+    "playerId": "2316",
+    "player": "Trae Waynes",
+    "position": "CB",
+    "team": "CIN",
+    "fitScore": 0.3234
+  },
+  {
+    "pokedexId": 471,
+    "formId": "glaceon",
+    "pokemon": "Glaceon",
+    "playerId": "5849",
+    "player": "Kyler Murray",
+    "position": "QB",
+    "team": "MIN",
+    "fitScore": 0.3226
+  },
+  {
+    "pokedexId": 126,
+    "formId": "magmar",
+    "pokemon": "Magmar",
+    "playerId": "8180",
+    "player": "Jalen Nailor",
+    "position": "WR",
+    "team": "LV",
+    "fitScore": 0.3223
+  },
+  {
+    "pokedexId": 673,
+    "formId": "gogoat",
+    "pokemon": "Gogoat",
+    "playerId": "6806",
+    "player": "J.K. Dobbins",
+    "position": "RB",
+    "team": "DEN",
+    "fitScore": 0.3221
+  },
+  {
+    "pokedexId": 508,
+    "formId": "stoutland",
+    "pokemon": "Stoutland",
+    "playerId": "5839",
+    "player": "Rashan Gary",
+    "position": "LB",
+    "team": "DAL",
+    "fitScore": 0.322
+  },
+  {
+    "pokedexId": 324,
+    "formId": "torkoal",
+    "pokemon": "Torkoal",
+    "playerId": "8091",
+    "player": "J.T. Jones",
+    "position": "DL",
+    "team": "PIT",
+    "fitScore": 0.3215
+  },
+  {
+    "pokedexId": 439,
+    "formId": "mime-jr",
+    "pokemon": "Mime Jr",
+    "playerId": "12588",
+    "player": "Kevin Winston Jr.",
+    "position": "S",
+    "team": "TEN",
+    "fitScore": 0.3208
+  },
+  {
+    "pokedexId": 614,
+    "formId": "beartic",
+    "pokemon": "Beartic",
+    "playerId": "10991",
+    "player": "KJ Henry",
+    "position": "DL",
+    "team": "PIT",
+    "fitScore": 0.32
+  },
+  {
+    "pokedexId": 584,
+    "formId": "vanilluxe",
+    "pokemon": "Vanilluxe",
+    "playerId": "12540",
+    "player": "Chimere Dike",
+    "position": "WR",
+    "team": "TEN",
+    "fitScore": 0.3197
+  },
+  {
+    "pokedexId": 619,
+    "formId": "mienfoo",
+    "pokemon": "Mienfoo",
+    "playerId": "13379",
+    "player": "Josiah Trotter",
+    "position": "LB",
+    "team": "TB",
+    "fitScore": 0.3188
+  },
+  {
+    "pokedexId": 262,
+    "formId": "mightyena",
+    "pokemon": "Mightyena",
+    "playerId": "6901",
+    "player": "Joshua Metellus",
+    "position": "S",
+    "team": "MIN",
+    "fitScore": 0.3186
+  },
+  {
+    "pokedexId": 438,
+    "formId": "bonsly",
+    "pokemon": "Bonsly",
+    "playerId": "12665",
+    "player": "Yahya Black",
+    "position": "DL",
+    "team": "PIT",
+    "fitScore": 0.3183
+  },
+  {
+    "pokedexId": 529,
+    "formId": "drilbur",
+    "pokemon": "Drilbur",
+    "playerId": "11586",
+    "player": "Blake Corum",
+    "position": "RB",
+    "team": "LAR",
+    "fitScore": 0.3182
+  },
+  {
+    "pokedexId": 61,
+    "formId": "poliwhirl",
+    "pokemon": "Poliwhirl",
+    "playerId": "12374",
+    "player": "Brenden Bates",
+    "position": "TE",
+    "team": "JAX",
+    "fitScore": 0.3179
+  },
+  {
+    "pokedexId": 74,
+    "formId": "geodude",
+    "pokemon": "Geodude",
+    "playerId": "1124",
+    "player": "Malik Jackson",
+    "position": "DL",
+    "team": "CLE",
+    "fitScore": 0.3173
+  },
+  {
+    "pokedexId": 225,
+    "formId": "delibird",
+    "pokemon": "Delibird",
+    "playerId": "11610",
+    "player": "Malik Washington",
+    "position": "WR",
+    "team": "MIA",
+    "fitScore": 0.3171
+  },
+  {
+    "pokedexId": 176,
+    "formId": "togetic",
+    "pokemon": "Togetic",
+    "playerId": "7042",
+    "player": "Tyler Bass",
+    "position": "K",
+    "team": "BUF",
+    "fitScore": 0.3163
+  },
+  {
+    "pokedexId": 573,
+    "formId": "cinccino",
+    "pokemon": "Cinccino",
+    "playerId": "11032",
+    "player": "DJ Ivey",
+    "position": "CB",
+    "team": "CIN",
+    "fitScore": 0.3163
+  },
+  {
+    "pokedexId": 542,
+    "formId": "leavanny",
+    "pokemon": "Leavanny",
+    "playerId": "7635",
+    "player": "Jaelan Phillips",
+    "position": "LB",
+    "team": "CAR",
+    "fitScore": 0.3161
+  },
+  {
+    "pokedexId": 93,
+    "formId": "haunter",
+    "pokemon": "Haunter",
+    "playerId": "6803",
+    "player": "Brandon Aiyuk",
+    "position": "WR",
+    "team": "SF",
+    "fitScore": 0.3159
+  },
+  {
+    "pokedexId": 477,
+    "formId": "dusknoir",
+    "pokemon": "Dusknoir",
+    "playerId": "4065",
+    "player": "Derek Barnett",
+    "position": "DL",
+    "team": "CLE",
+    "fitScore": 0.3152
+  },
+  {
+    "pokedexId": 134,
+    "formId": "vaporeon",
+    "pokemon": "Vaporeon",
+    "playerId": "3258",
+    "player": "Nick Vannett",
+    "position": "TE",
+    "team": "BAL",
+    "fitScore": 0.3151
+  },
+  {
+    "pokedexId": 634,
+    "formId": "zweilous",
+    "pokemon": "Zweilous",
+    "playerId": "6923",
+    "player": "Geno Stone",
+    "position": "S",
+    "team": "BUF",
+    "fitScore": 0.3143
+  },
+  {
+    "pokedexId": 115,
+    "formId": "kangaskhan",
+    "pokemon": "Kangaskhan",
+    "playerId": "8154",
+    "player": "Brian Robinson Jr.",
+    "position": "RB",
+    "team": "ATL",
+    "fitScore": 0.3141
+  },
+  {
+    "pokedexId": 626,
+    "formId": "bouffalant",
+    "pokemon": "Bouffalant",
+    "playerId": "1174",
+    "player": "Mike Daniels",
+    "position": "DL",
+    "team": "CIN",
+    "fitScore": 0.3124
+  },
+  {
+    "pokedexId": 53,
+    "formId": "persian",
+    "pokemon": "Persian",
+    "playerId": "6060",
+    "player": "Sean Murphy-Bunting",
+    "position": "CB",
+    "team": "PIT",
+    "fitScore": 0.312
+  },
+  {
+    "pokedexId": 241,
+    "formId": "miltank",
+    "pokemon": "Miltank",
+    "playerId": "5960",
+    "player": "T.J. Edwards",
+    "position": "LB",
+    "team": "CHI",
+    "fitScore": 0.3117
+  },
+  {
+    "pokedexId": 657,
+    "formId": "frogadier",
+    "pokemon": "Frogadier",
+    "playerId": "4995",
+    "player": "Ian Thomas",
+    "position": "TE",
+    "team": "LV",
+    "fitScore": 0.3112
+  },
+  {
+    "pokedexId": 177,
+    "formId": "natu",
+    "pokemon": "Natu",
+    "playerId": "13413",
+    "player": "Cyrus Allen",
+    "position": "WR",
+    "team": "KC",
+    "fitScore": 0.3111
+  },
+  {
+    "pokedexId": 325,
+    "formId": "spoink",
+    "pokemon": "Spoink",
+    "playerId": "8314",
+    "player": "Jalen Pitre",
+    "position": "S",
+    "team": "HOU",
+    "fitScore": 0.3093
+  },
+  {
+    "pokedexId": 674,
+    "formId": "pancham",
+    "pokemon": "Pancham",
+    "playerId": "1494",
+    "player": "Damontre Moore",
+    "position": "DL",
+    "team": "CAR",
+    "fitScore": 0.3084
+  },
+  {
+    "pokedexId": 238,
+    "formId": "smoochum",
+    "pokemon": "Smoochum",
+    "playerId": "4943",
+    "player": "Sam Darnold",
+    "position": "QB",
+    "team": "SEA",
+    "fitScore": 0.3078
+  },
+  {
+    "pokedexId": 463,
+    "formId": "lickilicky",
+    "pokemon": "Lickilicky",
+    "playerId": "7301",
+    "player": "Tershawn Wharton",
+    "position": "DL",
+    "team": "CAR",
+    "fitScore": 0.307
+  },
+  {
+    "pokedexId": 425,
+    "formId": "drifloon",
+    "pokemon": "Drifloon",
+    "playerId": "12509",
+    "player": "Tre' Harris",
+    "position": "WR",
+    "team": "LAC",
+    "fitScore": 0.3068
+  },
+  {
+    "pokedexId": 397,
+    "formId": "staravia",
+    "pokemon": "Staravia",
+    "playerId": "3474",
+    "player": "Briean Boddy-Calhoun",
+    "position": "CB",
+    "team": "TEN",
+    "fitScore": 0.3065
+  },
+  {
+    "pokedexId": 278,
+    "formId": "wingull",
+    "pokemon": "Wingull",
+    "playerId": "1479",
+    "player": "Keenan Allen",
+    "position": "WR",
+    "team": "IND",
+    "fitScore": 0.3064
+  },
+  {
+    "pokedexId": 410,
+    "formId": "shieldon",
+    "pokemon": "Shieldon",
+    "playerId": "7674",
+    "player": "Patrick Jones II",
+    "position": "DL",
+    "team": "CAR",
+    "fitScore": 0.3057
+  },
+  {
+    "pokedexId": 332,
+    "formId": "cacturne",
+    "pokemon": "Cacturne",
+    "playerId": "8323",
+    "player": "Jaquan Brisker",
+    "position": "S",
+    "team": "PIT",
+    "fitScore": 0.3051
+  },
+  {
+    "pokedexId": 217,
+    "formId": "ursaring",
+    "pokemon": "Ursaring",
+    "playerId": "12646",
+    "player": "Barrett Carter",
+    "position": "LB",
+    "team": "CIN",
+    "fitScore": 0.3043
+  },
+  {
+    "pokedexId": 524,
+    "formId": "roggenrola",
+    "pokemon": "Roggenrola",
+    "playerId": "1548",
+    "player": "Star Lotulelei",
+    "position": "DL",
+    "team": "BUF",
+    "fitScore": 0.3036
+  },
+  {
+    "pokedexId": 670,
+    "formId": "floette",
+    "pokemon": "Floette",
+    "playerId": "4233",
+    "player": "Zane Gonzalez",
+    "position": "K",
+    "team": "MIA",
+    "fitScore": 0.3028
+  },
+  {
+    "pokedexId": 557,
+    "formId": "dwebble",
+    "pokemon": "Dwebble",
+    "playerId": "4967",
+    "player": "Bradley Chubb",
+    "position": "LB",
+    "team": "BUF",
+    "fitScore": 0.3027
+  },
+  {
+    "pokedexId": 593,
+    "formId": "jellicent",
+    "pokemon": "Jellicent",
+    "playerId": "4443",
+    "player": "Pharaoh Brown",
+    "position": "TE",
+    "team": "IND",
+    "fitScore": 0.3025
+  },
+  {
+    "pokedexId": 3,
+    "formId": "venusaur",
+    "pokemon": "Venusaur",
+    "playerId": "5044",
+    "player": "Isaiah Oliver",
+    "position": "CB",
+    "team": "TEN",
+    "fitScore": 0.3025
+  },
+  {
+    "pokedexId": 335,
+    "formId": "zangoose",
+    "pokemon": "Zangoose",
+    "playerId": "4199",
+    "player": "Aaron Jones Sr.",
+    "position": "RB",
+    "team": "MIN",
+    "fitScore": 0.3022
+  },
+  {
+    "pokedexId": 559,
+    "formId": "scraggy",
+    "pokemon": "Scraggy",
+    "playerId": "4118",
+    "player": "Alex Anzalone",
+    "position": "LB",
+    "team": "TB",
+    "fitScore": 0.3016
+  },
+  {
+    "pokedexId": 17,
+    "formId": "pidgeotto",
+    "pokemon": "Pidgeotto",
+    "playerId": "3669",
+    "player": "Brian Poole",
+    "position": "CB",
+    "team": "IND",
+    "fitScore": 0.3009
+  },
+  {
+    "pokedexId": 329,
+    "formId": "vibrava",
+    "pokemon": "Vibrava",
+    "playerId": "6141",
+    "player": "Drue Tranquill",
+    "position": "LB",
+    "team": "KC",
+    "fitScore": 0.3008
+  },
+  {
+    "pokedexId": 629,
+    "formId": "vullaby",
+    "pokemon": "Vullaby",
+    "playerId": "5493",
+    "player": "Charvarius Ward",
+    "position": "CB",
+    "team": "IND",
+    "fitScore": 0.3
+  },
+  {
+    "pokedexId": 586,
+    "formId": "sawsbuck",
+    "pokemon": "Sawsbuck",
+    "playerId": "7567",
+    "player": "Kenny Gainwell",
+    "position": "RB",
+    "team": "TB",
+    "fitScore": 0.2999
+  },
+  {
+    "pokedexId": 8,
+    "formId": "wartortle",
+    "pokemon": "Wartortle",
+    "playerId": "8500",
+    "player": "John FitzPatrick",
+    "position": "TE",
+    "team": "CLE",
+    "fitScore": 0.2995
+  },
+  {
+    "pokedexId": 624,
+    "formId": "pawniard",
+    "pokemon": "Pawniard",
+    "playerId": "1764",
+    "player": "Benson Mayowa",
+    "position": "DL",
+    "team": "SEA",
+    "fitScore": 0.2982
+  },
+  {
+    "pokedexId": 527,
+    "formId": "woobat",
+    "pokemon": "Woobat",
+    "playerId": "4981",
+    "player": "Calvin Ridley",
+    "position": "WR",
+    "team": "TEN",
+    "fitScore": 0.298
+  },
+  {
+    "pokedexId": 83,
+    "formId": "farfetchd",
+    "pokemon": "Farfetchd",
+    "playerId": "11481",
+    "player": "Natrone Brooks",
+    "position": "CB",
+    "team": "IND",
+    "fitScore": 0.2979
+  },
+  {
+    "pokedexId": 81,
+    "formId": "magnemite",
+    "pokemon": "Magnemite",
+    "playerId": "10213",
+    "player": "Tre Tucker",
+    "position": "WR",
+    "team": "LV",
+    "fitScore": 0.2974
+  },
+  {
+    "pokedexId": 502,
+    "formId": "dewott",
+    "pokemon": "Dewott",
+    "playerId": "13431",
+    "player": "Miles Kitselman",
+    "position": "TE",
+    "team": "DET",
+    "fitScore": 0.2973
+  },
+  {
+    "pokedexId": 677,
+    "formId": "espurr",
+    "pokemon": "Espurr",
+    "playerId": "7715",
+    "player": "Cam Bynum",
+    "position": "S",
+    "team": "IND",
+    "fitScore": 0.2966
+  },
+  {
+    "pokedexId": 432,
+    "formId": "purugly",
+    "pokemon": "Purugly",
+    "playerId": "4072",
+    "player": "Tre'Davious White",
+    "position": "CB",
+    "team": "BUF",
+    "fitScore": 0.2964
+  },
+  {
+    "pokedexId": 532,
+    "formId": "timburr",
+    "pokemon": "Timburr",
+    "playerId": "1920",
+    "player": "Josh Mauro",
+    "position": "DL",
+    "team": "ARI",
+    "fitScore": 0.2956
+  },
+  {
+    "pokedexId": 96,
+    "formId": "drowzee",
+    "pokemon": "Drowzee",
+    "playerId": "6799",
+    "player": "Grant Delpit",
+    "position": "S",
+    "team": "CLE",
+    "fitScore": 0.2954
+  },
+  {
+    "pokedexId": 605,
+    "formId": "elgyem",
+    "pokemon": "Elgyem",
+    "playerId": "11261",
+    "player": "Andre Szmyt",
+    "position": "K",
+    "team": "CLE",
+    "fitScore": 0.2946
+  },
+  {
+    "pokedexId": 56,
+    "formId": "mankey",
+    "pokemon": "Mankey",
+    "playerId": "8132",
+    "player": "Tyler Allgeier",
+    "position": "RB",
+    "team": "ARI",
+    "fitScore": 0.294
+  },
+  {
+    "pokedexId": 154,
+    "formId": "meganium",
+    "pokemon": "Meganium",
+    "playerId": "11455",
+    "player": "Anthony Kendall",
+    "position": "CB",
+    "team": "BUF",
+    "fitScore": 0.2939
+  },
+  {
+    "pokedexId": 694,
+    "formId": "helioptile",
+    "pokemon": "Helioptile",
+    "playerId": "12535",
+    "player": "Isaac TeSlaa",
+    "position": "WR",
+    "team": "DET",
+    "fitScore": 0.2927
+  },
+  {
+    "pokedexId": 621,
+    "formId": "druddigon",
+    "pokemon": "Druddigon",
+    "playerId": "3207",
+    "player": "Andrew Billings",
+    "position": "DL",
+    "team": "ARI",
+    "fitScore": 0.2924
+  },
+  {
+    "pokedexId": 577,
+    "formId": "solosis",
+    "pokemon": "Solosis",
+    "playerId": "10955",
+    "player": "Chad Ryland",
+    "position": "K",
+    "team": "ARI",
+    "fitScore": 0.2921
+  },
+  {
+    "pokedexId": 27,
+    "formId": "sandshrew",
+    "pokemon": "Sandshrew",
+    "playerId": "10933",
+    "player": "DeMarvion Overshown",
+    "position": "LB",
+    "team": "DAL",
+    "fitScore": 0.2921
+  },
+  {
+    "pokedexId": 404,
+    "formId": "luxio",
+    "pokemon": "Luxio",
+    "playerId": "13320",
+    "player": "Zachariah Branch",
+    "position": "WR",
+    "team": "ATL",
+    "fitScore": 0.2916
+  },
+  {
+    "pokedexId": 170,
+    "formId": "chinchou",
+    "pokemon": "Chinchou",
+    "playerId": "8702",
+    "player": "Jaylon Jones",
+    "position": "CB",
+    "team": "JAX",
+    "fitScore": 0.2916
+  },
+  {
+    "pokedexId": 522,
+    "formId": "blitzle",
+    "pokemon": "Blitzle",
+    "playerId": "9502",
+    "player": "Tank Dell",
+    "position": "WR",
+    "team": "HOU",
+    "fitScore": 0.2911
+  },
+  {
+    "pokedexId": 110,
+    "formId": "weezing",
+    "pokemon": "Weezing",
+    "playerId": "5861",
+    "player": "L.J. Collier",
+    "position": "DL",
+    "team": "ARI",
+    "fitScore": 0.2906
+  },
+  {
+    "pokedexId": 309,
+    "formId": "electrike",
+    "pokemon": "Electrike",
+    "playerId": "9494",
+    "player": "Marvin Mims Jr.",
+    "position": "WR",
+    "team": "DEN",
+    "fitScore": 0.2892
+  },
+  {
+    "pokedexId": 90,
+    "formId": "shellder",
+    "pokemon": "Shellder",
+    "playerId": "11113",
+    "player": "Joel Wilson",
+    "position": "TE",
+    "team": "TEN",
+    "fitScore": 0.288
+  },
+  {
+    "pokedexId": 345,
+    "formId": "lileep",
+    "pokemon": "Lileep",
+    "playerId": "1932",
+    "player": "DaQuan Jones",
+    "position": "DL",
+    "team": "NE",
+    "fitScore": 0.2878
+  },
+  {
+    "pokedexId": 180,
+    "formId": "flaaffy",
+    "pokemon": "Flaaffy",
+    "playerId": "13274",
+    "player": "Germie Bernard",
+    "position": "WR",
+    "team": "PIT",
+    "fitScore": 0.2875
+  },
+  {
+    "pokedexId": 691,
+    "formId": "dragalge",
+    "pokemon": "Dragalge",
+    "playerId": "9758",
+    "player": "C.J. Stroud",
+    "position": "QB",
+    "team": "HOU",
+    "fitScore": 0.2862
+  },
+  {
+    "pokedexId": 138,
+    "formId": "omanyte",
+    "pokemon": "Omanyte",
+    "playerId": "5865",
+    "player": "Dre'Mont Jones",
+    "position": "DL",
+    "team": "NE",
+    "fitScore": 0.2861
+  },
+  {
+    "pokedexId": 276,
+    "formId": "taillow",
+    "pokemon": "Taillow",
+    "playerId": "12916",
+    "player": "Jabbar Muhammad",
+    "position": "CB",
+    "team": "JAX",
+    "fitScore": 0.2855
+  },
+  {
+    "pokedexId": 520,
+    "formId": "tranquill",
+    "pokemon": "Tranquill",
+    "playerId": "7090",
+    "player": "Darnell Mooney",
+    "position": "WR",
+    "team": "NYG",
+    "fitScore": 0.2854
+  },
+  {
+    "pokedexId": 89,
+    "formId": "muk",
+    "pokemon": "Muk",
+    "playerId": "7664",
+    "player": "Christian Barmore",
+    "position": "DL",
+    "team": "NE",
+    "fitScore": 0.2849
+  },
+  {
+    "pokedexId": 551,
+    "formId": "sandile",
+    "pokemon": "Sandile",
+    "playerId": "8408",
+    "player": "Jordan Mason",
+    "position": "RB",
+    "team": "MIN",
+    "fitScore": 0.2846
+  },
+  {
+    "pokedexId": 595,
+    "formId": "joltik",
+    "pokemon": "Joltik",
+    "playerId": "4039",
+    "player": "Cooper Kupp",
+    "position": "WR",
+    "team": "SEA",
+    "fitScore": 0.2844
+  },
+  {
+    "pokedexId": 66,
+    "formId": "machop",
+    "pokemon": "Machop",
+    "playerId": "1947",
+    "player": "Jadeveon Clowney",
+    "position": "DL",
+    "team": "HOU",
+    "fitScore": 0.2839
+  },
+  {
+    "pokedexId": 449,
+    "formId": "hippopotas",
+    "pokemon": "Hippopotas",
+    "playerId": "1052",
+    "player": "Demario Davis",
+    "position": "LB",
+    "team": "NYJ",
+    "fitScore": 0.2831
+  },
+  {
+    "pokedexId": 201,
+    "formId": "unown",
+    "pokemon": "Unown",
+    "playerId": "6528",
+    "player": "Joey Slye",
+    "position": "K",
+    "team": "TEN",
+    "fitScore": 0.2829
+  },
+  {
+    "pokedexId": 597,
+    "formId": "ferroseed",
+    "pokemon": "Ferroseed",
+    "playerId": "3188",
+    "player": "Sheldon Rankins",
+    "position": "DL",
+    "team": "HOU",
+    "fitScore": 0.2824
+  },
+  {
+    "pokedexId": 394,
+    "formId": "prinplup",
+    "pokemon": "Prinplup",
+    "playerId": "3202",
+    "player": "Austin Hooper",
+    "position": "TE",
+    "team": "ATL",
+    "fitScore": 0.2823
+  },
+  {
+    "pokedexId": 302,
+    "formId": "sableye",
+    "pokemon": "Sableye",
+    "playerId": "11674",
+    "player": "Tyler Nubin",
+    "position": "S",
+    "team": "NYG",
+    "fitScore": 0.2818
+  },
+  {
+    "pokedexId": 84,
+    "formId": "doduo",
+    "pokemon": "Doduo",
+    "playerId": "4427",
+    "player": "Kenny Moore II",
+    "position": "CB",
+    "team": "PHI",
+    "fitScore": 0.2807
+  },
+  {
+    "pokedexId": 49,
+    "formId": "venomoth",
+    "pokemon": "Venomoth",
+    "playerId": "12547",
+    "player": "Kyle Williams",
+    "position": "WR",
+    "team": "NE",
+    "fitScore": 0.2806
+  },
+  {
+    "pokedexId": 231,
+    "formId": "phanpy",
+    "pokemon": "Phanpy",
+    "playerId": "11581",
+    "player": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB",
+    "fitScore": 0.2803
+  },
+  {
+    "pokedexId": 698,
+    "formId": "amaura",
+    "pokemon": "Amaura",
+    "playerId": "2033",
+    "player": "Shelby Harris",
+    "position": "DL",
+    "team": "NYG",
+    "fitScore": 0.2802
+  },
+  {
+    "pokedexId": 343,
+    "formId": "baltoy",
+    "pokemon": "Baltoy",
+    "playerId": "11739",
+    "player": "Evan Williams",
+    "position": "S",
+    "team": "GB",
+    "fitScore": 0.2796
+  },
+  {
+    "pokedexId": 603,
+    "formId": "eelektrik",
+    "pokemon": "Eelektrik",
+    "playerId": "13317",
+    "player": "Ted Hurst III",
+    "position": "WR",
+    "team": "TB",
+    "fitScore": 0.2795
+  },
+  {
+    "pokedexId": 233,
+    "formId": "porygon2",
+    "pokemon": "Porygon2",
+    "playerId": "13269",
+    "player": "Fernando Mendoza",
+    "position": "QB",
+    "team": "LV",
+    "fitScore": 0.2793
+  },
+  {
+    "pokedexId": 165,
+    "formId": "ledyba",
+    "pokemon": "Ledyba",
+    "playerId": "7835",
+    "player": "Michael Carter II",
+    "position": "CB",
+    "team": "PHI",
+    "fitScore": 0.2786
+  },
+  {
+    "pokedexId": 118,
+    "formId": "goldeen",
+    "pokemon": "Goldeen",
+    "playerId": "11595",
+    "player": "Jared Wiley",
+    "position": "TE",
+    "team": "KC",
+    "fitScore": 0.2768
+  },
+  {
+    "pokedexId": 569,
+    "formId": "garbodor",
+    "pokemon": "Garbodor",
+    "playerId": "11017",
+    "player": "Dee Winters",
+    "position": "LB",
+    "team": "DAL",
+    "fitScore": 0.2762
+  },
+  {
+    "pokedexId": 627,
+    "formId": "rufflet",
+    "pokemon": "Rufflet",
+    "playerId": "4915",
+    "player": "Michael Coe",
+    "position": "CB",
+    "team": "DAL",
+    "fitScore": 0.2753
+  },
+  {
+    "pokedexId": 295,
+    "formId": "exploud",
+    "pokemon": "Exploud",
+    "playerId": "9753",
+    "player": "Zach Charbonnet",
+    "position": "RB",
+    "team": "SEA",
+    "fitScore": 0.2737
+  },
+  {
+    "pokedexId": 50,
+    "formId": "diglett",
+    "pokemon": "Diglett",
+    "playerId": "11470",
+    "player": "Drake Thomas",
+    "position": "LB",
+    "team": "SEA",
+    "fitScore": 0.2737
+  },
+  {
+    "pokedexId": 184,
+    "formId": "azumarill",
+    "pokemon": "Azumarill",
+    "playerId": "4993",
+    "player": "Mike Gesicki",
+    "position": "TE",
+    "team": "CIN",
+    "fitScore": 0.2733
+  },
+  {
+    "pokedexId": 333,
+    "formId": "swablu",
+    "pokemon": "Swablu",
+    "playerId": "4982",
+    "player": "Mike Hughes",
+    "position": "CB",
+    "team": "ATL",
+    "fitScore": 0.2731
+  },
+  {
+    "pokedexId": 253,
+    "formId": "grovyle",
+    "pokemon": "Grovyle",
+    "playerId": "13296",
+    "player": "Caleb Douglas",
+    "position": "WR",
+    "team": "MIA",
+    "fitScore": 0.273
+  },
+  {
+    "pokedexId": 71,
+    "formId": "victreebel",
+    "pokemon": "Victreebel",
+    "playerId": "7921",
+    "player": "Christian Elliss",
+    "position": "LB",
+    "team": "NE",
+    "fitScore": 0.2714
+  },
+  {
+    "pokedexId": 418,
+    "formId": "buizel",
+    "pokemon": "Buizel",
+    "playerId": "13319",
+    "player": "Oscar Delp",
+    "position": "TE",
+    "team": "NO",
+    "fitScore": 0.2713
+  },
+  {
+    "pokedexId": 563,
+    "formId": "cofagrigus",
+    "pokemon": "Cofagrigus",
+    "playerId": "3295",
+    "player": "Dean Lowry",
+    "position": "DL",
+    "team": "NYG",
+    "fitScore": 0.2713
+  },
+  {
+    "pokedexId": 228,
+    "formId": "houndour",
+    "pokemon": "Houndour",
+    "playerId": "11731",
+    "player": "Malik Mustapha",
+    "position": "S",
+    "team": "SF",
+    "fitScore": 0.2708
+  },
+  {
+    "pokedexId": 447,
+    "formId": "riolu",
+    "pokemon": "Riolu",
+    "playerId": "5030",
+    "player": "Harold Landry III",
+    "position": "LB",
+    "team": "NE",
+    "fitScore": 0.2703
+  },
+  {
+    "pokedexId": 374,
+    "formId": "beldum",
+    "pokemon": "Beldum",
+    "playerId": "3763",
+    "player": "Woodrow Hamilton",
+    "position": "DL",
+    "team": "NYG",
+    "fitScore": 0.27
+  },
+  {
+    "pokedexId": 434,
+    "formId": "stunky",
+    "pokemon": "Stunky",
+    "playerId": "4963",
+    "player": "Minkah Fitzpatrick",
+    "position": "S",
+    "team": "NYJ",
+    "fitScore": 0.2696
+  },
+  {
+    "pokedexId": 104,
+    "formId": "cubone",
+    "pokemon": "Cubone",
+    "playerId": "10970",
+    "player": "Henry To'oTo'o",
+    "position": "LB",
+    "team": "HOU",
+    "fitScore": 0.2687
+  },
+  {
+    "pokedexId": 341,
+    "formId": "corphish",
+    "pokemon": "Corphish",
+    "playerId": "7568",
+    "player": "Brevin Jordan",
+    "position": "TE",
+    "team": "HOU",
+    "fitScore": 0.2684
+  },
+  {
+    "pokedexId": 234,
+    "formId": "stantler",
+    "pokemon": "Stantler",
+    "playerId": "12474",
+    "player": "Woody Marks",
+    "position": "RB",
+    "team": "HOU",
+    "fitScore": 0.2682
+  },
+  {
+    "pokedexId": 366,
+    "formId": "clamperl",
+    "pokemon": "Clamperl",
+    "playerId": "4066",
+    "player": "Evan Engram",
+    "position": "TE",
+    "team": "DEN",
+    "fitScore": 0.2669
+  },
+  {
+    "pokedexId": 421,
+    "formId": "cherrim",
+    "pokemon": "Cherrim",
+    "playerId": "13311",
+    "player": "Chris Bell",
+    "position": "WR",
+    "team": "MIA",
+    "fitScore": 0.2669
+  },
+  {
+    "pokedexId": 354,
+    "formId": "banette",
+    "pokemon": "Banette",
+    "playerId": "5580",
+    "player": "Frankie Luvu",
+    "position": "LB",
+    "team": "WAS",
+    "fitScore": 0.2663
+  },
+  {
+    "pokedexId": 45,
+    "formId": "vileplume",
+    "pokemon": "Vileplume",
+    "playerId": "13833",
+    "player": "Dominic Zvada",
+    "position": "K",
+    "team": "NYG",
+    "fitScore": 0.2658
+  },
+  {
+    "pokedexId": 318,
+    "formId": "carvanha",
+    "pokemon": "Carvanha",
+    "playerId": "13308",
+    "player": "Bauer Sharp",
+    "position": "TE",
+    "team": "TB",
+    "fitScore": 0.265
+  },
+  {
+    "pokedexId": 436,
+    "formId": "bronzor",
+    "pokemon": "Bronzor",
+    "playerId": "2126",
+    "player": "Caraun Reid",
+    "position": "DL",
+    "team": "LAC",
+    "fitScore": 0.2649
+  },
+  {
+    "pokedexId": 415,
+    "formId": "combee",
+    "pokemon": "Combee",
+    "playerId": "5150",
+    "player": "Heath Harding",
+    "position": "CB",
+    "team": "ATL",
+    "fitScore": 0.2646
+  },
+  {
+    "pokedexId": 611,
+    "formId": "fraxure",
+    "pokemon": "Fraxure",
+    "playerId": "6056",
+    "player": "Dre Greenlaw",
+    "position": "LB",
+    "team": "SF",
+    "fitScore": 0.264
+  },
+  {
+    "pokedexId": 709,
+    "formId": "trevenant",
+    "pokemon": "Trevenant",
+    "playerId": "2517",
+    "player": "Christian Covington",
+    "position": "DL",
+    "team": "LAC",
+    "fitScore": 0.263
+  },
+  {
+    "pokedexId": 364,
+    "formId": "sealeo",
+    "pokemon": "Sealeo",
+    "playerId": "9479",
+    "player": "Darnell Washington",
+    "position": "TE",
+    "team": "PIT",
+    "fitScore": 0.2626
+  },
+  {
+    "pokedexId": 20,
+    "formId": "raticate",
+    "pokemon": "Raticate",
+    "playerId": "11749",
+    "player": "Cam Hart",
+    "position": "CB",
+    "team": "LAC",
+    "fitScore": 0.2626
+  },
+  {
+    "pokedexId": 443,
+    "formId": "gible",
+    "pokemon": "Gible",
+    "playerId": "13337",
+    "player": "Emmett Johnson",
+    "position": "RB",
+    "team": "KC",
+    "fitScore": 0.2625
+  },
+  {
+    "pokedexId": 688,
+    "formId": "binacle",
+    "pokemon": "Binacle",
+    "playerId": "7726",
+    "player": "Derrick Barnes",
+    "position": "LB",
+    "team": "DET",
+    "fitScore": 0.2618
+  },
+  {
+    "pokedexId": 705,
+    "formId": "sliggoo",
+    "pokemon": "Sliggoo",
+    "playerId": "12522",
+    "player": "Cam Ward",
+    "position": "QB",
+    "team": "TEN",
+    "fitScore": 0.2614
+  },
+  {
+    "pokedexId": 307,
+    "formId": "meditite",
+    "pokemon": "Meditite",
+    "playerId": "5071",
+    "player": "DeShon Elliott",
+    "position": "S",
+    "team": "PIT",
+    "fitScore": 0.2613
+  },
+  {
+    "pokedexId": 200,
+    "formId": "misdreavus",
+    "pokemon": "Misdreavus",
+    "playerId": "12497",
+    "player": "Tory Horton",
+    "position": "WR",
+    "team": "SEA",
+    "fitScore": 0.2613
+  },
+  {
+    "pokedexId": 120,
+    "formId": "staryu",
+    "pokemon": "Staryu",
+    "playerId": "13400",
+    "player": "Justin Joly",
+    "position": "TE",
+    "team": "MIA",
+    "fitScore": 0.2612
+  },
+  {
+    "pokedexId": 682,
+    "formId": "spritzee",
+    "pokemon": "Spritzee",
+    "playerId": "12185",
+    "player": "Spencer Shrader",
+    "position": "K",
+    "team": "IND",
+    "fitScore": 0.2604
+  },
+  {
+    "pokedexId": 264,
+    "formId": "linoone",
+    "pokemon": "Linoone",
+    "playerId": "5054",
+    "player": "Carlton Davis III",
+    "position": "CB",
+    "team": "NE",
+    "fitScore": 0.2595
+  },
+  {
+    "pokedexId": 622,
+    "formId": "golett",
+    "pokemon": "Golett",
+    "playerId": "4035",
+    "player": "Alvin Kamara",
+    "position": "RB",
+    "team": "NO",
+    "fitScore": 0.2592
+  },
+  {
+    "pokedexId": 631,
+    "formId": "heatmor",
+    "pokemon": "Heatmor",
+    "playerId": "11783",
+    "player": "Ryan Flournoy",
+    "position": "WR",
+    "team": "DAL",
+    "fitScore": 0.2586
+  },
+  {
+    "pokedexId": 281,
+    "formId": "kirlia",
+    "pokemon": "Kirlia",
+    "playerId": "8161",
+    "player": "Malik Willis",
+    "position": "QB",
+    "team": "MIA",
+    "fitScore": 0.2585
+  },
+  {
+    "pokedexId": 599,
+    "formId": "klink",
+    "pokemon": "Klink",
+    "playerId": "4092",
+    "player": "Dalvin Tomlinson",
+    "position": "DL",
+    "team": "LAC",
+    "fitScore": 0.2585
+  },
+  {
+    "pokedexId": 328,
+    "formId": "trapinch",
+    "pokemon": "Trapinch",
+    "playerId": "6131",
+    "player": "Mack Wilson Sr.",
+    "position": "LB",
+    "team": "ARI",
+    "fitScore": 0.2578
+  },
+  {
+    "pokedexId": 591,
+    "formId": "amoonguss",
+    "pokemon": "Amoonguss",
+    "playerId": "6887",
+    "player": "Larrell Murchison",
+    "position": "DL",
+    "team": "LAR",
+    "fitScore": 0.2567
+  },
+  {
+    "pokedexId": 21,
+    "formId": "spearow",
+    "pokemon": "Spearow",
+    "playerId": "8011",
+    "player": "DJ Daniel",
+    "position": "CB",
+    "team": "NE",
+    "fitScore": 0.2567
+  },
+  {
+    "pokedexId": 113,
+    "formId": "chansey",
+    "pokemon": "Chansey",
+    "playerId": "9508",
+    "player": "Tyjae Spears",
+    "position": "RB",
+    "team": "TEN",
+    "fitScore": 0.2564
+  },
+  {
+    "pokedexId": 60,
+    "formId": "poliwag",
+    "pokemon": "Poliwag",
+    "playerId": "13630",
+    "player": "Evan Svoboda",
+    "position": "TE",
+    "team": "LAC",
+    "fitScore": 0.2557
+  },
+  {
+    "pokedexId": 574,
+    "formId": "gothita",
+    "pokemon": "Gothita",
+    "playerId": "8333",
+    "player": "Alontae Taylor",
+    "position": "S",
+    "team": "TEN",
+    "fitScore": 0.2556
+  },
+  {
+    "pokedexId": 24,
+    "formId": "arbok",
+    "pokemon": "Arbok",
+    "playerId": "7677",
+    "player": "Divine Deablo",
+    "position": "LB",
+    "team": "ATL",
+    "fitScore": 0.2553
+  },
+  {
+    "pokedexId": 314,
+    "formId": "illumise",
+    "pokemon": "Illumise",
+    "playerId": "12137",
+    "player": "Charles Woods",
+    "position": "CB",
+    "team": "NE",
+    "fitScore": 0.2552
+  },
+  {
+    "pokedexId": 202,
+    "formId": "wobbuffet",
+    "pokemon": "Wobbuffet",
+    "playerId": "7369",
+    "player": "Bill Murray",
+    "position": "DL",
+    "team": "LAR",
+    "fitScore": 0.2551
+  },
+  {
+    "pokedexId": 580,
+    "formId": "ducklett",
+    "pokemon": "Ducklett",
+    "playerId": "5098",
+    "player": "Siran Neal",
+    "position": "CB",
+    "team": "SF",
+    "fitScore": 0.2544
+  },
+  {
+    "pokedexId": 362,
+    "formId": "glalie",
+    "pokemon": "Glalie",
+    "playerId": "13268",
+    "player": "Elijah Sarratt",
+    "position": "WR",
+    "team": "BAL",
+    "fitScore": 0.2542
+  },
+  {
+    "pokedexId": 570,
+    "formId": "zorua",
+    "pokemon": "Zorua",
+    "playerId": "6301",
+    "player": "Nick Scott",
+    "position": "S",
+    "team": "CAR",
+    "fitScore": 0.2537
+  },
+  {
+    "pokedexId": 453,
+    "formId": "croagunk",
+    "pokemon": "Croagunk",
+    "playerId": "13305",
+    "player": "Mike Washington Jr.",
+    "position": "RB",
+    "team": "LV",
+    "fitScore": 0.2536
+  },
+  {
+    "pokedexId": 288,
+    "formId": "vigoroth",
+    "pokemon": "Vigoroth",
+    "playerId": "5894",
+    "player": "Germaine Pratt",
+    "position": "LB",
+    "team": "IND",
+    "fitScore": 0.2534
+  },
+  {
+    "pokedexId": 602,
+    "formId": "tynamo",
+    "pokemon": "Tynamo",
+    "playerId": "13285",
+    "player": "Malachi Fields",
+    "position": "WR",
+    "team": "NYG",
+    "fitScore": 0.2532
+  },
+  {
+    "pokedexId": 158,
+    "formId": "totodile",
+    "pokemon": "Totodile",
+    "playerId": "11716",
+    "player": "Tip Reiman",
+    "position": "TE",
+    "team": "ARI",
+    "fitScore": 0.253
+  },
+  {
+    "pokedexId": 313,
+    "formId": "volbeat",
+    "pokemon": "Volbeat",
+    "playerId": "12631",
+    "player": "Upton Stout",
+    "position": "CB",
+    "team": "SF",
+    "fitScore": 0.2528
+  },
+  {
+    "pokedexId": 290,
+    "formId": "nincada",
+    "pokemon": "Nincada",
+    "playerId": "13488",
+    "player": "Kaleb Elarms-Orr",
+    "position": "LB",
+    "team": "BUF",
+    "fitScore": 0.2519
+  },
+  {
+    "pokedexId": 246,
+    "formId": "larvitar",
+    "pokemon": "Larvitar",
+    "playerId": "11021",
+    "player": "Desjuan Johnson",
+    "position": "DL",
+    "team": "LAR",
+    "fitScore": 0.2513
+  },
+  {
+    "pokedexId": 661,
+    "formId": "fletchling",
+    "pokemon": "Fletchling",
+    "playerId": "7571",
+    "player": "Rashod Bateman",
+    "position": "WR",
+    "team": "BAL",
+    "fitScore": 0.2513
+  },
+  {
+    "pokedexId": 370,
+    "formId": "luvdisc",
+    "pokemon": "Luvdisc",
+    "playerId": "13870",
+    "player": "Quentin Moore",
+    "position": "TE",
+    "team": "WAS",
+    "fitScore": 0.2512
+  },
+  {
+    "pokedexId": 339,
+    "formId": "barboach",
+    "pokemon": "Barboach",
+    "playerId": "10219",
+    "player": "Chris Rodriguez Jr.",
+    "position": "RB",
+    "team": "JAX",
+    "fitScore": 0.2509
+  },
+  {
+    "pokedexId": 669,
+    "formId": "flabebe",
+    "pokemon": "Flabebe",
+    "playerId": "5119",
+    "player": "Jason Sanders",
+    "position": "K",
+    "team": "NYJ",
+    "fitScore": 0.2508
+  },
+  {
+    "pokedexId": 372,
+    "formId": "shelgon",
+    "pokemon": "Shelgon",
+    "playerId": "5371",
+    "player": "Kentavius Street",
+    "position": "DL",
+    "team": "CHI",
+    "fitScore": 0.2497
+  },
+  {
+    "pokedexId": 433,
+    "formId": "chingling",
+    "pokemon": "Chingling",
+    "playerId": "5870",
+    "player": "Daniel Jones",
+    "position": "QB",
+    "team": "IND",
+    "fitScore": 0.2496
+  },
+  {
+    "pokedexId": 320,
+    "formId": "wailmer",
+    "pokemon": "Wailmer",
+    "playerId": "6451",
+    "player": "Stephen Carlson",
+    "position": "TE",
+    "team": "CHI",
+    "fitScore": 0.2489
+  },
+  {
+    "pokedexId": 460,
+    "formId": "abomasnow",
+    "pokemon": "Abomasnow",
+    "playerId": "6825",
+    "player": "Neville Gallimore",
+    "position": "DL",
+    "team": "CHI",
+    "fitScore": 0.2477
+  },
+  {
+    "pokedexId": 274,
+    "formId": "nuzleaf",
+    "pokemon": "Nuzleaf",
+    "playerId": "6911",
+    "player": "Brandon Jones",
+    "position": "S",
+    "team": "DEN",
+    "fitScore": 0.2474
+  },
+  {
+    "pokedexId": 35,
+    "formId": "clefairy",
+    "pokemon": "Clefairy",
+    "playerId": "13968",
+    "player": "Drew Stevens",
+    "position": "K",
+    "team": "WAS",
+    "fitScore": 0.2462
+  },
+  {
+    "pokedexId": 182,
+    "formId": "bellossom",
+    "pokemon": "Bellossom",
+    "playerId": "2993",
+    "player": "Rakeem Nunez-Roches",
+    "position": "DL",
+    "team": "TB",
+    "fitScore": 0.2459
+  },
+  {
+    "pokedexId": 456,
+    "formId": "finneon",
+    "pokemon": "Finneon",
+    "playerId": "12473",
+    "player": "Mitchell Evans",
+    "position": "TE",
+    "team": "CAR",
+    "fitScore": 0.2455
+  },
+  {
+    "pokedexId": 336,
+    "formId": "seviper",
+    "pokemon": "Seviper",
+    "playerId": "9486",
+    "player": "Dontayvion Wicks",
+    "position": "WR",
+    "team": "PHI",
+    "fitScore": 0.2449
+  },
+  {
+    "pokedexId": 162,
+    "formId": "furret",
+    "pokemon": "Furret",
+    "playerId": "8136",
+    "player": "Rachaad White",
+    "position": "RB",
+    "team": "WAS",
+    "fitScore": 0.2448
+  },
+  {
+    "pokedexId": 163,
+    "formId": "hoothoot",
+    "pokemon": "Hoothoot",
+    "playerId": "7628",
+    "player": "Eric Stokes",
+    "position": "CB",
+    "team": "LV",
+    "fitScore": 0.2442
+  },
+  {
+    "pokedexId": 92,
+    "formId": "gastly",
+    "pokemon": "Gastly",
+    "playerId": "11637",
+    "player": "Keon Coleman",
+    "position": "WR",
+    "team": "BUF",
+    "fitScore": 0.2442
+  },
+  {
+    "pokedexId": 317,
+    "formId": "swalot",
+    "pokemon": "Swalot",
+    "playerId": "6005",
+    "player": "Kevin Givens",
+    "position": "DL",
+    "team": "SF",
+    "fitScore": 0.2441
+  },
+  {
+    "pokedexId": 223,
+    "formId": "remoraid",
+    "pokemon": "Remoraid",
+    "playerId": "12658",
+    "player": "Jackson Hawes",
+    "position": "TE",
+    "team": "BUF",
+    "fitScore": 0.2436
+  },
+  {
+    "pokedexId": 509,
+    "formId": "purrloin",
+    "pokemon": "Purrloin",
+    "playerId": "13370",
+    "player": "Chris Johnson",
+    "position": "S",
+    "team": "MIA",
+    "fitScore": 0.2431
+  },
+  {
+    "pokedexId": 322,
+    "formId": "numel",
+    "pokemon": "Numel",
+    "playerId": "12469",
+    "player": "Dylan Sampson",
+    "position": "RB",
+    "team": "CLE",
+    "fitScore": 0.2431
+  },
+  {
+    "pokedexId": 656,
+    "formId": "froakie",
+    "pokemon": "Froakie",
+    "playerId": "13121",
+    "player": "Ben Yurosek",
+    "position": "TE",
+    "team": "MIN",
+    "fitScore": 0.242
+  },
+  {
+    "pokedexId": 556,
+    "formId": "maractus",
+    "pokemon": "Maractus",
+    "playerId": "11834",
+    "player": "Devaughn Vele",
+    "position": "WR",
+    "team": "NO",
+    "fitScore": 0.2418
+  },
+  {
+    "pokedexId": 356,
+    "formId": "dusclops",
+    "pokemon": "Dusclops",
+    "playerId": "8736",
+    "player": "Elijah Garcia",
+    "position": "DL",
+    "team": "DAL",
+    "fitScore": 0.2417
+  },
+  {
+    "pokedexId": 187,
+    "formId": "hoppip",
+    "pokemon": "Hoppip",
+    "playerId": "10978",
+    "player": "Darrell Luter Jr.",
+    "position": "CB",
+    "team": "LV",
+    "fitScore": 0.2413
+  },
+  {
+    "pokedexId": 684,
+    "formId": "swirlix",
+    "pokemon": "Swirlix",
+    "playerId": "1433",
+    "player": "Brandon McManus",
+    "position": "K",
+    "team": "LAR",
+    "fitScore": 0.241
+  },
+  {
+    "pokedexId": 714,
+    "formId": "noibat",
+    "pokemon": "Noibat",
+    "playerId": "4950",
+    "player": "Christian Kirk",
+    "position": "WR",
+    "team": "SF",
+    "fitScore": 0.2395
+  },
+  {
+    "pokedexId": 102,
+    "formId": "exeggcute",
+    "pokemon": "Exeggcute",
+    "playerId": "9228",
+    "player": "Bryce Young",
+    "position": "QB",
+    "team": "CAR",
+    "fitScore": 0.2394
+  },
+  {
+    "pokedexId": 517,
+    "formId": "munna",
+    "pokemon": "Munna",
+    "playerId": "138",
+    "player": "Ben Roethlisberger",
+    "position": "QB",
+    "team": "PIT",
+    "fitScore": 0.2372
+  },
+  {
+    "pokedexId": 77,
+    "formId": "ponyta",
+    "pokemon": "Ponyta",
+    "playerId": "5372",
+    "player": "D.J. Reed",
+    "position": "CB",
+    "team": "DET",
+    "fitScore": 0.2369
+  },
+  {
+    "pokedexId": 296,
+    "formId": "makuhita",
+    "pokemon": "Makuhita",
+    "playerId": "8821",
+    "player": "Adedayo Odeleye",
+    "position": "DL",
+    "team": "DAL",
+    "fitScore": 0.2365
+  },
+  {
+    "pokedexId": 654,
+    "formId": "braixen",
+    "pokemon": "Braixen",
+    "playerId": "11802",
+    "player": "Tejhaun Palmer",
+    "position": "WR",
+    "team": "LAC",
+    "fitScore": 0.236
+  },
+  {
+    "pokedexId": 220,
+    "formId": "swinub",
+    "pokemon": "Swinub",
+    "playerId": "11576",
+    "player": "Braelon Allen",
+    "position": "RB",
+    "team": "NYJ",
+    "fitScore": 0.2357
+  },
+  {
+    "pokedexId": 156,
+    "formId": "quilava",
+    "pokemon": "Quilava",
+    "playerId": "11633",
+    "player": "Jamari Thrash",
+    "position": "WR",
+    "team": "LV",
+    "fitScore": 0.2351
+  },
+  {
+    "pokedexId": 41,
+    "formId": "zubat",
+    "pokemon": "Zubat",
+    "playerId": "6128",
+    "player": "Rock Ya-Sin",
+    "position": "CB",
+    "team": "DET",
+    "fitScore": 0.2349
+  },
+  {
+    "pokedexId": 531,
+    "formId": "audino",
+    "pokemon": "Audino",
+    "playerId": "3197",
+    "player": "Emmanuel Ogbah",
+    "position": "DL",
+    "team": "KC",
+    "fitScore": 0.2346
+  },
+  {
+    "pokedexId": 505,
+    "formId": "watchog",
+    "pokemon": "Watchog",
+    "playerId": "7626",
+    "player": "Odafe Oweh",
+    "position": "LB",
+    "team": "WAS",
+    "fitScore": 0.2344
+  },
+  {
+    "pokedexId": 5,
+    "formId": "charmeleon",
+    "pokemon": "Charmeleon",
+    "playerId": "11617",
+    "player": "Malachi Corley",
+    "position": "WR",
+    "team": "CLE",
+    "fitScore": 0.2343
+  },
+  {
+    "pokedexId": 396,
+    "formId": "starly",
+    "pokemon": "Starly",
+    "playerId": "7200",
+    "player": "Khalil Dorsey",
+    "position": "CB",
+    "team": "DET",
+    "fitScore": 0.2339
+  },
+  {
+    "pokedexId": 72,
+    "formId": "tentacool",
+    "pokemon": "Tentacool",
+    "playerId": "13397",
+    "player": "Keith Abney II",
+    "position": "S",
+    "team": "DET",
+    "fitScore": 0.2338
+  },
+  {
+    "pokedexId": 172,
+    "formId": "pichu",
+    "pokemon": "Pichu",
+    "playerId": "6314",
+    "player": "Cam Lewis",
+    "position": "CB",
+    "team": "CHI",
+    "fitScore": 0.2335
+  },
+  {
+    "pokedexId": 179,
+    "formId": "mareep",
+    "pokemon": "Mareep",
+    "playerId": "12829",
+    "player": "Coleman Owen",
+    "position": "WR",
+    "team": "GB",
+    "fitScore": 0.2329
+  },
+  {
+    "pokedexId": 16,
+    "formId": "pidgey",
+    "pokemon": "Pidgey",
+    "playerId": "8714",
+    "player": "Josh Blackwell",
+    "position": "CB",
+    "team": "CHI",
+    "fitScore": 0.2318
+  },
+  {
+    "pokedexId": 352,
+    "formId": "kecleon",
+    "pokemon": "Kecleon",
+    "playerId": "11676",
+    "player": "Mike Sainristil",
+    "position": "S",
+    "team": "WAS",
+    "fitScore": 0.2307
+  },
+  {
+    "pokedexId": 388,
+    "formId": "grotle",
+    "pokemon": "Grotle",
+    "playerId": "7756",
+    "player": "Khyiris Tonga",
+    "position": "DL",
+    "team": "KC",
+    "fitScore": 0.2301
+  },
+  {
+    "pokedexId": 315,
+    "formId": "roselia",
+    "pokemon": "Roselia",
+    "playerId": "11474",
+    "player": "Dylan Drummond",
+    "position": "WR",
+    "team": "ATL",
+    "fitScore": 0.2294
+  },
+  {
+    "pokedexId": 496,
+    "formId": "servine",
+    "pokemon": "Servine",
+    "playerId": "11489",
+    "player": "Kahlef Hailassie",
+    "position": "CB",
+    "team": "GB",
+    "fitScore": 0.2288
+  },
+  {
+    "pokedexId": 114,
+    "formId": "tangela",
+    "pokemon": "Tangela",
+    "playerId": "10872",
+    "player": "Felix Anudike-Uzomah",
+    "position": "DL",
+    "team": "KC",
+    "fitScore": 0.2285
+  },
+  {
+    "pokedexId": 455,
+    "formId": "carnivine",
+    "pokemon": "Carnivine",
+    "playerId": "6860",
+    "player": "Akeem Davis-Gaither",
+    "position": "LB",
+    "team": "IND",
+    "fitScore": 0.2276
+  },
+  {
+    "pokedexId": 686,
+    "formId": "inkay",
+    "pokemon": "Inkay",
+    "playerId": "6284",
+    "player": "Marcus Epps",
+    "position": "S",
+    "team": "PHI",
+    "fitScore": 0.2263
+  },
+  {
+    "pokedexId": 446,
+    "formId": "munchlax",
+    "pokemon": "Munchlax",
+    "playerId": "3217",
+    "player": "Jihad Ward",
+    "position": "DL",
+    "team": "MIN",
+    "fitScore": 0.2243
+  },
+  {
+    "pokedexId": 633,
+    "formId": "deino",
+    "pokemon": "Deino",
+    "playerId": "13367",
+    "player": "Colton Hood",
+    "position": "S",
+    "team": "NYG",
+    "fitScore": 0.2227
+  },
+  {
+    "pokedexId": 148,
+    "formId": "dragonair",
+    "pokemon": "Dragonair",
+    "playerId": "12648",
+    "player": "Cody Simon",
+    "position": "LB",
+    "team": "ARI",
+    "fitScore": 0.2223
+  },
+  {
+    "pokedexId": 15,
+    "formId": "beedrill",
+    "pokemon": "Beedrill",
+    "playerId": "11647",
+    "player": "Kimani Vidal",
+    "position": "RB",
+    "team": "LAC",
+    "fitScore": 0.2219
+  },
+  {
+    "pokedexId": 240,
+    "formId": "magby",
+    "pokemon": "Magby",
+    "playerId": "3200",
+    "player": "Sterling Shepard",
+    "position": "WR",
+    "team": "NYJ",
+    "fitScore": 0.2212
+  },
+  {
+    "pokedexId": 651,
+    "formId": "quilladin",
+    "pokemon": "Quilladin",
+    "playerId": "12640",
+    "player": "Teddye Buchanan",
+    "position": "LB",
+    "team": "BAL",
+    "fitScore": 0.2205
+  },
+  {
+    "pokedexId": 301,
+    "formId": "delcatty",
+    "pokemon": "Delcatty",
+    "playerId": "13208",
+    "player": "Kyrese Rowan",
+    "position": "WR",
+    "team": "NO",
+    "fitScore": 0.2202
+  },
+  {
+    "pokedexId": 403,
+    "formId": "shinx",
+    "pokemon": "Shinx",
+    "playerId": "2750",
+    "player": "DeAndre Carter",
+    "position": "WR",
+    "team": "DET",
+    "fitScore": 0.2193
+  },
+  {
+    "pokedexId": 206,
+    "formId": "dunsparce",
+    "pokemon": "Dunsparce",
+    "playerId": "3637",
+    "player": "Eddie Yarbrough",
+    "position": "DL",
+    "team": "MIN",
+    "fitScore": 0.2176
+  },
+  {
+    "pokedexId": 47,
+    "formId": "parasect",
+    "pokemon": "Parasect",
+    "playerId": "3299",
+    "player": "Ronald Blair",
+    "position": "DL",
+    "team": "NYJ",
+    "fitScore": 0.2149
+  },
+  {
+    "pokedexId": 269,
+    "formId": "dustox",
+    "pokemon": "Dustox",
+    "playerId": "13399",
+    "player": "Genesis Smith",
+    "position": "S",
+    "team": "LAC",
+    "fitScore": 0.2141
+  },
+  {
+    "pokedexId": 402,
+    "formId": "kricketune",
+    "pokemon": "Kricketune",
+    "playerId": "13405",
+    "player": "Kaytron Allen",
+    "position": "RB",
+    "team": "MIA",
+    "fitScore": 0.2122
+  },
+  {
+    "pokedexId": 519,
+    "formId": "pidove",
+    "pokemon": "Pidove",
+    "playerId": "11311",
+    "player": "Jason Brownlee",
+    "position": "WR",
+    "team": "NYG",
+    "fitScore": 0.212
+  },
+  {
+    "pokedexId": 192,
+    "formId": "sunflora",
+    "pokemon": "Sunflora",
+    "playerId": "3257",
+    "player": "Jacoby Brissett",
+    "position": "QB",
+    "team": "ARI",
+    "fitScore": 0.2107
+  },
+  {
+    "pokedexId": 351,
+    "formId": "castform",
+    "pokemon": "Castform",
+    "playerId": "10980",
+    "player": "SirVocea Dennis",
+    "position": "LB",
+    "team": "TB",
+    "fitScore": 0.2088
+  },
+  {
+    "pokedexId": 190,
+    "formId": "aipom",
+    "pokemon": "Aipom",
+    "playerId": "13544",
+    "player": "Domani Jackson",
+    "position": "CB",
+    "team": "GB",
+    "fitScore": 0.2078
+  },
+  {
+    "pokedexId": 168,
+    "formId": "ariados",
+    "pokemon": "Ariados",
+    "playerId": "5049",
+    "player": "Harrison Phillips",
+    "position": "DL",
+    "team": "NYJ",
+    "fitScore": 0.2074
+  },
+  {
+    "pokedexId": 427,
+    "formId": "buneary",
+    "pokemon": "Buneary",
+    "playerId": "6809",
+    "player": "Trevon Diggs",
+    "position": "CB",
+    "team": "SEA",
+    "fitScore": 0.2069
+  },
+  {
+    "pokedexId": 413,
+    "formId": "wormadam",
+    "pokemon": "Wormadam",
+    "playerId": "1373",
+    "player": "Geno Smith",
+    "position": "QB",
+    "team": "NYJ",
+    "fitScore": 0.2063
+  },
+  {
+    "pokedexId": 667,
+    "formId": "litleo",
+    "pokemon": "Litleo",
+    "playerId": "12884",
+    "player": "Quincy Skinner Jr.",
+    "position": "WR",
+    "team": "GB",
+    "fitScore": 0.2052
+  },
+  {
+    "pokedexId": 280,
+    "formId": "ralts",
+    "pokemon": "Ralts",
+    "playerId": "11565",
+    "player": "J.J. McCarthy",
+    "position": "QB",
+    "team": "NYG",
+    "fitScore": 0.2028
+  },
+  {
+    "pokedexId": 608,
+    "formId": "lampent",
+    "pokemon": "Lampent",
+    "playerId": "13411",
+    "player": "Zavion Thomas",
+    "position": "WR",
+    "team": "CHI",
+    "fitScore": 0.2011
+  },
+  {
+    "pokedexId": 507,
+    "formId": "herdier",
+    "pokemon": "Herdier",
+    "playerId": "6065",
+    "player": "Cody Barton",
+    "position": "LB",
+    "team": "TEN",
+    "fitScore": 0.1997
+  },
+  {
+    "pokedexId": 108,
+    "formId": "lickitung",
+    "pokemon": "Lickitung",
+    "playerId": "4058",
+    "player": "Solomon Thomas",
+    "position": "DL",
+    "team": "TEN",
+    "fitScore": 0.1993
+  },
+  {
+    "pokedexId": 70,
+    "formId": "weepinbell",
+    "pokemon": "Weepinbell",
+    "playerId": "13414",
+    "player": "Kaelon Black",
+    "position": "RB",
+    "team": "SF",
+    "fitScore": 0.1979
+  },
+  {
+    "pokedexId": 360,
+    "formId": "wynaut",
+    "pokemon": "Wynaut",
+    "playerId": "13386",
+    "player": "D'Angelo Ponds",
+    "position": "S",
+    "team": "NYJ",
+    "fitScore": 0.1964
+  },
+  {
+    "pokedexId": 636,
+    "formId": "larvesta",
+    "pokemon": "Larvesta",
+    "playerId": "1127",
+    "player": "Danny Trevathan",
+    "position": "LB",
+    "team": "CHI",
+    "fitScore": 0.1963
+  },
+  {
+    "pokedexId": 2,
+    "formId": "ivysaur",
+    "pokemon": "Ivysaur",
+    "playerId": "13343",
+    "player": "Vinny Anthony II",
+    "position": "WR",
+    "team": "ATL",
+    "fitScore": 0.1963
+  },
+  {
+    "pokedexId": 52,
+    "formId": "meowth",
+    "pokemon": "Meowth",
+    "playerId": "11753",
+    "player": "Nehemiah Pritchett",
+    "position": "CB",
+    "team": "SEA",
+    "fitScore": 0.1947
+  },
+  {
+    "pokedexId": 610,
+    "formId": "axew",
+    "pokemon": "Axew",
+    "playerId": "8349",
+    "player": "Jake Hansen",
+    "position": "LB",
+    "team": "HOU",
+    "fitScore": 0.1935
+  },
+  {
+    "pokedexId": 153,
+    "formId": "bayleef",
+    "pokemon": "Bayleef",
+    "playerId": "10974",
+    "player": "Antonio Johnson",
+    "position": "S",
+    "team": "JAX",
+    "fitScore": 0.1933
+  },
+  {
+    "pokedexId": 194,
+    "formId": "wooper",
+    "pokemon": "Wooper",
+    "playerId": "11435",
+    "player": "Emanuel Wilson",
+    "position": "RB",
+    "team": "SEA",
+    "fitScore": 0.1931
+  },
+  {
+    "pokedexId": 583,
+    "formId": "vanillish",
+    "pokemon": "Vanillish",
+    "playerId": "13402",
+    "player": "Skyler Bell",
+    "position": "WR",
+    "team": "BUF",
+    "fitScore": 0.193
+  },
+  {
+    "pokedexId": 541,
+    "formId": "swadloon",
+    "pokemon": "Swadloon",
+    "playerId": "4939",
+    "player": "Roderick Henderson",
+    "position": "DL",
+    "team": "TEN",
+    "fitScore": 0.1929
+  },
+  {
+    "pokedexId": 236,
+    "formId": "tyrogue",
+    "pokemon": "Tyrogue",
+    "playerId": "10873",
+    "player": "Nolan Smith Jr.",
+    "position": "LB",
+    "team": "PHI",
+    "fitScore": 0.1924
+  },
+  {
+    "pokedexId": 79,
+    "formId": "slowpoke",
+    "pokemon": "Slowpoke",
+    "playerId": "5333",
+    "player": "Jalyn Holmes",
+    "position": "DL",
+    "team": "TEN",
+    "fitScore": 0.1917
+  },
+  {
+    "pokedexId": 712,
+    "formId": "bergmite",
+    "pokemon": "Bergmite",
+    "playerId": "4148",
+    "player": "Carl Lawson",
+    "position": "DL",
+    "team": "IND",
+    "fitScore": 0.1874
+  },
+  {
+    "pokedexId": 554,
+    "formId": "darumaka",
+    "pokemon": "Darumaka",
+    "playerId": "11575",
+    "player": "Ray Davis",
+    "position": "RB",
+    "team": "BUF",
+    "fitScore": 0.1868
+  },
+  {
+    "pokedexId": 33,
+    "formId": "nidorino",
+    "pokemon": "Nidorino",
+    "playerId": "12140",
+    "player": "Omar Speights",
+    "position": "LB",
+    "team": "LAR",
+    "fitScore": 0.1867
+  },
+  {
+    "pokedexId": 252,
+    "formId": "treecko",
+    "pokemon": "Treecko",
+    "playerId": "8253",
+    "player": "Deven Thompkins",
+    "position": "WR",
+    "team": "LV",
+    "fitScore": 0.1857
+  },
+  {
+    "pokedexId": 261,
+    "formId": "poochyena",
+    "pokemon": "Poochyena",
+    "playerId": "5036",
+    "player": "Justin Reid",
+    "position": "S",
+    "team": "NO",
+    "fitScore": 0.1852
+  },
+  {
+    "pokedexId": 431,
+    "formId": "glameow",
+    "pokemon": "Glameow",
+    "playerId": "13565",
+    "player": "Andre Fuller",
+    "position": "CB",
+    "team": "SEA",
+    "fitScore": 0.1848
+  },
+  {
+    "pokedexId": 204,
+    "formId": "pineco",
+    "pokemon": "Pineco",
+    "playerId": "4168",
+    "player": "Grover Stewart",
+    "position": "DL",
+    "team": "IND",
+    "fitScore": 0.1845
+  },
+  {
+    "pokedexId": 109,
+    "formId": "koffing",
+    "pokemon": "Koffing",
+    "playerId": "6129",
+    "player": "Jerry Tillery",
+    "position": "DL",
+    "team": "IND",
+    "fitScore": 0.1836
+  },
+  {
+    "pokedexId": 349,
+    "formId": "feebas",
+    "pokemon": "Feebas",
+    "playerId": "6829",
+    "player": "Kristian Fulton",
+    "position": "CB",
+    "team": "KC",
+    "fitScore": 0.1832
+  },
+  {
+    "pokedexId": 451,
+    "formId": "skorupi",
+    "pokemon": "Skorupi",
+    "playerId": "11734",
+    "player": "Tyrice Knight",
+    "position": "LB",
+    "team": "SEA",
+    "fitScore": 0.1809
+  },
+  {
+    "pokedexId": 585,
+    "formId": "deerling",
+    "pokemon": "Deerling",
+    "playerId": "7117",
+    "player": "L'Jarius Sneed",
+    "position": "CB",
+    "team": "KC",
+    "fitScore": 0.1804
+  },
+  {
+    "pokedexId": 544,
+    "formId": "whirlipede",
+    "pokemon": "Whirlipede",
+    "playerId": "6893",
+    "player": "Robert Windsor",
+    "position": "DL",
+    "team": "IND",
+    "fitScore": 0.1801
+  },
+  {
+    "pokedexId": 44,
+    "formId": "gloom",
+    "pokemon": "Gloom",
+    "playerId": "12524",
+    "player": "Shedeur Sanders",
+    "position": "QB",
+    "team": "CLE",
+    "fitScore": 0.1798
+  },
+  {
+    "pokedexId": 294,
+    "formId": "loudred",
+    "pokemon": "Loudred",
+    "playerId": "12476",
+    "player": "Devin Neal",
+    "position": "RB",
+    "team": "WAS",
+    "fitScore": 0.179
+  },
+  {
+    "pokedexId": 58,
+    "formId": "growlithe",
+    "pokemon": "Growlithe",
+    "playerId": "6154",
+    "player": "David Sills V",
+    "position": "WR",
+    "team": "TB",
+    "fitScore": 0.1786
+  },
+  {
+    "pokedexId": 88,
+    "formId": "grimer",
+    "pokemon": "Grimer",
+    "playerId": "4170",
+    "player": "Samson Ebukam",
+    "position": "DL",
+    "team": "ATL",
+    "fitScore": 0.1781
+  },
+  {
+    "pokedexId": 137,
+    "formId": "porygon",
+    "pokemon": "Porygon",
+    "playerId": "11559",
+    "player": "Michael Penix Jr.",
+    "position": "QB",
+    "team": "ATL",
+    "fitScore": 0.1765
+  },
+  {
+    "pokedexId": 30,
+    "formId": "nidorina",
+    "pokemon": "Nidorina",
+    "playerId": "10934",
+    "player": "Zach Harrison",
+    "position": "DL",
+    "team": "ATL",
+    "fitScore": 0.1747
+  },
+  {
+    "pokedexId": 37,
+    "formId": "vulpix",
+    "pokemon": "Vulpix",
+    "playerId": "8857",
+    "player": "Kader Kohou",
+    "position": "CB",
+    "team": "KC",
+    "fitScore": 0.174
+  },
+  {
+    "pokedexId": 116,
+    "formId": "horsea",
+    "pokemon": "Horsea",
+    "playerId": "13760",
+    "player": "Jaden Bradley",
+    "position": "WR",
+    "team": "WAS",
+    "fitScore": 0.1732
+  },
+  {
+    "pokedexId": 568,
+    "formId": "trubbish",
+    "pokemon": "Trubbish",
+    "playerId": "6833",
+    "player": "Bryce Hall",
+    "position": "CB",
+    "team": "HOU",
+    "fitScore": 0.1727
+  },
+  {
+    "pokedexId": 710,
+    "formId": "pumpkaboo",
+    "pokemon": "Pumpkaboo",
+    "playerId": "2036",
+    "player": "Khalil Mack",
+    "position": "LB",
+    "team": "LAC",
+    "fitScore": 0.1718
+  },
+  {
+    "pokedexId": 4,
+    "formId": "charmander",
+    "pokemon": "Charmander",
+    "playerId": "13011",
+    "player": "Brennan Presley",
+    "position": "WR",
+    "team": "LAR",
+    "fitScore": 0.1714
+  },
+  {
+    "pokedexId": 155,
+    "formId": "cyndaquil",
+    "pokemon": "Cyndaquil",
+    "playerId": "7812",
+    "player": "Simi Fehoko",
+    "position": "WR",
+    "team": "ARI",
+    "fitScore": 0.1709
+  },
+  {
+    "pokedexId": 588,
+    "formId": "karrablast",
+    "pokemon": "Karrablast",
+    "playerId": "13361",
+    "player": "Romello Height",
+    "position": "LB",
+    "team": "SF",
+    "fitScore": 0.1705
+  },
+  {
+    "pokedexId": 371,
+    "formId": "bagon",
+    "pokemon": "Bagon",
+    "playerId": "8278",
+    "player": "Christian Harris",
+    "position": "LB",
+    "team": "ATL",
+    "fitScore": 0.1693
+  },
+  {
+    "pokedexId": 235,
+    "formId": "smeargle",
+    "pokemon": "Smeargle",
+    "playerId": "8901",
+    "player": "Ja'Marcus Ingram",
+    "position": "CB",
+    "team": "HOU",
+    "fitScore": 0.1686
+  },
+  {
+    "pokedexId": 592,
+    "formId": "frillish",
+    "pokemon": "Frillish",
+    "playerId": "8496",
+    "player": "Theo Jackson",
+    "position": "S",
+    "team": "MIN",
+    "fitScore": 0.1673
+  },
+  {
+    "pokedexId": 327,
+    "formId": "spinda",
+    "pokemon": "Spinda",
+    "playerId": "8396",
+    "player": "Micah McFadden",
+    "position": "LB",
+    "team": "NYG",
+    "fitScore": 0.167
+  },
+  {
+    "pokedexId": 572,
+    "formId": "minccino",
+    "pokemon": "Minccino",
+    "playerId": "13769",
+    "player": "Collin Wright",
+    "position": "CB",
+    "team": "HOU",
+    "fitScore": 0.1665
+  },
+  {
+    "pokedexId": 653,
+    "formId": "fennekin",
+    "pokemon": "Fennekin",
+    "playerId": "6386",
+    "player": "Alex Bachman",
+    "position": "WR",
+    "team": "LAR",
+    "fitScore": 0.1647
+  },
+  {
+    "pokedexId": 672,
+    "formId": "skiddo",
+    "pokemon": "Skiddo",
+    "playerId": "11643",
+    "player": "Jaylen Wright",
+    "position": "RB",
+    "team": "MIA",
+    "fitScore": 0.1643
+  },
+  {
+    "pokedexId": 406,
+    "formId": "budew",
+    "pokemon": "Budew",
+    "playerId": "12855",
+    "player": "Alijah Clark",
+    "position": "S",
+    "team": "DAL",
+    "fitScore": 0.1637
+  },
+  {
+    "pokedexId": 387,
+    "formId": "turtwig",
+    "pokemon": "Turtwig",
+    "playerId": "11698",
+    "player": "Maason Smith",
+    "position": "DL",
+    "team": "ATL",
+    "fitScore": 0.1628
+  },
+  {
+    "pokedexId": 513,
+    "formId": "pansear",
+    "pokemon": "Pansear",
+    "playerId": "6798",
+    "player": "Jalen Reagor",
+    "position": "WR",
+    "team": "MIA",
+    "fitScore": 0.1618
+  },
+  {
+    "pokedexId": 390,
+    "formId": "chimchar",
+    "pokemon": "Chimchar",
+    "playerId": "2078",
+    "player": "Odell Beckham Jr.",
+    "position": "WR",
+    "team": "MIN",
+    "fitScore": 0.1614
+  },
+  {
+    "pokedexId": 216,
+    "formId": "teddiursa",
+    "pokemon": "Teddiursa",
+    "playerId": "4415",
+    "player": "Adam Butler",
+    "position": "DL",
+    "team": "LV",
+    "fitScore": 0.1613
+  },
+  {
+    "pokedexId": 511,
+    "formId": "pansage",
+    "pokemon": "Pansage",
+    "playerId": "8917",
+    "player": "KaVontae Turpin",
+    "position": "WR",
+    "team": "DAL",
+    "fitScore": 0.1608
+  },
+  {
+    "pokedexId": 515,
+    "formId": "panpour",
+    "pokemon": "Panpour",
+    "playerId": "13533",
+    "player": "Barion Brown",
+    "position": "WR",
+    "team": "NO",
+    "fitScore": 0.1603
+  },
+  {
+    "pokedexId": 209,
+    "formId": "snubbull",
+    "pokemon": "Snubbull",
+    "playerId": "5090",
+    "player": "Folorunso Fatukasi",
+    "position": "DL",
+    "team": "LV",
+    "fitScore": 0.1602
+  },
+  {
+    "pokedexId": 292,
+    "formId": "shedinja",
+    "pokemon": "Shedinja",
+    "playerId": "11701",
+    "player": "Junior Colson",
+    "position": "LB",
+    "team": "LAC",
+    "fitScore": 0.1602
+  },
+  {
+    "pokedexId": 495,
+    "formId": "snivy",
+    "pokemon": "Snivy",
+    "playerId": "7630",
+    "player": "Greg Newsome II",
+    "position": "CB",
+    "team": "NYG",
+    "fitScore": 0.1598
+  },
+  {
+    "pokedexId": 271,
+    "formId": "lombre",
+    "pokemon": "Lombre",
+    "playerId": "11693",
+    "player": "Max Melton",
+    "position": "S",
+    "team": "ARI",
+    "fitScore": 0.1588
+  },
+  {
+    "pokedexId": 54,
+    "formId": "psyduck",
+    "pokemon": "Psyduck",
+    "playerId": "11157",
+    "player": "Brycen Tremayne",
+    "position": "WR",
+    "team": "CAR",
+    "fitScore": 0.1586
+  },
+  {
+    "pokedexId": 546,
+    "formId": "cottonee",
+    "pokemon": "Cottonee",
+    "playerId": "8752",
+    "player": "Ja'Quan McMillian",
+    "position": "CB",
+    "team": "DEN",
+    "fitScore": 0.1584
+  },
+  {
+    "pokedexId": 650,
+    "formId": "chespin",
+    "pokemon": "Chespin",
+    "playerId": "6273",
+    "player": "P.J. Johnson",
+    "position": "DL",
+    "team": "LV",
+    "fitScore": 0.1577
+  },
+  {
+    "pokedexId": 283,
+    "formId": "surskit",
+    "pokemon": "Surskit",
+    "playerId": "14059",
+    "player": "Sean Fresch Jr.",
+    "position": "CB",
+    "team": "DEN",
+    "fitScore": 0.1576
+  },
+  {
+    "pokedexId": 133,
+    "formId": "eevee",
+    "pokemon": "Eevee",
+    "playerId": "8510",
+    "player": "Russ Yeast",
+    "position": "S",
+    "team": "CIN",
+    "fitScore": 0.1572
+  },
+  {
+    "pokedexId": 616,
+    "formId": "shelmet",
+    "pokemon": "Shelmet",
+    "playerId": "4913",
+    "player": "Aiulua Fanene",
+    "position": "DL",
+    "team": "GB",
+    "fitScore": 0.1569
+  },
+  {
+    "pokedexId": 535,
+    "formId": "tympole",
+    "pokemon": "Tympole",
+    "playerId": "9501",
+    "player": "DeMario Douglas",
+    "position": "WR",
+    "team": "NE",
+    "fitScore": 0.1551
+  },
+  {
+    "pokedexId": 331,
+    "formId": "cacnea",
+    "pokemon": "Cacnea",
+    "playerId": "7647",
+    "player": "Pete Werner",
+    "position": "LB",
+    "team": "NO",
+    "fitScore": 0.154
+  },
+  {
+    "pokedexId": 287,
+    "formId": "slakoth",
+    "pokemon": "Slakoth",
+    "playerId": "11009",
+    "player": "Karl Brooks",
+    "position": "DL",
+    "team": "GB",
+    "fitScore": 0.1537
+  },
+  {
+    "pokedexId": 19,
+    "formId": "rattata",
+    "pokemon": "Rattata",
+    "playerId": "8478",
+    "player": "Samuel Womack III",
+    "position": "CB",
+    "team": "NYJ",
+    "fitScore": 0.1531
+  },
+  {
+    "pokedexId": 498,
+    "formId": "tepig",
+    "pokemon": "Tepig",
+    "playerId": "9757",
+    "player": "Kendre Miller",
+    "position": "RB",
+    "team": "NO",
+    "fitScore": 0.151
+  },
+  {
+    "pokedexId": 129,
+    "formId": "magikarp",
+    "pokemon": "Magikarp",
+    "playerId": "8666",
+    "player": "Darrell Baker Jr.",
+    "position": "CB",
+    "team": "MIA",
+    "fitScore": 0.151
+  },
+  {
+    "pokedexId": 1,
+    "formId": "bulbasaur",
+    "pokemon": "Bulbasaur",
+    "playerId": "11557",
+    "player": "Joe Milton",
+    "position": "QB",
+    "team": "PHI",
+    "fitScore": 0.1504
+  },
+  {
+    "pokedexId": 86,
+    "formId": "seel",
+    "pokemon": "Seel",
+    "playerId": "12748",
+    "player": "Major Burns",
+    "position": "S",
+    "team": "MIA",
+    "fitScore": 0.1498
+  },
+  {
+    "pokedexId": 704,
+    "formId": "goomy",
+    "pokemon": "Goomy",
+    "playerId": "11675",
+    "player": "Kool-Aid McKinstry",
+    "position": "S",
+    "team": "NO",
+    "fitScore": 0.1483
+  },
+  {
+    "pokedexId": 355,
+    "formId": "duskull",
+    "pokemon": "Duskull",
+    "playerId": "6855",
+    "player": "Ashtyn Davis",
+    "position": "S",
+    "team": "SF",
+    "fitScore": 0.1474
+  },
+  {
+    "pokedexId": 258,
+    "formId": "mudkip",
+    "pokemon": "Mudkip",
+    "playerId": "7637",
+    "player": "Zaven Collins",
+    "position": "LB",
+    "team": "ARI",
+    "fitScore": 0.1472
+  },
+  {
+    "pokedexId": 540,
+    "formId": "sewaddle",
+    "pokemon": "Sewaddle",
+    "playerId": "8001",
+    "player": "Malik Herring",
+    "position": "DL",
+    "team": "MIA",
+    "fitScore": 0.1468
+  },
+  {
+    "pokedexId": 255,
+    "formId": "torchic",
+    "pokemon": "Torchic",
+    "playerId": "11320",
+    "player": "Nikko Remigio",
+    "position": "WR",
+    "team": "KC",
+    "fitScore": 0.1468
+  },
+  {
+    "pokedexId": 353,
+    "formId": "shuppet",
+    "pokemon": "Shuppet",
+    "playerId": "12457",
+    "player": "Jaydon Blue",
+    "position": "RB",
+    "team": "PHI",
+    "fitScore": 0.1467
+  },
+  {
+    "pokedexId": 147,
+    "formId": "dratini",
+    "pokemon": "Dratini",
+    "playerId": "13165",
+    "player": "Easton Mascarenas-Arnold",
+    "position": "LB",
+    "team": "CLE",
+    "fitScore": 0.1456
+  },
+  {
+    "pokedexId": 690,
+    "formId": "skrelp",
+    "pokemon": "Skrelp",
+    "playerId": "11736",
+    "player": "Jordan Jefferson",
+    "position": "DL",
+    "team": "MIA",
+    "fitScore": 0.1453
+  },
+  {
+    "pokedexId": 69,
+    "formId": "bellsprout",
+    "pokemon": "Bellsprout",
+    "playerId": "5995",
+    "player": "Justice Hill",
+    "position": "RB",
+    "team": "BAL",
+    "fitScore": 0.1448
+  },
+  {
+    "pokedexId": 23,
+    "formId": "ekans",
+    "pokemon": "Ekans",
+    "playerId": "2427",
+    "player": "Za'Darius Smith",
+    "position": "LB",
+    "team": "ATL",
+    "fitScore": 0.1441
+  },
+  {
+    "pokedexId": 506,
+    "formId": "lillipup",
+    "pokemon": "Lillipup",
+    "playerId": "13531",
+    "player": "Jack Kelly",
+    "position": "LB",
+    "team": "NYG",
+    "fitScore": 0.1436
+  },
+  {
+    "pokedexId": 613,
+    "formId": "cubchoo",
+    "pokemon": "Cubchoo",
+    "playerId": "13424",
+    "player": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
+    "fitScore": 0.1429
+  },
+  {
+    "pokedexId": 708,
+    "formId": "phantump",
+    "pokemon": "Phantump",
+    "playerId": "13174",
+    "player": "Cooper McDonald",
+    "position": "LB",
+    "team": "KC",
+    "fitScore": 0.1415
+  },
+  {
+    "pokedexId": 152,
+    "formId": "chikorita",
+    "pokemon": "Chikorita",
+    "playerId": "8365",
+    "player": "Kyler Gordon",
+    "position": "S",
+    "team": "CHI",
+    "fitScore": 0.1402
+  },
+  {
+    "pokedexId": 582,
+    "formId": "vanillite",
+    "pokemon": "Vanillite",
+    "playerId": "7559",
+    "player": "Ihmir Smith-Marsette",
+    "position": "WR",
+    "team": "CAR",
+    "fitScore": 0.1395
+  },
+  {
+    "pokedexId": 459,
+    "formId": "snover",
+    "pokemon": "Snover",
+    "playerId": "4147",
+    "player": "Samaje Perine",
+    "position": "RB",
+    "team": "CIN",
+    "fitScore": 0.1389
+  },
+  {
+    "pokedexId": 692,
+    "formId": "clauncher",
+    "pokemon": "Clauncher",
+    "playerId": "7023",
+    "player": "Willie Gay Jr.",
+    "position": "LB",
+    "team": "MIA",
+    "fitScore": 0.1387
+  },
+  {
+    "pokedexId": 501,
+    "formId": "oshawott",
+    "pokemon": "Oshawott",
+    "playerId": "11306",
+    "player": "Xavier Gipson",
+    "position": "WR",
+    "team": "PHI",
+    "fitScore": 0.1387
+  },
+  {
+    "pokedexId": 263,
+    "formId": "zigzagoon",
+    "pokemon": "Zigzagoon",
+    "playerId": "11325",
+    "player": "Reese Taylor",
+    "position": "CB",
+    "team": "MIA",
+    "fitScore": 0.1375
+  },
+  {
+    "pokedexId": 543,
+    "formId": "venipede",
+    "pokemon": "Venipede",
+    "playerId": "13721",
+    "player": "Jack Dingle",
+    "position": "LB",
+    "team": "GB",
+    "fitScore": 0.1371
+  },
+  {
+    "pokedexId": 48,
+    "formId": "venonat",
+    "pokemon": "Venonat",
+    "playerId": "8207",
+    "player": "Tyler Goodson",
+    "position": "RB",
+    "team": "DAL",
+    "fitScore": 0.1359
+  },
+  {
+    "pokedexId": 39,
+    "formId": "jigglypuff",
+    "pokemon": "Jigglypuff",
+    "playerId": "12356",
+    "player": "Jabari Small",
+    "position": "RB",
+    "team": "DET",
+    "fitScore": 0.1351
+  },
+  {
+    "pokedexId": 7,
+    "formId": "squirtle",
+    "pokemon": "Squirtle",
+    "playerId": "6977",
+    "player": "Justin Strnad",
+    "position": "LB",
+    "team": "DEN",
+    "fitScore": 0.1326
+  },
+  {
+    "pokedexId": 361,
+    "formId": "snorunt",
+    "pokemon": "Snorunt",
+    "playerId": "6290",
+    "player": "Scotty Miller",
+    "position": "WR",
+    "team": "CHI",
+    "fitScore": 0.1323
+  },
+  {
+    "pokedexId": 32,
+    "formId": "nidoran-m",
+    "pokemon": "Nidoran M",
+    "playerId": "13603",
+    "player": "Gregory Desrosiers",
+    "position": "RB",
+    "team": "NYG",
+    "fitScore": 0.1318
+  },
+  {
+    "pokedexId": 46,
+    "formId": "paras",
+    "pokemon": "Paras",
+    "playerId": "11805",
+    "player": "Jamal Hill",
+    "position": "LB",
+    "team": "JAX",
+    "fitScore": 0.1313
+  },
+  {
+    "pokedexId": 393,
+    "formId": "piplup",
+    "pokemon": "Piplup",
+    "playerId": "13270",
+    "player": "CJ Daniels",
+    "position": "WR",
+    "team": "LAR",
+    "fitScore": 0.1283
+  },
+  {
+    "pokedexId": 659,
+    "formId": "bunnelby",
+    "pokemon": "Bunnelby",
+    "playerId": "11391",
+    "player": "Ethan Bonner",
+    "position": "CB",
+    "team": "MIA",
+    "fitScore": 0.1277
+  },
+  {
+    "pokedexId": 43,
+    "formId": "oddish",
+    "pokemon": "Oddish",
+    "playerId": "12542",
+    "player": "Efton Chism III",
+    "position": "WR",
+    "team": "NE",
+    "fitScore": 0.1269
+  },
+  {
+    "pokedexId": 422,
+    "formId": "shellos",
+    "pokemon": "Shellos",
+    "playerId": "12939",
+    "player": "Anthony Tyus III",
+    "position": "RB",
+    "team": "CAR",
+    "fitScore": 0.1259
+  },
+  {
+    "pokedexId": 132,
+    "formId": "ditto",
+    "pokemon": "Ditto",
+    "playerId": "11762",
+    "player": "Anthony Gould",
+    "position": "WR",
+    "team": "IND",
+    "fitScore": 0.1255
+  },
+  {
+    "pokedexId": 300,
+    "formId": "skitty",
+    "pokemon": "Skitty",
+    "playerId": "12650",
+    "player": "Danny Stutsman",
+    "position": "LB",
+    "team": "NO",
+    "fitScore": 0.1207
+  },
+  {
+    "pokedexId": 548,
+    "formId": "petilil",
+    "pokemon": "Petilil",
+    "playerId": "11257",
+    "player": "Shedrick Jackson",
+    "position": "WR",
+    "team": "ARI",
+    "fitScore": 0.1198
+  },
+  {
+    "pokedexId": 504,
+    "formId": "patrat",
+    "pokemon": "Patrat",
+    "playerId": "10935",
+    "player": "Trenton Simpson",
+    "position": "LB",
+    "team": "BAL",
+    "fitScore": 0.1195
+  },
+  {
+    "pokedexId": 420,
+    "formId": "cherubi",
+    "pokemon": "Cherubi",
+    "playerId": "7757",
+    "player": "Ben Skowronek",
+    "position": "WR",
+    "team": "PIT",
+    "fitScore": 0.1188
+  },
+  {
+    "pokedexId": 29,
+    "formId": "nidoran-f",
+    "pokemon": "Nidoran F",
+    "playerId": "5031",
+    "player": "Oren Burks",
+    "position": "LB",
+    "team": "CIN",
+    "fitScore": 0.1186
+  },
+  {
+    "pokedexId": 316,
+    "formId": "gulpin",
+    "pokemon": "Gulpin",
+    "playerId": "13887",
+    "player": "Nyzier Fourqurean",
+    "position": "CB",
+    "team": "LAR",
+    "fitScore": 0.1154
+  },
+  {
+    "pokedexId": 167,
+    "formId": "spinarak",
+    "pokemon": "Spinarak",
+    "playerId": "7014",
+    "player": "Joe Bachie",
+    "position": "LB",
+    "team": "DET",
+    "fitScore": 0.1138
+  },
+  {
+    "pokedexId": 285,
+    "formId": "shroomish",
+    "pokemon": "Shroomish",
+    "playerId": "11738",
+    "player": "Decamerion Richardson",
+    "position": "CB",
+    "team": "NO",
+    "fitScore": 0.1127
+  },
+  {
+    "pokedexId": 562,
+    "formId": "yamask",
+    "pokemon": "Yamask",
+    "playerId": "7653",
+    "player": "Azeez Ojulari",
+    "position": "LB",
+    "team": "LV",
+    "fitScore": 0.1115
+  },
+  {
+    "pokedexId": 183,
+    "formId": "marill",
+    "pokemon": "Marill",
+    "playerId": "12196",
+    "player": "Jayden Price",
+    "position": "CB",
+    "team": "NO",
+    "fitScore": 0.1112
+  },
+  {
+    "pokedexId": 440,
+    "formId": "happiny",
+    "pokemon": "Happiny",
+    "playerId": "12638",
+    "player": "Quincy Riley",
+    "position": "CB",
+    "team": "NO",
+    "fitScore": 0.1077
+  },
+  {
+    "pokedexId": 218,
+    "formId": "slugma",
+    "pokemon": "Slugma",
+    "playerId": "11068",
+    "player": "Mitch Tinsley",
+    "position": "WR",
+    "team": "CIN",
+    "fitScore": 0.1032
+  },
+  {
+    "pokedexId": 607,
+    "formId": "litwick",
+    "pokemon": "Litwick",
+    "playerId": "13318",
+    "player": "Noah Thomas",
+    "position": "WR",
+    "team": "CIN",
+    "fitScore": 0.0982
+  },
+  {
+    "pokedexId": 13,
+    "formId": "weedle",
+    "pokemon": "Weedle",
+    "playerId": "13670",
+    "player": "Harrison Wallace III",
+    "position": "WR",
+    "team": "ARI",
+    "fitScore": 0.097
+  },
+  {
+    "pokedexId": 293,
+    "formId": "whismur",
+    "pokemon": "Whismur",
+    "playerId": "13645",
+    "player": "Michael Wortham",
+    "position": "WR",
+    "team": "JAX",
+    "fitScore": 0.0953
+  },
+  {
+    "pokedexId": 363,
+    "formId": "spheal",
+    "pokemon": "Spheal",
+    "playerId": "5917",
+    "player": "Mecole Hardman Jr.",
+    "position": "WR",
+    "team": "IND",
+    "fitScore": 0.0947
+  },
+  {
+    "pokedexId": 10,
+    "formId": "caterpie",
+    "pokemon": "Caterpie",
+    "playerId": "8756",
+    "player": "Brandon Johnson",
+    "position": "WR",
+    "team": "PIT",
+    "fitScore": 0.0892
+  }
+]
