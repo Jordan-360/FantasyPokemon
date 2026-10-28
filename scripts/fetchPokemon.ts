@@ -23,6 +23,10 @@ const CACHE_DIR = path.resolve('.cache/pokemon')
 const OUT_FILE = path.resolve('src/data/pokemon.json')
 // Polite delay between uncached requests (ms)
 const REQUEST_DELAY_MS = 150
+// Only include Pokémon from Generations 1–6 (Bulbasaur → Volcanion, #1–721).
+// Gen 7+ introduces extreme outliers (Regieleki Speed 200, Ultra Beasts, etc.)
+// that dominate the top matches and leave mid-tier Pokémon mismatched.
+const MAX_POKEDEX_ID = 721
 
 // PokeAPI stat name → our field name
 const STAT_MAP: Record<string, keyof Pokemon> = {
@@ -134,8 +138,11 @@ async function main() {
     `${POKEAPI}/pokemon-species?limit=1500`,
   )) as PokeAPIPokemonListResponse
 
-  const slugs = listData.results.map((r) => r.name)
-  console.log(`Found ${slugs.length} species (base forms only)`)
+  // The species list is ordered by pokedex id, so we can slice at MAX_POKEDEX_ID.
+  const slugs = listData.results.slice(0, MAX_POKEDEX_ID).map((r) => r.name)
+  console.log(
+    `Found ${slugs.length} species (Gen 1–6, pokedex #1–${MAX_POKEDEX_ID})`,
+  )
 
   const pokemon: Pokemon[] = []
   let fetched = 0
@@ -240,7 +247,7 @@ async function main() {
 
   fs.writeFileSync(OUT_FILE, JSON.stringify(pokemon, null, 2))
   console.log(
-    `\nWrote ${pokemon.length} base-form Pokémon to src/data/pokemon.json`,
+    `\nWrote ${pokemon.length} Pokémon (Gen 1–6) to src/data/pokemon.json`,
     `(${fetched} fetched, ${fromCache} from cache)`,
   )
 }
