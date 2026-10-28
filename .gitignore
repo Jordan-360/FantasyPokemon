@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# PokeAPI response cache (populated by scripts/fetchPokemon.ts)
+.cache/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
