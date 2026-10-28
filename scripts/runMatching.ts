@@ -44,7 +44,7 @@ async function main() {
   console.log('Scoring context built')
   console.log(`  BST range: ${ctx.bstRange.min} – ${ctx.bstRange.max}`)
   console.log(
-    `  searchRank range: ${ctx.playerRankRange.min} – ${ctx.playerRankRange.max}`,
+    `  Players with talent scores: ${Object.keys(ctx.playerTalent).length}`,
   )
 
   // Run the stable matching algorithm
