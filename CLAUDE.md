@@ -54,12 +54,18 @@ types/ # shared types
 
 ## Data shapes
 
-[Fill in as types are defined in src/types/]
+- `types/pair.ts`: `RawPair` (pairs.json entry: Pokémon + `nfl` player, keyed by `id` '001'), `Pair` adds `projectedPPG`
+- `types/dst.ts`: `RawDstUnit` (team, 12 member pair ids, `dominantType`), `DstUnit` adds `projectedPPG` + avg `maddenOvr`
+- `types/points.ts`: `WeeklyPointsFile` (`weeks['1'].players[gsisId]` / `.dst[team]`), `ProjectionsFile`
+- `types/draft.ts`: `Draftable` (offense pair or `DST-<team>`), `DraftState` (settings, snake `order`, `picks`)
+- Load data through `src/data/loaders.ts`; engine functions take data as arguments
 
 ## Commands
 
 - `npm run dev`: start dev server
 - `npm run build`: production build
+- `npm test`: run Vitest once (`npm run test:watch` to watch)
+- `npm run refresh:points`: pull nflverse stats, regenerate weekly_points.json + projections.json (`-- --offline` uses .cache/)
 - `npm run lint`: run ESLint
 - `npm run format`: format with Prettier
 - `npm run format:check`: check formatting

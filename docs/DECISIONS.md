@@ -93,3 +93,28 @@ against every rostered player, so many pairs were backups who never score).
 **Note:** Madden ratings in `pairs.json` were joined by hand because EA has no
 API. That breaks the "never hand-edit generated JSON" rule for this one file,
 so don't regenerate it without re-joining Madden.
+
+## 2026-10-28: Projections and weekly points are separate generated files
+
+**Decision:** `scripts/refreshWeeklyPoints.ts` writes `src/data/weekly_points.json`
+and `src/data/projections.json`. The loaders in `src/data/loaders.ts` join the
+projections onto pairs and D/ST units as `projectedPPG`.
+**Why:** `pairs.json` is fixed for the season, but stats change every week.
+Keeping them in separate files means a weekly refresh never rewrites the pairs.
+Each week stores `players` (by gsisId) and `dst` (by team) as separate maps
+instead of one mixed map as SPEC §1 sketches, so the two id spaces can't collide.
+**Scoring:** Offense uses nflverse `fantasy_points_ppr` (ESPN PPR). K and D/ST
+use ESPN standard scoring, defined as constants in the script. D/ST "points
+allowed" is the opponent's final score (ESPN leaves out points the offense
+gave up; nflverse doesn't split that out).
+
+## 2026-10-28: Draft engine guardrails beyond the spec
+
+**Decision:** The CPU pick score follows SPEC §3. On top of that, the engine
+(a) never picks a position whose need multiplier is 0, and (b) only fills
+open starting slots once the picks left equal the slots left (K/D/ST still
+wait for the final 2 rounds unless nothing else can fill a slot).
+**Why:** VOR goes negative late in the draft, and `negative × 0` = 0 would
+make a 3rd QB look better than any real option. Rule (b) guarantees the spec's
+sanity checks (every slot filled, never 2 K or 2 D/ST) instead of just
+hoping for them.
