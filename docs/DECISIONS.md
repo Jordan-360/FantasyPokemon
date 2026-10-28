@@ -40,6 +40,35 @@ spread of talent.
 **Alternatives:** Pure stat-similarity matching, or straight rank order by
 base stat total.
 
+## 2026-10-27: Gale-Shapley stable matching replaces hybrid rank-order
+
+**Decision:** Use the Gale-Shapley algorithm (Pokémon propose, players hold best offer)
+to produce a stable one-to-one mapping between every Pokémon form and an active NFL player.
+**Why stable matching:** The previous hybrid approach assigned Pokémon to positions greedily
+by rank. A greedy pass can leave a better-fit Pokémon stranded once all good players at its
+natural position are taken. Gale-Shapley guarantees no such "blocking pair" — no unmatched
+Pokémon and player would both prefer each other over their current partners.
+**Scoring (fitScore):** Four components, all normalized to [0, 1], weighted in one exported
+config object so weights are easy to tune:
+
+- **Stat score (60%):** position-specific base-stat weights (QB favors Sp. Atk + Sp. Def +
+  Speed; WR favors Speed + Sp. Atk; DL favors HP + Defense + Attack; etc.). Divided by 255
+  (max stat) to normalize.
+- **Type affinity (10%):** binary bonus if the Pokémon's type matches the position (Psychic →
+  QB, Fighting/Ground → RB, Flying/Electric → WR/CB, Rock/Steel → DL, etc.). Kept small so
+  it tips ties rather than overriding stats.
+- **Physical fit (15%):** Pokémon height (dm → inches) and weight (hg → lbs) compared to the
+  position's mean body type via a Gaussian kernel in z-score space. Uses position-level means
+  so big, heavy Pokémon naturally fit DL/TE and light, small Pokémon fit WR/CB.
+- **Talent tier (15%):** normalized BST (base stat total) should align with normalized player
+  rank (lower searchRank = better). Scored as 1 − |normalizedBST − playerTalent|, so legendary
+  Pokémon land with elite players and weak ones land with backups.
+  **Scope:** All Pokémon forms across all generations (Megas, regional variants, Gigantamax, etc.),
+  globally matched against all active rostered NFL players (excluding OL, LS, P). Position on
+  the output mapping comes from the matched player's NFL position.
+  **Alternatives:** Greedy rank-order within pre-assigned position buckets (simpler but unstable
+  and position distribution depends on assignment order).
+
 ## 2026-10-13: Game logic separated from UI
 
 **Decision:** All rules live in src/engine/ as pure TypeScript.
