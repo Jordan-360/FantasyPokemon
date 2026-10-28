@@ -3,7 +3,7 @@ FantasyPokemon — Pokémon ↔ NFL starter matching.
 
 Rebuilds the 704 Pokémon–player pairs (Gens 1–6) from public data.
 Madden ratings are NOT fetched here (EA has no public API); they were
-joined separately and live in data/pairs.json.
+joined separately and live in src/data/pairs.json.
 
 Inputs (download into one folder and pass it as --data):
   PokeAPI CSVs   https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv

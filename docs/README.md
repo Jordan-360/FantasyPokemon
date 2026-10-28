@@ -1,8 +1,8 @@
 # FantasyPokemon
 
 An ESPN-style fantasy football league where every player is a Pokémon.
-Each of the original 151 Pokémon is mapped to a real NFL player by its base
-stats, then drafted, started, and simulated through a season.
+704 Pokémon (Gens 1–6) are each paired with a real NFL starter, then drafted,
+started, and scored from real 2026 NFL stats with a Pokémon layer on top.
 
 ## Stack
 

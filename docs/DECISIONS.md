@@ -42,6 +42,9 @@ base stat total.
 
 ## 2026-10-27: Gale-Shapley stable matching replaces hybrid rank-order
 
+> **Superseded 2026-10-28** by "Fixed pairs from the planning handoff" below.
+> The Gale-Shapley code was removed; it is still in git history.
+
 **Decision:** Use the Gale-Shapley algorithm (Pokémon propose, players hold best offer)
 to produce a stable one-to-one mapping between every Pokémon form and an active NFL player.
 **Why stable matching:** The previous hybrid approach assigned Pokémon to positions greedily
@@ -74,3 +77,19 @@ config object so weights are easy to tune:
 **Decision:** All rules live in src/engine/ as pure TypeScript.
 **Why:** Testable without rendering, easier to reason about, and the UI can
 change freely.
+
+## 2026-10-28: Fixed pairs from the planning handoff
+
+**Decision:** Replace the Gale-Shapley pipeline with the 704 fixed pairs in
+`src/data/pairs.json` (rebuilt by `scripts/match_pairs.py`). The pool is every
+NFL team's 22 depth-chart starters. Pokémon positions come from stat _shape_
+via an optimal assignment (Hungarian algorithm), then pair rank-for-rank with
+players by per-game production. Defensive Pokémon form a team D/ST
+(`src/data/dst_units.json`) instead of being drafted on their own.
+**Why:** Starters only means every pair is someone who actually scores. Fixed
+slot quotas guarantee a balanced draft pool, and pairs stay fixed for a season.
+**Alternatives:** Keep tuning `fitScore` weights (the old approach matched
+against every rostered player, so many pairs were backups who never score).
+**Note:** Madden ratings in `pairs.json` were joined by hand because EA has no
+API. That breaks the "never hand-edit generated JSON" rule for this one file,
+so don't regenerate it without re-joining Madden.

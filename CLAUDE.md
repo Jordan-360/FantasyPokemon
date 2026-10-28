@@ -1,9 +1,10 @@
 # FantasyPokemon
 
 An ESPN-style fantasy football league where every player is a Pokémon.
-Each of the original 151 Pokémon is mapped to a real NFL player and inherits
-that player's position and rank. Draft a team against CPU managers, set
-lineups, and simulate weeks to build a season record.
+704 Pokémon (Gens 1–6) are each paired with a real NFL starter and inherit
+that player's position and real weekly production. Draft against 9 CPU
+managers, set lineups, and play out the 2026 season with real NFL stats plus a
+Pokémon layer (type matchups, evolution). Full game rules: docs/SPEC.md.
 
 Portfolio + learning project: production-grade habits, React + TypeScript fluency.
 
@@ -36,19 +37,20 @@ Portfolio + learning project: production-grade habits, React + TypeScript fluenc
 
 ## Folder structure
 
-scripts/ # data-pull scripts (PokeAPI, Sleeper)
+scripts/ # data scripts (pairing, weekly points refresh)
 src/
 components/ # UI
 hooks/ # custom hooks
 data/ # generated JSON + constants
-engine/ # matching, draft, schedule, simulation
+engine/ # draft, schedule, simulation
 storage/ # persistence layer
 types/ # shared types
 
 ## Data sources
 
-- PokeAPI: base stats, types, sprites for Pokémon #1–151
-- Sleeper public API: active NFL players, positions, rankings
+- PokeAPI: base stats, types, evolution chains for Pokémon #1–721
+- nflverse: depth charts, weekly player/team stats, schedules
+- EA Madden NFL 27 ratings (joined by hand into pairs.json; no public API)
 
 ## Data shapes
 

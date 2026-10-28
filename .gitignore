@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-# PokeAPI response cache (populated by scripts/fetchPokemon.ts)
+# Downloaded source CSVs (populated by scripts/refreshWeeklyPoints.ts)
 .cache/
 
 # Editor directories and files
