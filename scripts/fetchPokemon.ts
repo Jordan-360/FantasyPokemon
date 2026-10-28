@@ -39,7 +39,8 @@ function sleep(ms: number) {
 }
 
 // Read from cache if present; otherwise fetch and cache.
-async function cachedFetch(slug: string, url: string): Promise<unknown> {
+// Returns null (instead of throwing) when the server responds with 404.
+async function cachedFetch(slug: string, url: string): Promise<unknown | null> {
   fs.mkdirSync(CACHE_DIR, { recursive: true })
   const cacheFile = path.join(CACHE_DIR, `${slug}.json`)
 
@@ -49,10 +50,26 @@ async function cachedFetch(slug: string, url: string): Promise<unknown> {
 
   await sleep(REQUEST_DELAY_MS)
   const res = await fetch(url)
+  if (res.status === 404) return null
   if (!res.ok) throw new Error(`PokeAPI ${res.status}: ${url}`)
   const data = await res.json()
   fs.writeFileSync(cacheFile, JSON.stringify(data))
   return data
+}
+
+// Some species have a default form slug that differs from the species name
+// (e.g. "deoxys" → "deoxys-normal", "giratina" → "giratina-altered").
+// This fetches the species detail and returns the is_default variety's slug.
+async function resolveDefaultFormSlug(
+  speciesSlug: string,
+): Promise<string | null> {
+  const species = (await cachedFetch(
+    `__species_${speciesSlug}`,
+    `${POKEAPI}/pokemon-species/${speciesSlug}`,
+  )) as PokeAPISpecies | null
+  if (!species) return null
+  const defaultVariety = species.varieties.find((v) => v.is_default)
+  return defaultVariety?.pokemon.name ?? null
 }
 
 interface PokeAPINamedResource {
@@ -73,6 +90,10 @@ interface PokeAPIPokemon {
   height: number
   weight: number
   species: PokeAPINamedResource
+}
+
+interface PokeAPISpecies {
+  varieties: { is_default: boolean; pokemon: PokeAPINamedResource }[]
 }
 
 // Extract the species (pokedex) id from a species URL like
@@ -125,16 +146,39 @@ async function main() {
     const cacheFile = path.join(CACHE_DIR, `${slug}.json`)
     const wasCached = fs.existsSync(cacheFile)
 
+    // Try the species name as the pokemon slug first (works for most Pokémon).
+    // If the API returns 404, some species use a different default-form slug
+    // (e.g. "deoxys" → "deoxys-normal"). Look it up via the species endpoint.
+    let pokemonSlug = slug
+    let rawData = await cachedFetch(slug, `${POKEAPI}/pokemon/${slug}`)
+
+    if (rawData === null) {
+      const resolved = await resolveDefaultFormSlug(slug)
+      if (!resolved) {
+        console.warn(`  Skipping ${slug}: no default form found`)
+        continue
+      }
+      pokemonSlug = resolved
+      rawData = await cachedFetch(
+        pokemonSlug,
+        `${POKEAPI}/pokemon/${pokemonSlug}`,
+      )
+      if (rawData === null) {
+        console.warn(
+          `  Skipping ${slug}: resolved to ${pokemonSlug} but still 404`,
+        )
+        continue
+      }
+    }
+
     let data: PokeAPIPokemon
     try {
-      data = (await cachedFetch(
-        slug,
-        `${POKEAPI}/pokemon/${slug}`,
-      )) as PokeAPIPokemon
+      data = rawData as PokeAPIPokemon
     } catch (err) {
       console.warn(`  Skipping ${slug}: ${(err as Error).message}`)
       continue
     }
+    void pokemonSlug // used for cache key above; data.name is the canonical slug
 
     if (wasCached) {
       fromCache++

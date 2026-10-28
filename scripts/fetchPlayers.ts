@@ -63,6 +63,7 @@ function normalizePosition(raw: string): string | null {
     case 'S':
     case 'FS':
     case 'SS':
+    case 'DB': // Sleeper uses DB as a catch-all for safeties
       return 'S'
     default:
       return null // excluded or unknown
