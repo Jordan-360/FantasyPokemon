@@ -1,7 +1,11 @@
 /**
- * Fetches every Pokémon form from PokeAPI (all generations, including Megas,
- * regional variants, Gigantamax, and other alternate forms) and writes the
- * result to src/data/pokemon.json.
+ * Fetches one base-form Pokémon per species across all generations and writes
+ * the result to src/data/pokemon.json.
+ *
+ * Strategy: pull the full species list from /pokemon-species, then fetch
+ * /pokemon/{species-name} for each entry. The species name is the same slug
+ * as the default (base) form, so Megas, regional variants, Gigantamax forms,
+ * etc. are automatically excluded.
  *
  * Caching: each raw PokeAPI response is saved to .cache/pokemon/<slug>.json so
  * reruns don't refetch already-downloaded data. Only missing slugs hit the
@@ -100,16 +104,17 @@ function capitalize(s: string): string {
 }
 
 async function main() {
-  // Step 1: get the full list of all pokemon form slugs from PokeAPI.
-  // /pokemon?limit=2000 returns every entry (base forms + alt forms) in one page.
-  console.log('Fetching Pokémon index…')
+  // Step 1: get the species list — one entry per Pokémon, all generations.
+  // Species names double as the default-form pokemon slugs, so fetching
+  // /pokemon/{species-name} always returns the base form (not a mega, etc.).
+  console.log('Fetching Pokémon species list…')
   const listData = (await cachedFetch(
-    '__pokemon_list',
-    `${POKEAPI}/pokemon?limit=2000`,
+    '__species_list',
+    `${POKEAPI}/pokemon-species?limit=1500`,
   )) as PokeAPIPokemonListResponse
 
   const slugs = listData.results.map((r) => r.name)
-  console.log(`Found ${slugs.length} Pokémon forms in index`)
+  console.log(`Found ${slugs.length} species (base forms only)`)
 
   const pokemon: Pokemon[] = []
   let fetched = 0
@@ -186,14 +191,12 @@ async function main() {
     }
   }
 
-  // Sort by pokedexId, then formId so the file is stable across reruns
-  pokemon.sort(
-    (a, b) => a.pokedexId - b.pokedexId || a.formId.localeCompare(b.formId),
-  )
+  // Sort by pokedexId so the file is stable across reruns
+  pokemon.sort((a, b) => a.pokedexId - b.pokedexId)
 
   fs.writeFileSync(OUT_FILE, JSON.stringify(pokemon, null, 2))
   console.log(
-    `\nWrote ${pokemon.length} Pokémon to src/data/pokemon.json`,
+    `\nWrote ${pokemon.length} base-form Pokémon to src/data/pokemon.json`,
     `(${fetched} fetched, ${fromCache} from cache)`,
   )
 }

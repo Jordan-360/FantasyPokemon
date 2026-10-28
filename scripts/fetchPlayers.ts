@@ -2,7 +2,13 @@
  * Fetches active NFL players from Sleeper's public API and writes the result
  * to src/data/nflPlayers.json.
  *
- * Filters: active status, on a team, non-OL/LS/P positions.
+ * Filters:
+ *   1. Active status, on a roster.
+ *   2. Non-OL/LS/P positions.
+ *   3. First-string only: for each (team, position) group, keeps the top N
+ *      players by searchRank (lower = better). Roughly 22 per team × 32 teams
+ *      = 704 players, matching the number of base-form Pokémon.
+ *
  * Position normalization: DT/DE → DL, OLB/ILB/MLB → LB, FS/SS → S.
  *
  * Run with: npx tsx scripts/fetchPlayers.ts
@@ -16,6 +22,20 @@ const OUT_FILE = 'src/data/nflPlayers.json'
 
 // Positions to exclude entirely (offensive line, long snapper, punter)
 const EXCLUDED_POSITIONS = new Set(['OT', 'OG', 'C', 'OL', 'LS', 'P', 'G', 'T'])
+
+// How many first-string players to keep per (team, position) group.
+// 1+2+4+2+1+4+3+3+2 = 22 per team × 32 teams = 704 max.
+const STARTERS_PER_POSITION: Record<string, number> = {
+  QB: 1,
+  RB: 2,
+  WR: 4,
+  TE: 2,
+  K: 1,
+  DL: 4,
+  LB: 3,
+  CB: 3,
+  S: 2,
+}
 
 // Normalize Sleeper's granular positions into the 9 positions used by the app
 function normalizePosition(raw: string): string | null {
@@ -135,18 +155,38 @@ async function main() {
     })
   }
 
-  // Sort by searchRank ascending (best players first) for readability
-  players.sort((a, b) => a.searchRank - b.searchRank)
+  // --- First-string filter ---
+  // For each (team, position) group, keep the top N players by searchRank.
+  const grouped: Record<string, NFLPlayer[]> = {}
+  for (const p of players) {
+    const key = `${p.team}:${p.position}`
+    grouped[key] ??= []
+    grouped[key].push(p)
+  }
 
-  fs.writeFileSync(OUT_FILE, JSON.stringify(players, null, 2))
+  const firstString: NFLPlayer[] = []
+  for (const [key, group] of Object.entries(grouped)) {
+    const pos = key.split(':')[1]
+    const limit = STARTERS_PER_POSITION[pos] ?? 0
+    if (limit === 0) continue
+    group.sort((a, b) => a.searchRank - b.searchRank)
+    firstString.push(...group.slice(0, limit))
+  }
+
+  // Sort the final list by searchRank ascending (best players first)
+  firstString.sort((a, b) => a.searchRank - b.searchRank)
+
+  fs.writeFileSync(OUT_FILE, JSON.stringify(firstString, null, 2))
 
   // Position breakdown for a quick sanity check
   const byPos: Record<string, number> = {}
-  for (const p of players) byPos[p.position] = (byPos[p.position] ?? 0) + 1
+  for (const p of firstString) byPos[p.position] = (byPos[p.position] ?? 0) + 1
 
-  console.log(`\nWrote ${players.length} players to ${OUT_FILE}`)
-  console.log('Skipped:', skipped)
+  console.log(`\nAll eligible players: ${players.length}`)
+  console.log(`First-string kept:    ${firstString.length}`)
+  console.log('Skipped (pre-filter):', skipped)
   console.log('By position:', byPos)
+  console.log(`\nWrote ${firstString.length} players to ${OUT_FILE}`)
 }
 
 main().catch((err) => {

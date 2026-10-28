@@ -19,33 +19,36 @@ import type { ScoringContext } from '../types/matching.js'
 export const SCORING_CONFIG = {
   // Top-level component weights. Must sum to 1.
   weights: {
-    stat: 0.6, // dominant: base stats drive the match
+    stat: 0.7, // dominant: base stats drive the match
     typeAffinity: 0.1, // small type bonus on top
-    physicalFit: 0.15, // body-size match to the position's typical profile
-    talentTier: 0.15, // legendary Pokémon → elite players; weak Pokémon → backups
+    // Physical fit is 0: Pokémon sizes are fictional (Wailord = 14.5m,
+    // Flabébé = 0.1m) so body-size comparison to human athletes is noise.
+    physicalFit: 0.0,
+    talentTier: 0.2, // legendary Pokémon → elite players; weak → backups
   },
 
   // Per-position stat weights. Each set must sum to 1.0.
   // Stat keys match Pokemon interface fields.
   positionStats: {
-    // QB: cerebral + mobile. Sp. Atk = arm IQ, Sp. Def = reading the defense.
+    // QB: cerebral + mobile. Sp. Atk = arm talent, Sp. Def = reading the defense.
     QB: { spAttack: 0.35, spDefense: 0.35, speed: 0.3 },
-    // RB: physical, tough, fast.
-    RB: { attack: 0.4, hp: 0.3, speed: 0.3 },
-    // WR: speed-first, then route quickness (Sp. Atk proxy).
-    WR: { speed: 0.55, spAttack: 0.45 },
-    // TE: balanced blocker/receiver.
-    TE: { attack: 0.35, defense: 0.35, speed: 0.3 },
-    // K: pure precision — Sp. Atk models accuracy.
-    K: { spAttack: 1.0 },
-    // DL: big, strong, durable.
-    DL: { hp: 0.35, defense: 0.35, attack: 0.3 },
-    // LB: can hit (attack), hold ground (defense), and chase (speed).
-    LB: { attack: 0.35, defense: 0.35, speed: 0.3 },
-    // CB: cover corner — speed and Sp. Def (pass coverage intuition).
-    CB: { speed: 0.6, spDefense: 0.4 },
-    // S: safety — slightly less speed-reliant than CB, more instinct (Sp. Def).
-    S: { speed: 0.55, spDefense: 0.45 },
+    // RB: speed-first back, physical with durability.
+    RB: { speed: 0.4, attack: 0.35, hp: 0.25 },
+    // WR: pure speed, then separation quickness (Sp. Atk proxy).
+    WR: { speed: 0.6, spAttack: 0.4 },
+    // TE: blocking (attack) first, then athleticism (speed) and anchor (defense).
+    TE: { attack: 0.4, speed: 0.3, defense: 0.3 },
+    // K: leg strength (attack) + accuracy (Sp. Atk) + composure (Sp. Def).
+    // Deliberately spread so pure Sp. Atk specialists don't dominate this slot.
+    K: { spAttack: 0.5, attack: 0.3, spDefense: 0.2 },
+    // DL: holding the line (defense) is paramount; attack = pass rush; hp = bulk.
+    DL: { defense: 0.4, attack: 0.3, hp: 0.3 },
+    // LB: motor (attack), pursuit speed, gap control (defense).
+    LB: { attack: 0.4, speed: 0.35, defense: 0.25 },
+    // CB: elite speed required, then ball-hawk instinct (Sp. Def).
+    CB: { speed: 0.65, spDefense: 0.35 },
+    // S: equal parts closing speed and deep-zone instinct (Sp. Def).
+    S: { speed: 0.5, spDefense: 0.5 },
   } as Record<string, Record<string, number>>,
 
   // Type affinities: having any matching type gives a bonus.
